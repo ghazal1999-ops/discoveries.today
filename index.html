@@ -570,8 +570,8 @@ footer {
 <!-- HERO -->
 <section class="hero">
   <div class="hero-kicker">Live · Updated Daily</div>
-  <h1>Today's <em>Top Discoveries</em></h1>
-  <p class="hero-sub">The most remarkable breakthroughs, inventions, and scientific discoveries from around the world — refreshed every day.</p>
+  <h1>Today's <em>Top 5 Discoveries</em></h1>
+  <p class="hero-sub">The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world — updated every night by GitHub Actions.</p>
 
   <div class="filter-bar" id="filter-bar">
     <button class="filter-btn active" data-cat="all">All Fields</button>
@@ -589,22 +589,19 @@ footer {
 
 <footer>
   <div class="footer-text">
-    Powered by Google Custom Search · Results cached daily · Auto-refreshes each new day<br>
+    Powered by discoveries.json · Update the file daily to refresh content · No API keys required<br>
     discoveries.today — because the world never stops being amazing
   </div>
 </footer>
 
 <script>
-// ── YOUR GOOGLE CREDENTIALS ─────────────────────────────────────────────────
-// Paste your values here and save. They are also stored in localStorage so you
-// only need to enter them once via the setup screen.
-const HARDCODED_API_KEY = '';   // e.g. 'AIzaSy...'
-const HARDCODED_CX      = '';   // e.g. '012345678901234567890:abcdefghijk'
+// ── SOURCE FILE ──────────────────────────────────────────────────────────────
+// Update discoveries.json daily (manually or via a script) and this page will
+// automatically display the new content. No API keys required.
+const JSON_PATH = 'discoveries.json';
 // ────────────────────────────────────────────────────────────────────────────
 
-const CACHE_KEY    = 'discoveries_cache';
-const GCS_KEY_KEY  = 'gcs_api_key';
-const GCS_CX_KEY   = 'gcs_cx';
+const CACHE_KEY = 'discoveries_cache';
 
 const todayStr = () => new Date().toISOString().slice(0, 10);
 
@@ -616,29 +613,6 @@ document.getElementById('topbar-date').textContent = fmt(todayStr());
 
 let allDiscoveries = [];
 let activeFilter   = 'all';
-
-// ── Helpers ──────────────────────────────────────────────────────────────────
-
-function getCredentials() {
-  return {
-    apiKey: HARDCODED_API_KEY || localStorage.getItem(GCS_KEY_KEY) || '',
-    cx:     HARDCODED_CX      || localStorage.getItem(GCS_CX_KEY)  || ''
-  };
-}
-
-// Guess a category from the result title + snippet
-function guessCategory(text = '') {
-  const t = text.toLowerCase();
-  if (/space|nasa|esa|asteroid|comet|planet|galaxy|telescope|orbit|lunar|mars|webb/.test(t))    return 'Space';
-  if (/cancer|vaccine|drug|clinical|patient|disease|genome|surgery|therapy|medicine|health/.test(t)) return 'Medicine';
-  if (/ai|artificial intelligence|machine learning|robot|llm|neural|gpt|chatbot|compute/.test(t))    return 'AI & Tech';
-  if (/climat|carbon|emission|renewabl|solar|wind energy|glacier|ocean warm|fossil/.test(t))         return 'Climate';
-  if (/species|fossil|evolution|gene|dna|rna|cell|microb|bacteria|virus|protein|animal/.test(t))     return 'Biology';
-  if (/quantum|particle|physics|nuclear|higgs|gravitational|dark matter|neutron|photon/.test(t))      return 'Physics';
-  if (/material|engineer|battery|semiconductor|chip|3d print|alloy|superconductor/.test(t))          return 'Engineering';
-  if (/chemical|molecule|compound|element|catalyst|reaction|polymer/.test(t))                        return 'Chemistry';
-  return 'Science';
-}
 
 function catClass(cat = '') {
   const c = cat.toLowerCase();
@@ -665,26 +639,6 @@ function catFilterMatch(cat = '', filter) {
   return false;
 }
 
-// Extract the domain name to use as "source"
-function domainOf(url = '') {
-  try { return new URL(url).hostname.replace(/^www\./, ''); }
-  catch { return ''; }
-}
-
-// Map a Google Custom Search item → our discovery object
-function mapItem(item, index) {
-  const combined  = `${item.title} ${item.snippet}`;
-  const category  = guessCategory(combined);
-  return {
-    title:      item.title,
-    summary:    item.snippet || '',
-    category,
-    source:     domainOf(item.link),
-    source_url: item.link,
-    impact:     Math.max(1, Math.min(5, 5 - Math.floor(index / 2)))   // top results score higher
-  };
-}
-
 // ── Render: loading ───────────────────────────────────────────────────────────
 
 function renderSkeletons() {
@@ -693,9 +647,9 @@ function renderSkeletons() {
       <div class="loading-orb"></div>
       <div class="loading-text">Searching the world for today's breakthroughs…</div>
       <div class="loading-steps">
-        <div class="step active" id="step1">Querying Google Search</div>
-        <div class="step"        id="step2">Filtering science results</div>
-        <div class="step"        id="step3">Ranking by relevance</div>
+        <div class="step active" id="step1">Reading discoveries.json</div>
+        <div class="step"        id="step2">Parsing today's items</div>
+        <div class="step"        id="step3">Ranking by impact</div>
         <div class="step"        id="step4">Building your feed</div>
       </div>
     </div>`;
@@ -711,33 +665,7 @@ function renderSkeletons() {
   }, 1200);
 }
 
-// ── Render: setup screen (first-time credential entry) ───────────────────────
-
-function renderSetup(errorMsg = '') {
-  document.getElementById('app').innerHTML = `
-    <div class="error-state">
-      <div class="error-icon">🔭</div>
-      <div class="error-title">Connect Google Custom Search</div>
-      <div class="error-body">
-        ${errorMsg ? `<p style="color:var(--accent);margin-bottom:12px;">${errorMsg}</p>` : ''}
-        Enter your free Google API credentials below — stored only in your browser.
-        <br><br>
-        <strong>How to get them (2 min):</strong><br>
-        1. <a href="https://console.cloud.google.com/apis/library/customsearch.googleapis.com" target="_blank" style="color:var(--glow)">Enable the Custom Search API</a> → create an API key.<br>
-        2. Go to <a href="https://programmablesearchengine.google.com/" target="_blank" style="color:var(--glow)">Programmable Search Engine</a> → New engine → search the whole web → copy the <em>Search engine ID (cx)</em>.
-      </div>
-
-      <label style="display:block;text-align:left;font-size:12px;font-family:'Geist Mono',monospace;color:var(--ink-muted);margin-bottom:4px;">Google API Key</label>
-      <input class="api-key-input" id="gcs-key-field"  type="password" placeholder="AIzaSy…" />
-
-      <label style="display:block;text-align:left;font-size:12px;font-family:'Geist Mono',monospace;color:var(--ink-muted);margin:12px 0 4px;">Search Engine ID (cx)</label>
-      <input class="api-key-input" id="gcs-cx-field" type="text" placeholder="012345678901234567890:xxxxxxxxxx" />
-
-      <button class="save-key-btn" onclick="saveCredentials()" style="margin-top:16px;">Save & Load Discoveries</button>
-    </div>`;
-}
-
-// ── Render: error (non-setup) ─────────────────────────────────────────────────
+// ── Render: error ─────────────────────────────────────────────────────────────
 
 function renderError(msg) {
   document.getElementById('app').innerHTML = `
@@ -745,10 +673,7 @@ function renderError(msg) {
       <div class="error-icon">🔭</div>
       <div class="error-title">Couldn't load discoveries</div>
       <div class="error-body">${msg}</div>
-      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:8px;">
-        <button class="save-key-btn" onclick="fetchDiscoveries(true)" style="background:var(--glow);">Try Again</button>
-        <button class="save-key-btn" onclick="renderSetup()" style="background:transparent;border:1px solid var(--border-strong);color:var(--ink-soft);">Change Credentials</button>
-      </div>
+      <button class="save-key-btn" onclick="fetchDiscoveries(true)" style="background:var(--glow);">Try Again</button>
     </div>`;
 }
 
@@ -760,7 +685,7 @@ function renderCards(discoveries) {
     : discoveries.filter(d => catFilterMatch(d.category, activeFilter));
 
   const countEl = document.getElementById('topbar-count');
-  countEl.textContent = `${filtered.length} discoveries`;
+  countEl.textContent = `${filtered.length} of 5 today`;
   countEl.style.display = 'block';
 
   const app = document.getElementById('app');
@@ -781,7 +706,7 @@ function renderCards(discoveries) {
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
           <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
         </svg>
-        Google Custom Search · Fetched ${lastUpdated} · Auto-refreshes each new day
+        discoveries.json · Fetched ${lastUpdated} · Update the file daily to refresh content
       </div>
     </div>` : '';
 
@@ -822,11 +747,9 @@ function renderCards(discoveries) {
     ${freshHTML}
     <div class="controls">
       <span class="result-label">
-        Showing ${filtered.length} of ${discoveries.length} results · ${fmt(todayStr())}
+        Top 5 discoveries · ${fmt(todayStr())}
       </span>
       <div style="display:flex;gap:8px;align-items:center;">
-        <button class="refresh-btn" style="background:transparent;border:1px solid var(--border-strong);color:var(--ink-soft);font-size:12px;padding:7px 14px;"
-                onclick="renderSetup()">⚙ Credentials</button>
         <button class="refresh-btn" id="refresh-btn" onclick="fetchDiscoveries(true)">
           <svg class="refresh-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
             <path d="M23 4v6h-6M1 20v-6h6"/>
@@ -850,34 +773,16 @@ document.getElementById('filter-bar').addEventListener('click', e => {
   if (allDiscoveries.length > 0) renderCards(allDiscoveries);
 });
 
-// ── Save credentials ──────────────────────────────────────────────────────────
-
-function saveCredentials() {
-  const key = document.getElementById('gcs-key-field')?.value?.trim();
-  const cx  = document.getElementById('gcs-cx-field')?.value?.trim();
-  if (!key) { alert('Please enter your Google API key.'); return; }
-  if (!cx)  { alert('Please enter your Search Engine ID (cx).'); return; }
-  localStorage.setItem(GCS_KEY_KEY, key);
-  localStorage.setItem(GCS_CX_KEY,  cx);
-  fetchDiscoveries(true);
-}
-
 // ── Main fetch ────────────────────────────────────────────────────────────────
 
 async function fetchDiscoveries(force = false) {
   const today  = todayStr();
   const cached = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
 
-  // Serve cache if same day and not forced
+  // Serve from cache if same day and not a forced refresh
   if (!force && cached && cached.date === today && cached.discoveries?.length > 0) {
     allDiscoveries = cached.discoveries;
     renderCards(allDiscoveries);
-    return;
-  }
-
-  const { apiKey, cx } = getCredentials();
-  if (!apiKey || !cx) {
-    renderSetup();
     return;
   }
 
@@ -886,43 +791,41 @@ async function fetchDiscoveries(force = false) {
   if (btn) { btn.classList.add('spinning'); btn.disabled = true; }
   else renderSkeletons();
 
-  // Build the search query
-  const dateLabel = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-  const query     = encodeURIComponent(`top scientific discoveries ${dateLabel}`);
-  const url       = `https://www.googleapis.com/customsearch/v1?key=${apiKey}&cx=${cx}&q=${query}&num=10&dateRestrict=d3`;
-
   try {
+    // Cache-bust on forced refresh so the browser always fetches the latest file
+    const url = force ? `${JSON_PATH}?t=${Date.now()}` : JSON_PATH;
     const res = await fetch(url);
+
+    if (!res.ok) throw new Error(
+      `Could not load ${JSON_PATH} (HTTP ${res.status}). ` +
+      `Make sure the file exists in the same folder as index.html.`
+    );
+
     const data = await res.json();
 
-    // Handle API-level errors
-    if (!res.ok || data.error) {
-      const msg = data.error?.message || `HTTP ${res.status}`;
-      const isAuth = res.status === 400 || res.status === 403;
-      if (isAuth) {
-        renderSetup(`Google API error: "${msg}" — please check your key and Search Engine ID.`);
-      } else {
-        renderError(`Google API error: ${msg}`);
-      }
-      return;
+    // Support both key names: GitHub Action may output `items` or `discoveries`
+    const raw = data.items ?? data.discoveries ?? [];
+
+    if (!Array.isArray(raw) || raw.length === 0) {
+      throw new Error(
+        `discoveries.json loaded but contained no entries. ` +
+        `Expected an "items" or "discoveries" array.`
+      );
     }
 
-    const items = data.items;
-    if (!items || items.length === 0) {
-      renderError('Google returned no results for today. Try refreshing in a few minutes.');
-      return;
-    }
+    // Take the top 5 only
+    allDiscoveries = raw.slice(0, 5);
 
-    allDiscoveries = items.map(mapItem);
-
-    localStorage.setItem(CACHE_KEY, JSON.stringify({ date: today, discoveries: allDiscoveries }));
+    // Cache keyed to the date in the JSON (falls back to today)
+    const cacheDate = data.date || today;
+    localStorage.setItem(CACHE_KEY, JSON.stringify({ date: cacheDate, discoveries: allDiscoveries }));
     localStorage.setItem('discoveries_fetched_at', new Date().toLocaleTimeString());
 
     renderCards(allDiscoveries);
 
   } catch (err) {
     console.error(err);
-    renderError(`Network error: ${err.message}`);
+    renderError(err.message || 'Something went wrong loading discoveries.json.');
   }
 }
 
