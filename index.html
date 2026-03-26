@@ -229,7 +229,8 @@ h1 em {
   margin: 0 auto;
   padding: 0 24px 80px;
   display: grid;
-  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
 }
 
 /* ── LOADING STATE ── */
@@ -422,6 +423,9 @@ h1 em {
 }
 
 /* ── FEATURED CARD (rank 1) ── */
+.discovery-card.featured {
+  grid-column: 1 / -1;
+}
 .discovery-card.featured {
   border-color: rgba(26,107,255,0.25);
   background: linear-gradient(135deg, #FAFEFF 0%, white 60%);
