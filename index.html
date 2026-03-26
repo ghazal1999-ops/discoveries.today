@@ -589,115 +589,187 @@ footer {
 
 <footer>
   <div class="footer-text">
-    Powered by Claude AI + live web search · Results cached daily · Auto-refreshes each new day<br>
+    Powered by Google Custom Search · Results cached daily · Auto-refreshes each new day<br>
     discoveries.today — because the world never stops being amazing
   </div>
 </footer>
 
 <script>
-const CACHE_KEY = 'discoveries_cache';
-const API_KEY_KEY = 'anthropic_api_key';
+// ── YOUR GOOGLE CREDENTIALS ─────────────────────────────────────────────────
+// Paste your values here and save. They are also stored in localStorage so you
+// only need to enter them once via the setup screen.
+const HARDCODED_API_KEY = '';   // e.g. 'AIzaSy...'
+const HARDCODED_CX      = '';   // e.g. '012345678901234567890:abcdefghijk'
+// ────────────────────────────────────────────────────────────────────────────
 
-const todayStr = () => new Date().toISOString().slice(0,10);
+const CACHE_KEY    = 'discoveries_cache';
+const GCS_KEY_KEY  = 'gcs_api_key';
+const GCS_CX_KEY   = 'gcs_cx';
 
-const fmt = (d) => new Date(d + 'T12:00:00').toLocaleDateString('en-US', {
+const todayStr = () => new Date().toISOString().slice(0, 10);
+
+const fmt = d => new Date(d + 'T12:00:00').toLocaleDateString('en-US', {
   weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
 });
 
-// Set topbar date
 document.getElementById('topbar-date').textContent = fmt(todayStr());
 
 let allDiscoveries = [];
-let activeFilter = 'all';
+let activeFilter   = 'all';
 
-// ── Category helper ──
-function catClass(cat='') {
+// ── Helpers ──────────────────────────────────────────────────────────────────
+
+function getCredentials() {
+  return {
+    apiKey: HARDCODED_API_KEY || localStorage.getItem(GCS_KEY_KEY) || '',
+    cx:     HARDCODED_CX      || localStorage.getItem(GCS_CX_KEY)  || ''
+  };
+}
+
+// Guess a category from the result title + snippet
+function guessCategory(text = '') {
+  const t = text.toLowerCase();
+  if (/space|nasa|esa|asteroid|comet|planet|galaxy|telescope|orbit|lunar|mars|webb/.test(t))    return 'Space';
+  if (/cancer|vaccine|drug|clinical|patient|disease|genome|surgery|therapy|medicine|health/.test(t)) return 'Medicine';
+  if (/ai|artificial intelligence|machine learning|robot|llm|neural|gpt|chatbot|compute/.test(t))    return 'AI & Tech';
+  if (/climat|carbon|emission|renewabl|solar|wind energy|glacier|ocean warm|fossil/.test(t))         return 'Climate';
+  if (/species|fossil|evolution|gene|dna|rna|cell|microb|bacteria|virus|protein|animal/.test(t))     return 'Biology';
+  if (/quantum|particle|physics|nuclear|higgs|gravitational|dark matter|neutron|photon/.test(t))      return 'Physics';
+  if (/material|engineer|battery|semiconductor|chip|3d print|alloy|superconductor/.test(t))          return 'Engineering';
+  if (/chemical|molecule|compound|element|catalyst|reaction|polymer/.test(t))                        return 'Chemistry';
+  return 'Science';
+}
+
+function catClass(cat = '') {
   const c = cat.toLowerCase();
-  if (c.includes('space') || c.includes('astro') || c.includes('nasa')) return 'cat-space';
-  if (c.includes('med') || c.includes('health') || c.includes('drug') || c.includes('cancer') || c.includes('vaccine')) return 'cat-medicine';
-  if (c.includes('ai') || c.includes('machine') || c.includes('robot') || c.includes('tech') || c.includes('compute') || c.includes('software')) return 'cat-ai';
-  if (c.includes('climat') || c.includes('energy') || c.includes('carbon') || c.includes('environment')) return 'cat-climate';
-  if (c.includes('physics') || c.includes('quantum') || c.includes('particle') || c.includes('nuclear')) return 'cat-physics';
-  if (c.includes('bio') || c.includes('gene') || c.includes('dna') || c.includes('species') || c.includes('cell')) return 'cat-biology';
-  if (c.includes('tech') || c.includes('engineer') || c.includes('material')) return 'cat-tech';
+  if (c.includes('space'))   return 'cat-space';
+  if (c.includes('med'))     return 'cat-medicine';
+  if (c.includes('ai'))      return 'cat-ai';
+  if (c.includes('climat'))  return 'cat-climate';
+  if (c.includes('physics')) return 'cat-physics';
+  if (c.includes('bio'))     return 'cat-biology';
+  if (c.includes('engine'))  return 'cat-tech';
+  if (c.includes('chem'))    return 'cat-default';
   return 'cat-default';
 }
 
-function catFilterMatch(cat='', filter) {
+function catFilterMatch(cat = '', filter) {
   if (filter === 'all') return true;
   const c = cat.toLowerCase();
-  if (filter === 'space')    return c.includes('space') || c.includes('astro') || c.includes('nasa') || c.includes('planet') || c.includes('cosmos');
-  if (filter === 'medicine') return c.includes('med') || c.includes('health') || c.includes('drug') || c.includes('cancer') || c.includes('vaccine') || c.includes('clinical');
-  if (filter === 'ai')       return c.includes('ai') || c.includes('machine') || c.includes('robot') || c.includes('compute') || c.includes('tech') || c.includes('software') || c.includes('model');
-  if (filter === 'climate')  return c.includes('climat') || c.includes('energy') || c.includes('carbon') || c.includes('environment') || c.includes('solar') || c.includes('wind');
-  if (filter === 'biology')  return c.includes('bio') || c.includes('gene') || c.includes('dna') || c.includes('species') || c.includes('cell') || c.includes('animal');
-  if (filter === 'physics')  return c.includes('physics') || c.includes('quantum') || c.includes('particle') || c.includes('nuclear') || c.includes('matter');
+  if (filter === 'space')    return c.includes('space');
+  if (filter === 'medicine') return c.includes('med');
+  if (filter === 'ai')       return c.includes('ai') || c.includes('tech');
+  if (filter === 'climate')  return c.includes('climat');
+  if (filter === 'biology')  return c.includes('bio');
+  if (filter === 'physics')  return c.includes('physics');
   return false;
 }
 
-// ── Render helpers ──
-function renderSkeletons(n=5) {
-  const app = document.getElementById('app');
-  app.innerHTML = `
+// Extract the domain name to use as "source"
+function domainOf(url = '') {
+  try { return new URL(url).hostname.replace(/^www\./, ''); }
+  catch { return ''; }
+}
+
+// Map a Google Custom Search item → our discovery object
+function mapItem(item, index) {
+  const combined  = `${item.title} ${item.snippet}`;
+  const category  = guessCategory(combined);
+  return {
+    title:      item.title,
+    summary:    item.snippet || '',
+    category,
+    source:     domainOf(item.link),
+    source_url: item.link,
+    impact:     Math.max(1, Math.min(5, 5 - Math.floor(index / 2)))   // top results score higher
+  };
+}
+
+// ── Render: loading ───────────────────────────────────────────────────────────
+
+function renderSkeletons() {
+  document.getElementById('app').innerHTML = `
     <div class="loading-state">
       <div class="loading-orb"></div>
       <div class="loading-text">Searching the world for today's breakthroughs…</div>
       <div class="loading-steps">
-        <div class="step active" id="step1">Scanning science journals & news feeds</div>
-        <div class="step" id="step2">Ranking by impact & novelty</div>
-        <div class="step" id="step3">Generating summaries</div>
-        <div class="step" id="step4">Building your feed</div>
+        <div class="step active" id="step1">Querying Google Search</div>
+        <div class="step"        id="step2">Filtering science results</div>
+        <div class="step"        id="step3">Ranking by relevance</div>
+        <div class="step"        id="step4">Building your feed</div>
       </div>
     </div>`;
 
   let s = 1;
   const iv = setInterval(() => {
-    if (s > 0 && s <= 4) {
-      const prev = document.getElementById(`step${s}`);
-      if (prev) { prev.classList.remove('active'); prev.classList.add('done'); }
-    }
+    const prev = document.getElementById(`step${s}`);
+    if (prev) { prev.classList.remove('active'); prev.classList.add('done'); }
     s++;
-    if (s <= 4) {
-      const next = document.getElementById(`step${s}`);
-      if (next) next.classList.add('active');
-    } else { clearInterval(iv); }
-  }, 1800);
+    const next = document.getElementById(`step${s}`);
+    if (next) next.classList.add('active');
+    else clearInterval(iv);
+  }, 1200);
 }
 
-function renderError(msg, showKeyInput=false) {
-  const app = document.getElementById('app');
-  const keyInput = showKeyInput ? `
-    <p style="font-size:13px;color:var(--ink-muted);margin-bottom:12px;line-height:1.6;">
-      Enter your <a href="https://console.anthropic.com" target="_blank" style="color:var(--glow)">Anthropic API key</a> to enable live daily fetching. It's stored only in your browser.
-    </p>
-    <input class="api-key-input" id="api-key-field" type="password" placeholder="sk-ant-api03-..." />
-    <button class="save-key-btn" onclick="saveKey()">Save Key & Load Discoveries</button>
-  ` : `<button class="save-key-btn" onclick="fetchDiscoveries(true)" style="background:var(--glow)">Try Again</button>`;
+// ── Render: setup screen (first-time credential entry) ───────────────────────
 
-  app.innerHTML = `
+function renderSetup(errorMsg = '') {
+  document.getElementById('app').innerHTML = `
+    <div class="error-state">
+      <div class="error-icon">🔭</div>
+      <div class="error-title">Connect Google Custom Search</div>
+      <div class="error-body">
+        ${errorMsg ? `<p style="color:var(--accent);margin-bottom:12px;">${errorMsg}</p>` : ''}
+        Enter your free Google API credentials below — stored only in your browser.
+        <br><br>
+        <strong>How to get them (2 min):</strong><br>
+        1. <a href="https://console.cloud.google.com/apis/library/customsearch.googleapis.com" target="_blank" style="color:var(--glow)">Enable the Custom Search API</a> → create an API key.<br>
+        2. Go to <a href="https://programmablesearchengine.google.com/" target="_blank" style="color:var(--glow)">Programmable Search Engine</a> → New engine → search the whole web → copy the <em>Search engine ID (cx)</em>.
+      </div>
+
+      <label style="display:block;text-align:left;font-size:12px;font-family:'Geist Mono',monospace;color:var(--ink-muted);margin-bottom:4px;">Google API Key</label>
+      <input class="api-key-input" id="gcs-key-field"  type="password" placeholder="AIzaSy…" />
+
+      <label style="display:block;text-align:left;font-size:12px;font-family:'Geist Mono',monospace;color:var(--ink-muted);margin:12px 0 4px;">Search Engine ID (cx)</label>
+      <input class="api-key-input" id="gcs-cx-field" type="text" placeholder="012345678901234567890:xxxxxxxxxx" />
+
+      <button class="save-key-btn" onclick="saveCredentials()" style="margin-top:16px;">Save & Load Discoveries</button>
+    </div>`;
+}
+
+// ── Render: error (non-setup) ─────────────────────────────────────────────────
+
+function renderError(msg) {
+  document.getElementById('app').innerHTML = `
     <div class="error-state">
       <div class="error-icon">🔭</div>
       <div class="error-title">Couldn't load discoveries</div>
       <div class="error-body">${msg}</div>
-      ${keyInput}
+      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:8px;">
+        <button class="save-key-btn" onclick="fetchDiscoveries(true)" style="background:var(--glow);">Try Again</button>
+        <button class="save-key-btn" onclick="renderSetup()" style="background:transparent;border:1px solid var(--border-strong);color:var(--ink-soft);">Change Credentials</button>
+      </div>
     </div>`;
 }
+
+// ── Render: cards ─────────────────────────────────────────────────────────────
 
 function renderCards(discoveries) {
   const filtered = activeFilter === 'all'
     ? discoveries
     : discoveries.filter(d => catFilterMatch(d.category, activeFilter));
 
-  document.getElementById('topbar-count').textContent = `${filtered.length} discoveries`;
-  document.getElementById('topbar-count').style.display = 'block';
+  const countEl = document.getElementById('topbar-count');
+  countEl.textContent = `${filtered.length} discoveries`;
+  countEl.style.display = 'block';
 
   const app = document.getElementById('app');
 
   if (filtered.length === 0) {
     app.innerHTML = `
-      <div class="freshness-bar"></div>
-      <div style="position:relative;z-index:1;text-align:center;padding:80px 24px;color:var(--ink-muted);font-family:'Geist Mono',monospace;font-size:13px;">
-        No discoveries in this category today. Try another filter.
+      <div style="position:relative;z-index:1;text-align:center;padding:80px 24px;
+                  color:var(--ink-muted);font-family:'Geist Mono',monospace;font-size:13px;">
+        No discoveries in this category today — try another filter.
       </div>`;
     return;
   }
@@ -706,38 +778,38 @@ function renderCards(discoveries) {
   const freshHTML = lastUpdated ? `
     <div class="freshness-bar">
       <div class="freshness-inner">
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
-        Live data · Fetched ${lastUpdated} · Auto-refreshes each new day
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+        </svg>
+        Google Custom Search · Fetched ${lastUpdated} · Auto-refreshes each new day
       </div>
     </div>` : '';
 
   const cards = filtered.map((d, i) => {
-    const rank = i + 1;
+    const rank     = i + 1;
     const featured = rank === 1 ? 'featured' : '';
-    const cc = catClass(d.category);
-    const impact = Math.min(5, Math.max(1, d.impact || 3));
-    const dots = Array.from({length:5}, (_,j) =>
-      `<div class="impact-dot ${j < impact ? 'filled' : ''}"></div>`
-    ).join('');
+    const cc       = catClass(d.category);
+    const impact   = Math.min(5, Math.max(1, d.impact || 3));
+    const dots     = Array.from({ length: 5 }, (_, j) =>
+      `<div class="impact-dot ${j < impact ? 'filled' : ''}"></div>`).join('');
     const linkHTML = d.source_url
-      ? `<a class="card-link" href="${d.source_url}" target="_blank">Read more →</a>` : '';
-    const delay = `animation-delay:${i*60}ms`;
+      ? `<a class="card-link" href="${d.source_url}" target="_blank" rel="noopener">Read more →</a>` : '';
 
     return `
-      <div class="discovery-card ${featured}" style="${delay}" data-category="${d.category || ''}">
+      <div class="discovery-card ${featured}" style="animation-delay:${i * 60}ms" data-category="${d.category || ''}">
         <div class="card-inner">
           <div class="card-rank">
-            <span class="rank-num">${rank < 10 ? '0'+rank : rank}</span>
+            <span class="rank-num">${rank < 10 ? '0' + rank : rank}</span>
           </div>
           <div class="card-content">
             <div class="card-meta">
-              <span class="category-tag ${cc}">${d.category || 'Discovery'}</span>
+              <span class="category-tag ${cc}">${d.category || 'Science'}</span>
               ${d.source ? `<span class="source-tag">via ${d.source}</span>` : ''}
             </div>
             <div class="card-title">${d.title}</div>
             <div class="card-body">${d.summary}</div>
             <div class="card-footer">
-              <span class="impact-label">Impact</span>
+              <span class="impact-label">Relevance</span>
               <div class="impact-dots">${dots}</div>
               ${linkHTML}
             </div>
@@ -749,18 +821,26 @@ function renderCards(discoveries) {
   app.innerHTML = `
     ${freshHTML}
     <div class="controls">
-      <span class="result-label">Showing ${filtered.length} of ${discoveries.length} discoveries · ${fmt(todayStr())}</span>
-      <button class="refresh-btn" id="refresh-btn" onclick="fetchDiscoveries(true)">
-        <svg class="refresh-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-          <path d="M23 4v6h-6M1 20v-6h6"/><path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
-        </svg>
-        Refresh Today's Feed
-      </button>
+      <span class="result-label">
+        Showing ${filtered.length} of ${discoveries.length} results · ${fmt(todayStr())}
+      </span>
+      <div style="display:flex;gap:8px;align-items:center;">
+        <button class="refresh-btn" style="background:transparent;border:1px solid var(--border-strong);color:var(--ink-soft);font-size:12px;padding:7px 14px;"
+                onclick="renderSetup()">⚙ Credentials</button>
+        <button class="refresh-btn" id="refresh-btn" onclick="fetchDiscoveries(true)">
+          <svg class="refresh-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <path d="M23 4v6h-6M1 20v-6h6"/>
+            <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+          </svg>
+          Refresh Feed
+        </button>
+      </div>
     </div>
     <div class="discoveries-grid">${cards}</div>`;
 }
 
-// ── Filter buttons ──
+// ── Filter bar ────────────────────────────────────────────────────────────────
+
 document.getElementById('filter-bar').addEventListener('click', e => {
   const btn = e.target.closest('.filter-btn');
   if (!btn) return;
@@ -770,110 +850,83 @@ document.getElementById('filter-bar').addEventListener('click', e => {
   if (allDiscoveries.length > 0) renderCards(allDiscoveries);
 });
 
-// ── API Key save ──
-function saveKey() {
-  const val = document.getElementById('api-key-field')?.value?.trim();
-  if (!val || !val.startsWith('sk-')) {
-    alert('Please enter a valid Anthropic API key (starts with sk-)');
-    return;
-  }
-  localStorage.setItem(API_KEY_KEY, val);
+// ── Save credentials ──────────────────────────────────────────────────────────
+
+function saveCredentials() {
+  const key = document.getElementById('gcs-key-field')?.value?.trim();
+  const cx  = document.getElementById('gcs-cx-field')?.value?.trim();
+  if (!key) { alert('Please enter your Google API key.'); return; }
+  if (!cx)  { alert('Please enter your Search Engine ID (cx).'); return; }
+  localStorage.setItem(GCS_KEY_KEY, key);
+  localStorage.setItem(GCS_CX_KEY,  cx);
   fetchDiscoveries(true);
 }
 
-// ── Main fetch ──
-async function fetchDiscoveries(force=false) {
-  const today = todayStr();
+// ── Main fetch ────────────────────────────────────────────────────────────────
+
+async function fetchDiscoveries(force = false) {
+  const today  = todayStr();
   const cached = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
 
-  // Use cache if same day and not forced
+  // Serve cache if same day and not forced
   if (!force && cached && cached.date === today && cached.discoveries?.length > 0) {
     allDiscoveries = cached.discoveries;
     renderCards(allDiscoveries);
     return;
   }
 
-  const apiKey = localStorage.getItem(API_KEY_KEY);
-  if (!apiKey) {
-    renderError(
-      'To fetch today\'s live discoveries, this app needs an Anthropic API key. It\'s free to create one.',
-      true
-    );
+  const { apiKey, cx } = getCredentials();
+  if (!apiKey || !cx) {
+    renderSetup();
     return;
   }
 
-  // Animate refresh button if visible
+  // Show loading animation
   const btn = document.getElementById('refresh-btn');
   if (btn) { btn.classList.add('spinning'); btn.disabled = true; }
   else renderSkeletons();
 
-  const todayFull = new Date().toLocaleDateString('en-US', {weekday:'long',year:'numeric',month:'long',day:'numeric'});
-
-  const prompt = `Today is ${todayFull}.
-
-Search the web for the most remarkable, exciting, and significant scientific discoveries, research breakthroughs, inventions, and technological advances announced or published TODAY or in the last 24-48 hours worldwide.
-
-Prioritize: peer-reviewed research, NASA/ESA announcements, major hospital/university releases, major tech company research papers, Nature/Science journal findings.
-
-Return ONLY a valid JSON array of exactly 10 objects. No markdown, no backticks, no explanation — just the raw JSON array.
-
-Each object must have:
-- "title": string — compelling headline (max 12 words)
-- "summary": string — 2-3 sentence explanation a smart non-expert would love (what was discovered, why it matters, what's next)
-- "category": string — ONE of: Space, Medicine, AI & Tech, Climate, Biology, Physics, Chemistry, Engineering
-- "source": string — institution or publication name (e.g. "MIT", "Nature", "NASA")
-- "source_url": string — direct URL to article/paper if found, else ""
-- "impact": number — 1-5 rating of significance (5 = Nobel-worthy, 1 = interesting but niche)
-
-JSON array only, starting with [ and ending with ]`;
+  // Build the search query
+  const dateLabel = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+  const query     = encodeURIComponent(`top scientific discoveries ${dateLabel}`);
+  const url       = `https://www.googleapis.com/customsearch/v1?key=${apiKey}&cx=${cx}&q=${query}&num=10&dateRestrict=d3`;
 
   try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'x-api-key': apiKey, 'anthropic-version': '2023-06-01' },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 4000,
-        tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-        messages: [{ role: 'user', content: prompt }]
-      })
-    });
+    const res = await fetch(url);
+    const data = await res.json();
 
-    if (!res.ok) {
-      const errData = await res.json().catch(() => ({}));
-      if (res.status === 401) throw new Error('Invalid API key. Please check and try again.');
-      throw new Error(errData.error?.message || `API error ${res.status}`);
+    // Handle API-level errors
+    if (!res.ok || data.error) {
+      const msg = data.error?.message || `HTTP ${res.status}`;
+      const isAuth = res.status === 400 || res.status === 403;
+      if (isAuth) {
+        renderSetup(`Google API error: "${msg}" — please check your key and Search Engine ID.`);
+      } else {
+        renderError(`Google API error: ${msg}`);
+      }
+      return;
     }
 
-    const data = await res.json();
-    const fullText = (data.content || [])
-      .filter(b => b.type === 'text')
-      .map(b => b.text)
-      .join('');
+    const items = data.items;
+    if (!items || items.length === 0) {
+      renderError('Google returned no results for today. Try refreshing in a few minutes.');
+      return;
+    }
 
-    // Extract JSON array from response
-    const match = fullText.match(/\[[\s\S]*\]/);
-    if (!match) throw new Error('Could not parse discoveries from response. Try refreshing.');
+    allDiscoveries = items.map(mapItem);
 
-    const discoveries = JSON.parse(match[0]);
-    if (!Array.isArray(discoveries) || discoveries.length === 0) throw new Error('Empty results. Try refreshing.');
-
-    allDiscoveries = discoveries;
-
-    // Cache it
-    localStorage.setItem(CACHE_KEY, JSON.stringify({ date: today, discoveries }));
+    localStorage.setItem(CACHE_KEY, JSON.stringify({ date: today, discoveries: allDiscoveries }));
     localStorage.setItem('discoveries_fetched_at', new Date().toLocaleTimeString());
 
     renderCards(allDiscoveries);
 
   } catch (err) {
     console.error(err);
-    const isKeyErr = err.message.includes('key') || err.message.includes('401') || err.message.includes('auth');
-    renderError(err.message || 'Something went wrong.', isKeyErr);
+    renderError(`Network error: ${err.message}`);
   }
 }
 
-// ── Boot ──
+// ── Boot ──────────────────────────────────────────────────────────────────────
 fetchDiscoveries(false);
 </script>
 </body>
