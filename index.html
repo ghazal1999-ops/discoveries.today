@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Today's Discoveries — Top 10 Breakthroughs Daily</title>
+<title>Today's Top 5 Discoveries — Daily Breakthroughs</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -300,7 +300,7 @@ h1 em {
 
 .card-inner {
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: auto 1fr;
   gap: 0;
 }
 
@@ -416,11 +416,7 @@ h1 em {
 }
 .card-link:hover { opacity: 0.7; }
 
-.card-side {
-  display: flex;
-  align-items: flex-start;
-  padding: 20px 16px 20px 0;
-}
+
 
 /* ── FEATURED CARD (rank 1) ── */
 .discovery-card.featured {
@@ -458,34 +454,7 @@ h1 em {
   line-height: 1.7;
   margin-bottom: 24px;
 }
-.api-key-input {
-  width: 100%;
-  padding: 12px 16px;
-  border: 1px solid var(--border-strong);
-  border-radius: 8px;
-  font-family: 'Geist Mono', monospace;
-  font-size: 13px;
-  color: var(--ink);
-  background: white;
-  outline: none;
-  margin-bottom: 12px;
-  transition: border-color 0.2s;
-}
-.api-key-input:focus { border-color: var(--glow); }
-.save-key-btn {
-  width: 100%;
-  padding: 12px;
-  background: var(--ink);
-  color: white;
-  border: none;
-  border-radius: 8px;
-  font-family: 'Geist', sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  cursor: pointer;
-  transition: background 0.15s;
-}
-.save-key-btn:hover { background: #1A1A2E; }
+
 
 /* ── FOOTER ── */
 footer {
@@ -520,30 +489,10 @@ footer {
   color: var(--glow);
 }
 
-/* ── SKELETON loader cards ── */
-.skeleton-card {
-  background: white;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  overflow: hidden;
-  height: 140px;
-  position: relative;
-}
-.skeleton-card::after {
-  content: '';
-  position: absolute; inset: 0;
-  background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.6) 50%, transparent 100%);
-  animation: shimmer 1.4s infinite;
-  background-size: 200% 100%;
-}
-@keyframes shimmer {
-  from { background-position: -200% 0; }
-  to   { background-position:  200% 0; }
-}
+
 
 @media (max-width: 600px) {
   .card-inner { grid-template-columns: auto 1fr; }
-  .card-side { display: none; }
   .card-rank { min-width: 52px; padding: 18px 14px; }
   .rank-num { font-size: 22px; }
   .card-title { font-size: 17px; }
@@ -571,7 +520,7 @@ footer {
 <section class="hero">
   <div class="hero-kicker">Live · Updated Daily</div>
   <h1>Today's <em>Top 5 Discoveries</em></h1>
-  <p class="hero-sub">The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world — updated every night.</p>
+  <p class="hero-sub">The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world — updated every night by GitHub Actions.</p>
 
   <div class="filter-bar" id="filter-bar">
     <button class="filter-btn active" data-cat="all">All Fields</button>
@@ -673,7 +622,12 @@ function renderError(msg) {
       <div class="error-icon">🔭</div>
       <div class="error-title">Couldn't load discoveries</div>
       <div class="error-body">${msg}</div>
-      <button class="save-key-btn" onclick="fetchDiscoveries(true)" style="background:var(--glow);">Try Again</button>
+      <button onclick="fetchDiscoveries(true)"
+        style="margin-top:8px;padding:12px 28px;background:var(--glow);color:white;border:none;
+               border-radius:8px;font-family:'Geist',sans-serif;font-size:14px;
+               font-weight:500;cursor:pointer;">
+        Try Again
+      </button>
     </div>`;
 }
 
