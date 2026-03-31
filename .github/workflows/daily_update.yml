@@ -2,28 +2,30 @@ name: Daily Discovery Update
 on:
   schedule:
     - cron: '0 0 * * *' # Runs at midnight
-  workflow_dispatch: # Allows you to click "Run" manually to test it
+  workflow_dispatch: # Allows you to run it manually from the "Actions" tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial: gives the bot permission to save the file
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to v4 for Node 24 compatibility
 
       - name: Fetch Discoveries
         env:
           API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          SEARCH_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
+          CX_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
         run: |
-          # We search for "breakthrough" or "discovery" with today's date
+          # Use quotes around the URL to prevent special characters from breaking it
           QUERY="top+scientific+discovery+$(date +'%B+%d+%Y')"
-          curl "https://www.googleapis.com/customsearch/v1?q=$QUERY&key=$API_KEY&cx=$SEARCH_ID&num=5" > discoveries.json
+          curl -o discoveries.json "https://www.googleapis.com/customsearch/v1?q=$QUERY&key=$API_KEY&cx=$CX_ID&num=5"
 
       - name: Commit and Push
         run: |
-          git config --global user.name "DiscoveryBot"
-          git config --global user.email "bot@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add discoveries.json
-          git commit -m "Updated discoveries for $(date)"
+          git commit -m "Daily update: $(date)" || echo "No changes to commit"
           git push
