@@ -25,12 +25,19 @@ jobs:
           # This saves the result and prevents the script from failing silently
           curl -f -L -o discoveries.json "$URL"
 
-      - name: Commit and Push
+     - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # This sequence handles the 'rejected' error by syncing first
+          git fetch origin main
+          git checkout main
           git add discoveries.json
-          git commit -m "Daily Discovery Update" || echo "No changes"
-          # This 'pull --rebase' solves the "rejected" error you see in the screenshot
+          
+          # Only commit if there are actual changes to the file
+          git commit -m "Automated discovery update: $(date)" || echo "No changes to commit"
+          
+          # The 'rebase' ensures a clean push even if you've made other edits
           git pull --rebase origin main
           git push origin main
