@@ -39,17 +39,17 @@ jobs:
           jq --arg date "$DATE" '{ date: $date, items: (.items // []) }' raw.json > discoveries.json
 
       - name: Commit and Push
-        run: |
-          git config --global user.name "DiscoveryBot"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+  run: |
+    git config --global user.name "DiscoveryBot"
+    git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git pull --rebase origin main
+    git pull --rebase origin main
 
-          git add discoveries.json
+    git add discoveries.json
 
-          if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "Updated discoveries for $(date -u)"
-            git push
-          fi
+    if git diff --cached --quiet; then
+      echo "No changes to discoveries.json — skipping commit"
+    else
+      git commit -m "Updated discoveries for $(date -u)"
+      git push origin main
+    fi
