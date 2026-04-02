@@ -40,10 +40,13 @@ jobs:
           echo "discoveries.json written:"
           cat discoveries.json
 
-      - name: Commit and Push
+           - name: Commit and Push
         run: |
           git config --global user.name "DiscoveryBot"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+          git reset --hard origin/main
 
           git add discoveries.json
 
@@ -53,5 +56,4 @@ jobs:
           fi
 
           git commit -m "Updated discoveries for $(date -u)"
-          git pull --rebase origin main || true
-          git push origin HEAD:main
+          git push origin main
