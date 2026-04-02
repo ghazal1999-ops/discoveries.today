@@ -1,45 +1,4 @@
 {
-  "date": "2026-03-26",
-  "items": [
-    {
-      "title": "Scientists Detect Water Vapour in Atmosphere of Nearby Exoplanet",
-      "summary": "Astronomers using the James Webb Space Telescope have confirmed the presence of water vapour in the atmosphere of exoplanet K2-18b, located 120 light-years away. The finding strengthens the case that this planet may harbour conditions suitable for life. Further spectroscopic analysis is planned for later this year.",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov",
-      "impact": 5
-    },
-    {
-      "title": "New mRNA Vaccine Shows 94% Efficacy Against Aggressive Brain Cancer",
-      "summary": "A phase-II clinical trial published in Nature Medicine reports that a personalised mRNA vaccine dramatically extended survival in patients with glioblastoma, the deadliest form of brain cancer. The vaccine is tailored to each patient's tumour mutations and works by training the immune system to target cancer cells specifically. Researchers expect phase-III trials to begin within 18 months.",
-      "category": "Medicine",
-      "source": "nature.com",
-      "source_url": "https://www.nature.com",
-      "impact": 5
-    },
-    {
-      "title": "DeepMind AI Solves 50-Year-Old Protein Folding Mystery",
-      "summary": "Google DeepMind's latest AlphaFold update has accurately predicted the structure of previously unsolvable membrane proteins, unlocking potential drug targets for conditions like Alzheimer's and Parkinson's disease. The model was trained on a dataset three times larger than its predecessor. The results are freely available to researchers worldwide.",
-      "category": "AI & Tech",
-      "source": "deepmind.google",
-      "source_url": "https://deepmind.google",
-      "impact": 4
-    },
-    {
-      "title": "CRISPR Gene Edit Reverses Hereditary Blindness in Adult Patients",
-      "summary": "A clinical study from the University of Pennsylvania reports that a single in-vivo CRISPR injection restored partial vision in 7 of 10 adult patients with Leber congenital amaurosis, a rare hereditary blindness. The edit was delivered directly to retinal cells without removing them from the body — a first. Results were stable at 12-month follow-up.",
-      "category": "Biology",
-      "source": "upenn.edu",
-      "source_url": "https://www.upenn.edu",
-      "impact": 5
-    },
-    {
-      "title": "Room-Temperature Superconductor Verified by Independent Lab",
-      "summary": "An independent team at MIT has replicated and confirmed the room-temperature superconductivity claims originally published by a South Korean research group, ending months of scientific controversy. The material — a hydrogen-rich compound under moderate pressure — conducts electricity with zero resistance at 22°C. If scalable, the discovery could transform power grids and electronics.",
-      "category": "Physics",
-      "source": "mit.edu",
-      "source_url": "https://www.mit.edu",
-      "impact": 5
-    }
-  ]
+  "date": "2026-04-02",
+  "items": []
 }
