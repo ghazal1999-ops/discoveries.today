@@ -2,7 +2,7 @@ name: Daily Discovery Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # every day at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,26 +29,15 @@ jobs:
           QUERY="scientific+discovery+today"
           URL="https://www.googleapis.com/customsearch/v1?q=${QUERY}&key=${API_KEY}&cx=${CX_ID}&num=5"
 
-          echo "Fetching discoveries..."
           curl -L -o raw.json "$URL"
 
-          echo "Google API response:"
-          cat raw.json
-
           DATE=$(date -u +%Y-%m-%d)
-
           jq --arg date "$DATE" '{ date: $date, items: (.items // []) }' raw.json > discoveries.json
-
-          echo "Updated discoveries.json:"
-          cat discoveries.json
 
       - name: Commit and Push
         run: |
           git config --global user.name "DiscoveryBot"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git fetch origin main
-          git reset --hard origin/main
 
           git add discoveries.json
 
@@ -58,4 +47,4 @@ jobs:
           fi
 
           git commit -m "Updated discoveries for $(date -u)"
-          git push origin main
+          git push --force-with-lease origin main
