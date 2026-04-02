@@ -1,43 +1,57 @@
 name: Daily Discovery Update
+
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # Runs every day at midnight UTC
+  workflow_dispatch:        # Allows manual trigger from GitHub UI
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
-      contents: write
+      contents: write       # Required to push discoveries.json back to the repo
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # Full history so rebase works cleanly
 
       - name: Fetch Discoveries
         env:
           API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           CX_ID: ${{ secrets.GOOGLE_SEARCH_ID }}
         run: |
-          # We use a simplified query and double-quotes to avoid Exit Code 3
           QUERY="scientific+discovery+today"
-          URL="https://www.googleapis.com/customsearch/v1?q=$QUERY&key=$API_KEY&cx=$CX_ID&num=5"
-          
-          # This saves the result and prevents the script from failing silently
-          curl -f -L -o discoveries.json "$URL"
+          URL="https://www.googleapis.com/customsearch/v1?q=${QUERY}&key=${API_KEY}&cx=${CX_ID}&num=5"
 
-     - name: Commit and Push
+          echo "Fetching: $URL"
+          curl -f -L -o raw.json "$URL"
+
+          # Wrap raw Google response into the shape index.html expects:
+          # { "date": "YYYY-MM-DD", "items": [ ... ] }
+          DATE=$(date -u +%Y-%m-%d)
+          jq --arg date "$DATE" '{ date: $date, items: .items }' raw.json > discoveries.json
+
+          echo "discoveries.json written:"
+          cat discoveries.json
+
+      - name: Commit and Push
         run: |
-          git config --global user.name "github-actions[bot]"
+          git config --global user.name "DiscoveryBot"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # This sequence handles the 'rejected' error by syncing first
-          git fetch origin main
-          git checkout main
-          git add discoveries.json
-          
-          # Only commit if there are actual changes to the file
-          git commit -m "Automated discovery update: $(date)" || echo "No changes to commit"
-          
-          # The 'rebase' ensures a clean push even if you've made other edits
+
+          # Pull latest remote changes BEFORE committing — this prevents the
+          # "rejected: fetch first" error seen in the logs
           git pull --rebase origin main
-          git push origin main
+
+          git add discoveries.json
+
+          # Only commit if discoveries.json actually changed
+          if git diff --cached --quiet; then
+            echo "No changes to discoveries.json — skipping commit"
+          else
+            git commit -m "Updated discoveries for $(date -u)"
+            git push origin main
+          fi
