@@ -26,14 +26,37 @@ jobs:
           API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           CX_ID: ${{ secrets.GOOGLE_SEARCH_ID }}
         run: |
-          QUERY="scientific+discovery+today"
-          URL="https://www.googleapis.com/customsearch/v1?q=${QUERY}&key=${API_KEY}&cx=${CX_ID}&num=5"
+          URL="https://www.googleapis.com/customsearch/v1?q=scientific+breakthrough+OR+discovery+OR+research+news&key=${API_KEY}&cx=${CX_ID}&num=5"
 
           echo "Fetching discoveries..."
           curl -L -o raw.json "$URL"
 
+          echo "Raw Google response:"
+          cat raw.json
+
           DATE=$(date -u +%Y-%m-%d)
-          jq --arg date "$DATE" '{ date: $date, items: (.items // []) }' raw.json > discoveries.json
+          COUNT=$(jq '.items | length // 0' raw.json)
+
+          if [ "$COUNT" -eq 0 ]; then
+            echo "No search results returned. Keeping old discoveries.json"
+            exit 0
+          fi
+
+          jq --arg date "$DATE" '
+            {
+              date: $date,
+              items: [
+                .items[] | {
+                  title: .title,
+                  summary: (.snippet // "No summary available."),
+                  category: "Science",
+                  source: (.displayLink // "unknown"),
+                  source_url: .link,
+                  impact: 3
+                }
+              ]
+            }
+          ' raw.json > discoveries.json
 
           echo "Updated discoveries.json:"
           cat discoveries.json
