@@ -2,7 +2,7 @@ name: Daily Discovery Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -26,7 +26,7 @@ jobs:
           API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           CX_ID: ${{ secrets.GOOGLE_SEARCH_ID }}
         run: |
-          URL="https://www.googleapis.com/customsearch/v1?q=scientific+breakthrough+OR+discovery+OR+research+news&key=${API_KEY}&cx=${CX_ID}&num=5"
+          URL="https://www.googleapis.com/customsearch/v1?q=site:nature.com+OR+site:science.org+OR+site:nasa.gov+OR+site:nih.gov+OR+site:reuters.com+scientific+breakthrough+OR+discovery+OR+research&key=${API_KEY}&cx=${CX_ID}&num=5"
 
           echo "Fetching discoveries..."
           curl -L -o raw.json "$URL"
