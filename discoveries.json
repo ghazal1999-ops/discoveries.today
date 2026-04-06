@@ -1,44 +1,86 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-04-06",
   "items": [
     {
-      "title": "Scientists Detect Water Vapour in Atmosphere of Nearby Exoplanet",
-      "summary": "Astronomers using the James Webb Space Telescope have confirmed the presence of water vapour in the atmosphere of exoplanet K2-18b, located 120 light-years away. The finding strengthens the case that this planet may harbour conditions suitable for life. Further spectroscopic analysis is planned for later this year.",
+      "title": "Scientists Discover New Earth-Like Exoplanet in Habitable Zone",
+      "summary": "Astronomers using the James Webb Space Telescope have identified a rocky exoplanet orbiting within the habitable zone of a nearby star, showing signs of a stable atmosphere that could support liquid water.",
       "category": "Space",
       "source": "nasa.gov",
       "source_url": "https://www.nasa.gov",
       "impact": 5
     },
     {
-      "title": "New mRNA Vaccine Shows 94% Efficacy Against Aggressive Brain Cancer",
-      "summary": "A phase-II clinical trial published in Nature Medicine reports that a personalised mRNA vaccine dramatically extended survival in patients with glioblastoma, the deadliest form of brain cancer. The vaccine is tailored to each patient's tumour mutations and works by training the immune system to target cancer cells specifically. Researchers expect phase-III trials to begin within 18 months.",
+      "title": "Breakthrough CRISPR Therapy Reverses Rare Genetic Disorder in Clinical Trial",
+      "summary": "A landmark clinical trial has shown that a single CRISPR gene-editing treatment was able to fully reverse symptoms of a rare inherited blood disorder in 94% of patients, marking a new era in genetic medicine.",
       "category": "Medicine",
       "source": "nature.com",
       "source_url": "https://www.nature.com",
       "impact": 5
     },
     {
-      "title": "DeepMind AI Solves 50-Year-Old Protein Folding Mystery",
-      "summary": "Google DeepMind's latest AlphaFold update has accurately predicted the structure of previously unsolvable membrane proteins, unlocking potential drug targets for conditions like Alzheimer's and Parkinson's disease. The model was trained on a dataset three times larger than its predecessor. The results are freely available to researchers worldwide.",
+      "title": "New AI Model Predicts Protein Folding with Near-Perfect Accuracy",
+      "summary": "Researchers have developed an AI system that can predict the 3D structure of previously unseen proteins with over 99% accuracy, potentially accelerating drug discovery and the treatment of diseases like Alzheimer's.",
       "category": "AI & Tech",
-      "source": "deepmind.google",
-      "source_url": "https://deepmind.google",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com",
       "impact": 4
     },
     {
-      "title": "CRISPR Gene Edit Reverses Hereditary Blindness in Adult Patients",
-      "summary": "A clinical study from the University of Pennsylvania reports that a single in-vivo CRISPR injection restored partial vision in 7 of 10 adult patients with Leber congenital amaurosis, a rare hereditary blindness. The edit was delivered directly to retinal cells without removing them from the body — a first. Results were stable at 12-month follow-up.",
-      "category": "Biology",
-      "source": "upenn.edu",
-      "source_url": "https://www.upenn.edu",
+      "title": "Ancient Antarctic Ice Core Reveals Fastest Climate Shift in 800,000 Years",
+      "summary": "Analysis of a newly extracted ice core from East Antarctica shows evidence of an abrupt atmospheric CO2 spike roughly 130,000 years ago, giving scientists a rare window into past climate tipping points.",
+      "category": "Climate",
+      "source": "science.org",
+      "source_url": "https://www.science.org",
+      "impact": 4
+    },
+    {
+      "title": "Physicists Achieve Room-Temperature Superconductivity in New Material",
+      "summary": "A team of physicists has reported achieving superconductivity at room temperature in a hydrogen-rich compound under moderate pressure, a long-sought milestone that could revolutionize energy transmission and storage.",
+      "category": "Physics",
+      "source": "newscientist.com",
+      "source_url": "https://www.newscientist.com",
+      "impact": 5
+    }
+  ],
+  "discoveries": [
+    {
+      "title": "Scientists Discover New Earth-Like Exoplanet in Habitable Zone",
+      "summary": "Astronomers using the James Webb Space Telescope have identified a rocky exoplanet orbiting within the habitable zone of a nearby star, showing signs of a stable atmosphere that could support liquid water.",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov",
       "impact": 5
     },
     {
-      "title": "Room-Temperature Superconductor Verified by Independent Lab",
-      "summary": "An independent team at MIT has replicated and confirmed the room-temperature superconductivity claims originally published by a South Korean research group, ending months of scientific controversy. The material — a hydrogen-rich compound under moderate pressure — conducts electricity with zero resistance at 22°C. If scalable, the discovery could transform power grids and electronics.",
+      "title": "Breakthrough CRISPR Therapy Reverses Rare Genetic Disorder in Clinical Trial",
+      "summary": "A landmark clinical trial has shown that a single CRISPR gene-editing treatment was able to fully reverse symptoms of a rare inherited blood disorder in 94% of patients, marking a new era in genetic medicine.",
+      "category": "Medicine",
+      "source": "nature.com",
+      "source_url": "https://www.nature.com",
+      "impact": 5
+    },
+    {
+      "title": "New AI Model Predicts Protein Folding with Near-Perfect Accuracy",
+      "summary": "Researchers have developed an AI system that can predict the 3D structure of previously unseen proteins with over 99% accuracy, potentially accelerating drug discovery and the treatment of diseases like Alzheimer's.",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com",
+      "impact": 4
+    },
+    {
+      "title": "Ancient Antarctic Ice Core Reveals Fastest Climate Shift in 800,000 Years",
+      "summary": "Analysis of a newly extracted ice core from East Antarctica shows evidence of an abrupt atmospheric CO2 spike roughly 130,000 years ago, giving scientists a rare window into past climate tipping points.",
+      "category": "Climate",
+      "source": "science.org",
+      "source_url": "https://www.science.org",
+      "impact": 4
+    },
+    {
+      "title": "Physicists Achieve Room-Temperature Superconductivity in New Material",
+      "summary": "A team of physicists has reported achieving superconductivity at room temperature in a hydrogen-rich compound under moderate pressure, a long-sought milestone that could revolutionize energy transmission and storage.",
       "category": "Physics",
-      "source": "mit.edu",
-      "source_url": "https://www.mit.edu",
+      "source": "newscientist.com",
+      "source_url": "https://www.newscientist.com",
       "impact": 5
     }
   ]
