@@ -2,9 +2,12 @@ name: Update Daily Discoveries
 
 on:
   schedule:
-    # Runs every night at 11:00 PM UTC (adjust to your preferred timezone)
+    # Runs every night at 11:00 PM UTC
     - cron: '0 23 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Opt into Node.js 24 to silence deprecation warnings
 
 jobs:
   update-discoveries:
@@ -28,7 +31,26 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      # ── 4. Fetch discoveries via Google Custom Search API ─────────────────────
+      # ── 4. Verify secrets are present (does NOT print values) ─────────────────
+      - name: Check secrets are set
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_SEARCH_ID: ${{ secrets.GOOGLE_SEARCH_ID }}
+        run: |
+          if [ -z "$GOOGLE_API_KEY" ]; then
+            echo "❌ ERROR: GOOGLE_API_KEY secret is not set or is empty."
+            exit 1
+          else
+            echo "✅ GOOGLE_API_KEY is set (length: ${#GOOGLE_API_KEY})"
+          fi
+          if [ -z "$GOOGLE_SEARCH_ID" ]; then
+            echo "❌ ERROR: GOOGLE_SEARCH_ID secret is not set or is empty."
+            exit 1
+          else
+            echo "✅ GOOGLE_SEARCH_ID is set (length: ${#GOOGLE_SEARCH_ID})"
+          fi
+
+      # ── 5. Fetch discoveries via Google Custom Search API ─────────────────────
       - name: Fetch and generate discoveries.json
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
@@ -44,18 +66,54 @@ jobs:
           SEARCH_ID = os.environ["GOOGLE_SEARCH_ID"]
           TODAY     = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-          # ── Search queries — cast a wide net across science domains ────────────
+          # ── Do a single test call first to surface clear error messages ────────
+          print("🔍 Testing API connectivity with a single request...")
+          test_resp = requests.get(
+              "https://www.googleapis.com/customsearch/v1",
+              params={
+                  "key": API_KEY,
+                  "cx":  SEARCH_ID,
+                  "q":   "science discovery",
+                  "num": 1,
+              },
+              timeout=15,
+          )
+
+          if test_resp.status_code == 403:
+              err = test_resp.json().get("error", {})
+              print(f"❌ 403 Forbidden — {err.get('message', 'No message')}")
+              print("Possible causes:")
+              print("  1. 'Custom Search API' is NOT enabled in Google Cloud Console.")
+              print("     → https://console.developers.google.com/apis/api/customsearch.googleapis.com")
+              print("  2. The API key has no permission for Custom Search.")
+              print("     → Check key restrictions in https://console.cloud.google.com/apis/credentials")
+              print("  3. Daily quota (100 free queries/day) may be exhausted.")
+              raise SystemExit(1)
+          elif test_resp.status_code == 400:
+              err = test_resp.json().get("error", {})
+              print(f"❌ 400 Bad Request — {err.get('message', 'No message')}")
+              print("  → Check that GOOGLE_SEARCH_ID (cx) is correct.")
+              raise SystemExit(1)
+          elif not test_resp.ok:
+              print(f"❌ HTTP {test_resp.status_code} — {test_resp.text[:300]}")
+              raise SystemExit(1)
+          else:
+              print(f"✅ API connection successful.")
+
+          # ── Search queries ─────────────────────────────────────────────────────
+          # NOTE: 'sort=date' and 'dateRestrict' are omitted — they are not
+          # supported on all CSE tiers and were the likely cause of 403 errors.
           QUERIES = [
-              "latest scientific discovery breakthrough today",
-              "new space discovery NASA ESA 2025",
-              "medical research breakthrough today",
+              "latest scientific discovery breakthrough",
+              "new space discovery NASA ESA",
+              "medical research breakthrough new study",
               "AI artificial intelligence discovery research",
-              "climate science new finding today",
-              "biology genetics new discovery",
+              "climate science new finding research",
+              "biology genetics new discovery study",
               "physics new research finding",
           ]
 
-          # ── Category inference based on title/snippet keywords ─────────────────
+          # ── Category inference ─────────────────────────────────────────────────
           def infer_category(text: str) -> str:
               t = text.lower()
               if any(k in t for k in ["space", "nasa", "esa", "planet", "star", "galaxy",
@@ -63,10 +121,10 @@ jobs:
                                        "moon", "solar", "black hole"]):
                   return "Space"
               if any(k in t for k in ["ai", "artificial intelligence", "machine learning",
-                                       "neural", "robot", "gpt", "llm", "deep learning"]):
+                                       "neural", "robot", "deep learning", "llm"]):
                   return "AI & Tech"
               if any(k in t for k in ["medicine", "medical", "drug", "cancer", "vaccine",
-                                       "therapy", "clinical", "hospital", "disease", "health",
+                                       "therapy", "clinical", "disease", "health",
                                        "treatment", "patient", "brain", "neuro"]):
                   return "Medicine"
               if any(k in t for k in ["climate", "carbon", "emission", "glacier", "warming",
@@ -80,25 +138,25 @@ jobs:
                                        "electron", "superconductor", "fusion", "gravity"]):
                   return "Physics"
               if any(k in t for k in ["chemistry", "material", "molecule", "compound",
-                                       "element", "catalyst", "polymer", "nano"]):
+                                       "catalyst", "polymer", "nano"]):
                   return "Chemistry"
               return "Science"
 
-          # ── Impact score (1–5) based on keyword signals ────────────────────────
+          # ── Impact score (1–5) ─────────────────────────────────────────────────
           def infer_impact(text: str) -> int:
               t = text.lower()
               high   = ["breakthrough", "first ever", "never before", "revolutionary",
                         "unprecedented", "major", "landmark", "historic", "game-changer"]
               medium = ["significant", "new study", "researchers found", "discovery",
-                        "advances", "improves", "shows", "reveals"]
+                        "advances", "improves", "shows", "reveals", "new research"]
               if any(k in t for k in high):
                   return 5
               if any(k in t for k in medium):
                   return 3
               return 2
 
-          # ── Fetch results from Google Custom Search ────────────────────────────
-          seen_urls = set()
+          # ── Fetch results ──────────────────────────────────────────────────────
+          seen_urls  = set()
           candidates = []
 
           for query in QUERIES:
@@ -108,12 +166,10 @@ jobs:
                   resp = requests.get(
                       "https://www.googleapis.com/customsearch/v1",
                       params={
-                          "key":  API_KEY,
-                          "cx":   SEARCH_ID,
-                          "q":    query,
-                          "num":  5,
-                          "sort": "date",          # Prefer recent results
-                          "dateRestrict": "d3",    # Last 3 days
+                          "key": API_KEY,
+                          "cx":  SEARCH_ID,
+                          "q":   query,
+                          "num": 5,
                       },
                       timeout=15,
                   )
@@ -129,11 +185,10 @@ jobs:
                           continue
 
                       seen_urls.add(url)
-                      combined  = title + " " + snip
-                      category  = infer_category(combined)
-                      impact    = infer_impact(combined)
+                      combined = title + " " + snip
+                      category = infer_category(combined)
+                      impact   = infer_impact(combined)
 
-                      # Extract source domain as display name
                       try:
                           from urllib.parse import urlparse
                           source = urlparse(url).netloc.replace("www.", "")
@@ -149,16 +204,19 @@ jobs:
                           "impact":     impact,
                       })
 
+                  print(f"  ✓ '{query}' → {len(data.get('items', []))} results")
+
               except requests.RequestException as e:
-                  print(f"Warning: query '{query}' failed — {e}")
+                  print(f"  ⚠ query '{query}' failed — {e}")
                   continue
 
           if not candidates:
-              raise RuntimeError("No results returned from Google Custom Search. "
-                                 "Check that GOOGLE_API_KEY and GOOGLE_SEARCH_ID are correct.")
+              raise RuntimeError(
+                  "No results returned from any query. "
+                  "API connected but returned empty results — check your CSE site configuration."
+              )
 
-          # ── Deduplicate by title similarity and pick top 5 ─────────────────────
-          # Sort: higher impact first, then by order found (freshness proxy)
+          # ── Rank and deduplicate → top 5 ───────────────────────────────────────
           candidates.sort(key=lambda x: -x["impact"])
 
           seen_titles = set()
@@ -171,26 +229,22 @@ jobs:
               if len(top5) == 5:
                   break
 
-          # Pad to 5 if fewer results came back
-          while len(top5) < 5 and len(top5) < len(candidates):
-              top5.append(candidates[len(top5)])
-
           # ── Write discoveries.json ─────────────────────────────────────────────
           output = {
               "date":        TODAY,
               "items":       top5,
-              "discoveries": top5,   # keep both keys for compatibility
+              "discoveries": top5,
           }
 
           with open("discoveries.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print(f"✅ Written discoveries.json with {len(top5)} items for {TODAY}")
+          print(f"\n✅ Written discoveries.json with {len(top5)} items for {TODAY}")
           for i, item in enumerate(top5, 1):
               print(f"  {i}. [{item['category']}] {item['title'][:80]}")
           EOF
 
-      # ── 5. Commit and push if the file changed ────────────────────────────────
+      # ── 6. Commit and push if the file changed ────────────────────────────────
       - name: Commit and push discoveries.json
         run: |
           git config user.name  "github-actions[bot]"
@@ -198,7 +252,6 @@ jobs:
 
           git add discoveries.json
 
-          # Only commit if there's actually a change
           if git diff --cached --quiet; then
             echo "No changes to discoveries.json — skipping commit."
           else
