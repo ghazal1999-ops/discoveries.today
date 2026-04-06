@@ -1,80 +1,208 @@
-name: Daily Discovery Update
+name: Update Daily Discoveries
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-  workflow_dispatch:
+    # Runs every night at 11:00 PM UTC (adjust to your preferred timezone)
+    - cron: '0 23 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
 
 jobs:
-  build:
+  update-discoveries:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
+      contents: write  # Needed to commit and push discoveries.json
 
     steps:
-      - name: Checkout code
+      # ── 1. Check out the repo ─────────────────────────────────────────────────
+      - name: Checkout repository
         uses: actions/checkout@v4
+
+      # ── 2. Set up Python ──────────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          fetch-depth: 0
+          python-version: '3.11'
 
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+      # ── 3. Install dependencies ───────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Fetch Discoveries
+      # ── 4. Fetch discoveries via Google Custom Search API ─────────────────────
+      - name: Fetch and generate discoveries.json
         env:
-          API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          CX_ID: ${{ secrets.GOOGLE_SEARCH_ID }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_SEARCH_ID: ${{ secrets.GOOGLE_SEARCH_ID }}
         run: |
-          URL="https://www.googleapis.com/customsearch/v1?q=site:nature.com+OR+site:science.org+OR+site:nasa.gov+OR+site:nih.gov+OR+site:reuters.com+scientific+breakthrough+OR+discovery+OR+research&key=${API_KEY}&cx=${CX_ID}&num=5"
+          python3 << 'EOF'
+          import os
+          import json
+          import requests
+          from datetime import datetime, timezone
 
-          echo "Fetching discoveries..."
-          curl -L -o raw.json "$URL"
+          API_KEY   = os.environ["GOOGLE_API_KEY"]
+          SEARCH_ID = os.environ["GOOGLE_SEARCH_ID"]
+          TODAY     = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-          echo "Raw Google response:"
-          cat raw.json
+          # ── Search queries — cast a wide net across science domains ────────────
+          QUERIES = [
+              "latest scientific discovery breakthrough today",
+              "new space discovery NASA ESA 2025",
+              "medical research breakthrough today",
+              "AI artificial intelligence discovery research",
+              "climate science new finding today",
+              "biology genetics new discovery",
+              "physics new research finding",
+          ]
 
-          DATE=$(date -u +%Y-%m-%d)
-          COUNT=$(jq '.items | length // 0' raw.json)
+          # ── Category inference based on title/snippet keywords ─────────────────
+          def infer_category(text: str) -> str:
+              t = text.lower()
+              if any(k in t for k in ["space", "nasa", "esa", "planet", "star", "galaxy",
+                                       "asteroid", "cosmos", "telescope", "orbit", "mars",
+                                       "moon", "solar", "black hole"]):
+                  return "Space"
+              if any(k in t for k in ["ai", "artificial intelligence", "machine learning",
+                                       "neural", "robot", "gpt", "llm", "deep learning"]):
+                  return "AI & Tech"
+              if any(k in t for k in ["medicine", "medical", "drug", "cancer", "vaccine",
+                                       "therapy", "clinical", "hospital", "disease", "health",
+                                       "treatment", "patient", "brain", "neuro"]):
+                  return "Medicine"
+              if any(k in t for k in ["climate", "carbon", "emission", "glacier", "warming",
+                                       "ocean", "weather", "atmosphere", "arctic"]):
+                  return "Climate"
+              if any(k in t for k in ["biology", "gene", "dna", "rna", "species", "evolution",
+                                       "cell", "protein", "microbe", "bacteria", "virus",
+                                       "crispr", "genome", "fossil"]):
+                  return "Biology"
+              if any(k in t for k in ["physics", "quantum", "particle", "laser", "photon",
+                                       "electron", "superconductor", "fusion", "gravity"]):
+                  return "Physics"
+              if any(k in t for k in ["chemistry", "material", "molecule", "compound",
+                                       "element", "catalyst", "polymer", "nano"]):
+                  return "Chemistry"
+              return "Science"
 
-          if [ "$COUNT" -eq 0 ]; then
-            echo "No search results returned. Keeping old discoveries.json"
-            exit 0
-          fi
+          # ── Impact score (1–5) based on keyword signals ────────────────────────
+          def infer_impact(text: str) -> int:
+              t = text.lower()
+              high   = ["breakthrough", "first ever", "never before", "revolutionary",
+                        "unprecedented", "major", "landmark", "historic", "game-changer"]
+              medium = ["significant", "new study", "researchers found", "discovery",
+                        "advances", "improves", "shows", "reveals"]
+              if any(k in t for k in high):
+                  return 5
+              if any(k in t for k in medium):
+                  return 3
+              return 2
 
-          jq --arg date "$DATE" '
-            {
-              date: $date,
-              items: [
-                .items[] | {
-                  title: .title,
-                  summary: (.snippet // "No summary available."),
-                  category: "Science",
-                  source: (.displayLink // "unknown"),
-                  source_url: .link,
-                  impact: 3
-                }
-              ]
-            }
-          ' raw.json > discoveries.json
+          # ── Fetch results from Google Custom Search ────────────────────────────
+          seen_urls = set()
+          candidates = []
 
-          echo "Updated discoveries.json:"
-          cat discoveries.json
+          for query in QUERIES:
+              if len(candidates) >= 20:
+                  break
+              try:
+                  resp = requests.get(
+                      "https://www.googleapis.com/customsearch/v1",
+                      params={
+                          "key":  API_KEY,
+                          "cx":   SEARCH_ID,
+                          "q":    query,
+                          "num":  5,
+                          "sort": "date",          # Prefer recent results
+                          "dateRestrict": "d3",    # Last 3 days
+                      },
+                      timeout=15,
+                  )
+                  resp.raise_for_status()
+                  data = resp.json()
 
-      - name: Commit and Push
+                  for item in data.get("items", []):
+                      url   = item.get("link", "")
+                      title = item.get("title", "").strip()
+                      snip  = item.get("snippet", "").strip().replace("\n", " ")
+
+                      if not url or not title or url in seen_urls:
+                          continue
+
+                      seen_urls.add(url)
+                      combined  = title + " " + snip
+                      category  = infer_category(combined)
+                      impact    = infer_impact(combined)
+
+                      # Extract source domain as display name
+                      try:
+                          from urllib.parse import urlparse
+                          source = urlparse(url).netloc.replace("www.", "")
+                      except Exception:
+                          source = ""
+
+                      candidates.append({
+                          "title":      title,
+                          "summary":    snip if snip else title,
+                          "category":   category,
+                          "source":     source,
+                          "source_url": url,
+                          "impact":     impact,
+                      })
+
+              except requests.RequestException as e:
+                  print(f"Warning: query '{query}' failed — {e}")
+                  continue
+
+          if not candidates:
+              raise RuntimeError("No results returned from Google Custom Search. "
+                                 "Check that GOOGLE_API_KEY and GOOGLE_SEARCH_ID are correct.")
+
+          # ── Deduplicate by title similarity and pick top 5 ─────────────────────
+          # Sort: higher impact first, then by order found (freshness proxy)
+          candidates.sort(key=lambda x: -x["impact"])
+
+          seen_titles = set()
+          top5 = []
+          for c in candidates:
+              short = c["title"][:60].lower()
+              if short not in seen_titles:
+                  seen_titles.add(short)
+                  top5.append(c)
+              if len(top5) == 5:
+                  break
+
+          # Pad to 5 if fewer results came back
+          while len(top5) < 5 and len(top5) < len(candidates):
+              top5.append(candidates[len(top5)])
+
+          # ── Write discoveries.json ─────────────────────────────────────────────
+          output = {
+              "date":        TODAY,
+              "items":       top5,
+              "discoveries": top5,   # keep both keys for compatibility
+          }
+
+          with open("discoveries.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+
+          print(f"✅ Written discoveries.json with {len(top5)} items for {TODAY}")
+          for i, item in enumerate(top5, 1):
+              print(f"  {i}. [{item['category']}] {item['title'][:80]}")
+          EOF
+
+      # ── 5. Commit and push if the file changed ────────────────────────────────
+      - name: Commit and push discoveries.json
         run: |
-          git config --global user.name "DiscoveryBot"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git fetch origin main
-          git rebase origin/main || true
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add discoveries.json
 
+          # Only commit if there's actually a change
           if git diff --cached --quiet; then
-            echo "No changes to discoveries.json"
-            exit 0
+            echo "No changes to discoveries.json — skipping commit."
+          else
+            git commit -m "chore: update daily discoveries [$(date -u '+%Y-%m-%d')]"
+            git push
+            echo "✅ discoveries.json pushed successfully."
           fi
-
-          git commit -m "Updated discoveries for $(date -u)"
-          git push --force-with-lease origin HEAD:main
