@@ -106,10 +106,20 @@ body::before {
 .hero {
   position: relative;
   z-index: 1;
-  text-align: center;
-  padding: 72px 24px 40px;
-  max-width: 860px;
+  max-width: 1220px;
   margin: 0 auto;
+  padding: 72px 24px 40px;
+}
+
+.hero-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 760px) 320px;
+  gap: 30px;
+  align-items: center;
+}
+
+.hero-main {
+  text-align: center;
 }
 
 .hero-kicker {
@@ -158,42 +168,75 @@ h1 em {
   font-weight: 300;
 }
 
-.cat-stage {
-  position: relative;
-  width: min(520px, 92%);
-  margin: 0 auto 26px;
-  padding: 20px 16px 8px;
-}
-
-.cat-wrap {
+.hero-side {
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   align-items: center;
-  gap: 10px;
 }
 
-.cat-message {
+.cat-panel {
+  position: relative;
+  width: 100%;
+  min-height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cat-bubble {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+  max-width: 215px;
+  background: rgba(255,255,255,0.92);
+  border: 1px solid var(--border-strong);
+  border-radius: 22px;
+  padding: 14px 16px;
+  box-shadow: 0 16px 40px rgba(10,10,15,0.08);
   font-family: 'Instrument Serif', Georgia, serif;
-  font-size: clamp(20px, 3vw, 30px);
-  color: var(--ink);
+  font-size: 24px;
+  line-height: 1.15;
   letter-spacing: -0.02em;
+  color: var(--ink);
+  animation: bubbleFloat 4.5s ease-in-out infinite;
 }
 
-.cat-message em {
+.cat-bubble em {
   color: var(--accent);
   font-style: italic;
 }
 
-.cat-sketch {
-  width: 230px;
-  height: auto;
-  overflow: visible;
-  filter: drop-shadow(0 10px 24px rgba(10,10,15,0.08));
+.cat-bubble::after {
+  content: '';
+  position: absolute;
+  right: 32px;
+  bottom: -12px;
+  width: 22px;
+  height: 22px;
+  background: rgba(255,255,255,0.92);
+  border-right: 1px solid var(--border-strong);
+  border-bottom: 1px solid var(--border-strong);
+  transform: rotate(45deg);
 }
 
-.cat-sketch path,
-.cat-sketch circle,
-.cat-sketch ellipse {
+@keyframes bubbleFloat {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+}
+
+.cat-figure {
+  position: absolute;
+  right: 18px;
+  bottom: 0;
+  width: 250px;
+  height: auto;
+  filter: drop-shadow(0 14px 28px rgba(10,10,15,0.08));
+}
+
+.cat-figure path,
+.cat-figure circle,
+.cat-figure ellipse,
+.cat-figure line {
   fill: none;
   stroke: var(--ink);
   stroke-width: 3.1;
@@ -201,39 +244,58 @@ h1 em {
   stroke-linejoin: round;
 }
 
-.cat-sketch .soft {
+.cat-figure .soft {
   stroke: var(--ink-muted);
-  stroke-width: 2.3;
-}
-
-.cat-sketch .glow-line {
-  stroke: var(--accent);
   stroke-width: 2.2;
-  stroke-dasharray: 10 14;
-  animation: floatDash 6s linear infinite;
 }
 
-.cat-sketch .draw-1 { stroke-dasharray: 620; stroke-dashoffset: 620; animation: drawLine 2.6s ease forwards; }
-.cat-sketch .draw-2 { stroke-dasharray: 220; stroke-dashoffset: 220; animation: drawLine 1.5s ease forwards 0.5s; }
-.cat-sketch .draw-3 { stroke-dasharray: 180; stroke-dashoffset: 180; animation: drawLine 1.2s ease forwards 0.9s; }
-.cat-sketch .draw-4 { stroke-dasharray: 120; stroke-dashoffset: 120; animation: drawLine 1s ease forwards 1.2s; }
-
-.cat-wrap .spark {
-  animation: bob 2.8s ease-in-out infinite;
-  transform-origin: center;
+.cat-figure .accent-stroke {
+  stroke: var(--accent);
+  stroke-width: 2.1;
 }
 
-@keyframes drawLine {
+.cat-draw {
+  stroke-dasharray: 700;
+  stroke-dashoffset: 700;
+  animation: drawCat 2.2s ease forwards;
+}
+
+.cat-draw-2 {
+  stroke-dasharray: 240;
+  stroke-dashoffset: 240;
+  animation: drawCat 1.4s ease forwards 0.4s;
+}
+
+.cat-draw-3 {
+  stroke-dasharray: 180;
+  stroke-dashoffset: 180;
+  animation: drawCat 1s ease forwards 0.8s;
+}
+
+@keyframes drawCat {
   to { stroke-dashoffset: 0; }
 }
 
-@keyframes floatDash {
-  to { stroke-dashoffset: -120; }
+.paw-wave {
+  transform-origin: 188px 88px;
+  animation: pawWave 1.5s ease-in-out infinite;
 }
 
-@keyframes bob {
-  0%, 100% { transform: translateY(0px); opacity: 0.85; }
-  50% { transform: translateY(-5px); opacity: 1; }
+@keyframes pawWave {
+  0%, 100% { transform: rotate(0deg); }
+  20% { transform: rotate(-14deg); }
+  40% { transform: rotate(10deg); }
+  60% { transform: rotate(-10deg); }
+  80% { transform: rotate(7deg); }
+}
+
+.spark-1 { animation: sparkBlink 1.3s ease-in-out infinite; }
+.spark-2 { animation: sparkBlink 1.3s ease-in-out infinite 0.25s; }
+.spark-3 { animation: sparkBlink 1.3s ease-in-out infinite 0.5s; }
+
+@keyframes sparkBlink {
+  0%, 100% { opacity: 0.2; transform: translateY(0px); }
+  50% { opacity: 1; transform: translateY(-4px); }
 }
 
 .filter-bar {
@@ -591,6 +653,38 @@ footer {
   line-height: 1.8;
 }
 
+@media (max-width: 980px) {
+  .hero-layout {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .hero-side {
+    order: 2;
+  }
+
+  .hero-main {
+    order: 1;
+  }
+
+  .cat-panel {
+    min-height: 250px;
+  }
+
+  .cat-bubble {
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .cat-figure {
+    position: relative;
+    right: auto;
+    bottom: auto;
+    margin-top: 78px;
+  }
+}
+
 @media (max-width: 600px) {
   .card-inner { grid-template-columns: auto 1fr; }
   .card-rank { min-width: 52px; padding: 18px 14px; }
@@ -601,8 +695,9 @@ footer {
   h1 { font-size: 36px; }
   .topbar { padding: 0 16px; }
   .topbar-count { display: none; }
-  .cat-sketch { width: 180px; }
-  .cat-message { font-size: 20px; }
+  .cat-panel { min-height: 230px; }
+  .cat-figure { width: 190px; }
+  .cat-bubble { font-size: 18px; max-width: 185px; padding: 12px 14px; }
 }
 </style>
 </head>
@@ -618,57 +713,69 @@ footer {
 </nav>
 
 <section class="hero">
-  <div class="hero-kicker">Live · Updated Daily</div>
-  <h1>Today's <em>Top 5 Discoveries</em></h1>
-  <p class="hero-sub">
-    The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world — refreshed automatically from your daily JSON feed.
-  </p>
+  <div class="hero-layout">
+    <div class="hero-main">
+      <div class="hero-kicker">Live · Updated Daily</div>
+      <h1>Today's <em>Top 5 Discoveries</em></h1>
+      <p class="hero-sub">
+        The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world — refreshed automatically from your daily JSON feed.
+      </p>
 
-  <div class="cat-stage">
-    <div class="cat-wrap">
-      <svg class="cat-sketch" viewBox="0 0 280 220" aria-hidden="true">
-        <path class="glow-line spark" d="M212 28c16 8 26 20 32 34" />
-        <path class="glow-line spark" d="M228 14c6 10 10 19 12 28" />
-        <path class="glow-line spark" d="M197 16c10 4 18 10 25 18" />
-
-        <path class="draw-1" d="M84 169
-          C73 150, 67 137, 66 118
-          C65 90, 78 63, 101 48
-          L113 27
-          L128 49
-          C136 45, 145 43, 154 43
-          C164 43, 174 46, 182 51
-          L196 28
-          L207 52
-          C229 68, 242 93, 241 118
-          C240 142, 228 160, 208 171
-          C190 181, 168 184, 155 184
-          C143 184, 120 181, 103 175
-          C95 172, 89 170, 84 169Z" />
-        <path class="draw-2 soft" d="M126 118c7-9 18-13 29-13c13 0 24 5 31 15" />
-        <path class="draw-3" d="M142 135
-          C147 141, 162 141, 167 135
-          M154 137
-          C154 146, 149 151, 142 154
-          M155 137
-          C155 146, 161 151, 168 154" />
-        <path class="draw-4 soft" d="M116 132L86 127M116 139L84 140M118 147L89 154M193 132L223 127M193 139L225 140M191 147L220 154" />
-        <circle class="draw-4" cx="125" cy="103" r="4.8" />
-        <circle class="draw-4" cx="183" cy="103" r="4.8" />
-        <path class="soft" d="M102 178c10 9 26 14 52 14c27 0 46-5 58-15" />
-      </svg>
-      <div class="cat-message">Curiosity <em>led you to the right page!</em></div>
+      <div class="filter-bar" id="filter-bar">
+        <button class="filter-btn active" data-cat="all">All Fields</button>
+        <button class="filter-btn" data-cat="space">Space</button>
+        <button class="filter-btn" data-cat="medicine">Medicine</button>
+        <button class="filter-btn" data-cat="ai">AI & Tech</button>
+        <button class="filter-btn" data-cat="climate">Climate</button>
+        <button class="filter-btn" data-cat="biology">Biology</button>
+        <button class="filter-btn" data-cat="physics">Physics</button>
+      </div>
     </div>
-  </div>
 
-  <div class="filter-bar" id="filter-bar">
-    <button class="filter-btn active" data-cat="all">All Fields</button>
-    <button class="filter-btn" data-cat="space">Space</button>
-    <button class="filter-btn" data-cat="medicine">Medicine</button>
-    <button class="filter-btn" data-cat="ai">AI & Tech</button>
-    <button class="filter-btn" data-cat="climate">Climate</button>
-    <button class="filter-btn" data-cat="biology">Biology</button>
-    <button class="filter-btn" data-cat="physics">Physics</button>
+    <div class="hero-side">
+      <div class="cat-panel">
+        <div class="cat-bubble">Curiosity <em>led you to the right page!</em></div>
+
+        <svg class="cat-figure" viewBox="0 0 260 280" aria-hidden="true">
+          <path class="cat-draw" d="M65 250
+            C56 236, 54 220, 55 202
+            C57 175, 69 150, 88 135
+            L88 108
+            L110 128
+            C122 123, 133 121, 145 121
+            C156 121, 166 123, 177 128
+            L196 107
+            L198 137
+            C216 152, 227 176, 229 201
+            C231 221, 226 239, 214 252
+            C201 266, 178 271, 143 271
+            C107 271, 80 266, 65 250Z" />
+
+          <path class="cat-draw-2 soft" d="M110 178 C120 167, 134 162, 145 162 C159 162, 171 167, 180 178" />
+          <circle class="cat-draw-3" cx="118" cy="168" r="4.5" />
+          <circle class="cat-draw-3" cx="173" cy="168" r="4.5" />
+          <path class="cat-draw-3" d="M140 190 C144 195, 147 195, 151 190 M145 190 L145 202 M145 202 C139 206, 136 211, 133 217 M145 202 C151 205, 155 210, 158 217" />
+          <line class="soft" x1="105" y1="196" x2="74" y2="190" />
+          <line class="soft" x1="104" y1="205" x2="72" y2="205" />
+          <line class="soft" x1="107" y1="214" x2="76" y2="220" />
+          <line class="soft" x1="186" y1="196" x2="217" y2="190" />
+          <line class="soft" x1="187" y1="205" x2="219" y2="205" />
+          <line class="soft" x1="184" y1="214" x2="215" y2="220" />
+          <path class="soft" d="M94 242 C108 251, 122 255, 145 255 C167 255, 184 251, 198 241" />
+
+          <g class="paw-wave">
+            <path class="cat-draw-2" d="M186 120 C205 100, 224 92, 235 102 C245 111, 239 129, 223 143" />
+            <path d="M223 143 C230 146, 234 154, 230 162 C226 170, 216 171, 208 166 C201 161, 199 151, 204 145" />
+            <path d="M212 136 C214 129, 221 125, 227 127" />
+            <path d="M221 133 C224 126, 231 123, 237 125" />
+          </g>
+
+          <path class="accent-stroke spark-1" d="M205 80 L212 73" />
+          <path class="accent-stroke spark-2" d="M216 83 L225 79" />
+          <path class="accent-stroke spark-3" d="M212 93 L220 98" />
+        </svg>
+      </div>
+    </div>
   </div>
 </section>
 
