@@ -1,14 +1,46 @@
 {
   "date": "2026-04-07",
-  "last_updated": "2026-04-07 00:00 UTC",
+  "last_updated": "2026-04-07 19:57 UTC",
   "items": [
     {
-      "title": "Sample discovery title",
-      "summary": "This is a starter placeholder. Once the GitHub Action runs, this file will be replaced automatically with fresh discoveries from RSS feeds.",
-      "category": "Science",
-      "source": "Starter file",
-      "source_url": "https://example.com",
-      "impact": 3
+      "title": "NASA to Host Media Call with Artemis II Crew on Way Home from Moon",
+      "summary": "Media will have an opportunity at 9:45 p.m. EDT on Wednesday, April 8, to speak with NASA’s Artemis II crew members as they continue their journey toward Earth during their historic mission around the Moon. The 20-minute virtual news conference will take place with NASA astronauts Reid Wiseman, Vict",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/",
+      "impact": 5
+    },
+    {
+      "title": "Earth’s most powerful ocean current didn’t form the way we thought",
+      "summary": "A colossal ocean current encircling Antarctica—stronger than all the world’s rivers combined—played a far more complex role in shaping Earth’s climate than scientists once thought. New research shows it didn’t form just because ocean gateways opened, but required shifting continents and powerful win",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260406192902.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists found a protein that drives brain aging — and how to stop it",
+      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain beg",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
+      "impact": 4
+    },
+    {
+      "title": "This “forbidden” exoplanet has an atmosphere scientists can’t explain",
+      "summary": "A strange “forbidden” planet spotted by the James Webb Space Telescope is turning planetary science on its head. TOI-5205 b, a Jupiter-sized world orbiting a small, cool star, has an atmosphere surprisingly poor in heavy elements—even less enriched than its own star, which defies current theories of",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260406192905.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists discover hidden brain switch that tells you to stop eating",
+      "summary": "Your brain’s “stop eating” signal may come from an unexpected source. Researchers found that astrocytes—once thought to just support neurons—actually play a key role in controlling appetite. After a meal, glucose triggers tanycytes, which send signals to astrocytes that then activate fullness neuron",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
+      "impact": 4
     }
   ]
 }
