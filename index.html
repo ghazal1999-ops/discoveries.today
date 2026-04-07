@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Today's Top 5 Discoveries — Daily Breakthroughs</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -26,7 +26,6 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
 html { scroll-behavior: smooth; }
 
 body {
@@ -37,10 +36,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* ── GRID LINES background ── */
 body::before {
   content: '';
-  position: fixed; inset: 0;
+  position: fixed;
+  inset: 0;
   background-image:
     linear-gradient(var(--paper-tint) 1px, transparent 1px),
     linear-gradient(90deg, var(--paper-tint) 1px, transparent 1px);
@@ -50,15 +49,17 @@ body::before {
   z-index: 0;
 }
 
-/* ── TOPBAR ── */
 .topbar {
-  position: sticky; top: 0;
+  position: sticky;
+  top: 0;
   background: rgba(250,250,247,0.85);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
   z-index: 100;
   padding: 0 24px;
-  display: flex; align-items: center; justify-content: space-between;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   height: 56px;
 }
 
@@ -68,11 +69,14 @@ body::before {
   font-weight: 500;
   letter-spacing: -0.01em;
   color: var(--ink);
-  display: flex; align-items: center; gap: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .logo-dot {
-  width: 8px; height: 8px;
+  width: 8px;
+  height: 8px;
   background: var(--accent);
   border-radius: 50%;
   animation: pulse 2s infinite;
@@ -99,12 +103,12 @@ body::before {
   border: 1px solid rgba(26,107,255,0.2);
 }
 
-/* ── HERO ── */
 .hero {
-  position: relative; z-index: 1;
+  position: relative;
+  z-index: 1;
   text-align: center;
-  padding: 80px 24px 56px;
-  max-width: 780px;
+  padding: 72px 24px 40px;
+  max-width: 860px;
   margin: 0 auto;
 }
 
@@ -115,25 +119,29 @@ body::before {
   text-transform: uppercase;
   color: var(--accent);
   margin-bottom: 20px;
-  display: flex; align-items: center; justify-content: center; gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
 }
 
 .hero-kicker::before, .hero-kicker::after {
   content: '';
   display: block;
-  width: 24px; height: 1px;
+  width: 24px;
+  height: 1px;
   background: var(--accent);
   opacity: 0.5;
 }
 
 h1 {
   font-family: 'Instrument Serif', Georgia, serif;
-  font-size: clamp(38px, 7vw, 72px);
+  font-size: clamp(40px, 7vw, 76px);
   font-weight: 400;
-  line-height: 1.05;
+  line-height: 1.03;
   letter-spacing: -0.02em;
   color: var(--ink);
-  margin-bottom: 16px;
+  margin-bottom: 14px;
 }
 
 h1 em {
@@ -144,13 +152,90 @@ h1 em {
 .hero-sub {
   font-size: 16px;
   color: var(--ink-muted);
-  max-width: 480px;
-  margin: 0 auto 36px;
+  max-width: 560px;
+  margin: 0 auto 24px;
   line-height: 1.65;
   font-weight: 300;
 }
 
-/* Filter bar */
+.cat-stage {
+  position: relative;
+  width: min(520px, 92%);
+  margin: 0 auto 26px;
+  padding: 20px 16px 8px;
+}
+
+.cat-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.cat-message {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: clamp(20px, 3vw, 30px);
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+
+.cat-message em {
+  color: var(--accent);
+  font-style: italic;
+}
+
+.cat-sketch {
+  width: 230px;
+  height: auto;
+  overflow: visible;
+  filter: drop-shadow(0 10px 24px rgba(10,10,15,0.08));
+}
+
+.cat-sketch path,
+.cat-sketch circle,
+.cat-sketch ellipse {
+  fill: none;
+  stroke: var(--ink);
+  stroke-width: 3.1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.cat-sketch .soft {
+  stroke: var(--ink-muted);
+  stroke-width: 2.3;
+}
+
+.cat-sketch .glow-line {
+  stroke: var(--accent);
+  stroke-width: 2.2;
+  stroke-dasharray: 10 14;
+  animation: floatDash 6s linear infinite;
+}
+
+.cat-sketch .draw-1 { stroke-dasharray: 620; stroke-dashoffset: 620; animation: drawLine 2.6s ease forwards; }
+.cat-sketch .draw-2 { stroke-dasharray: 220; stroke-dashoffset: 220; animation: drawLine 1.5s ease forwards 0.5s; }
+.cat-sketch .draw-3 { stroke-dasharray: 180; stroke-dashoffset: 180; animation: drawLine 1.2s ease forwards 0.9s; }
+.cat-sketch .draw-4 { stroke-dasharray: 120; stroke-dashoffset: 120; animation: drawLine 1s ease forwards 1.2s; }
+
+.cat-wrap .spark {
+  animation: bob 2.8s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes drawLine {
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes floatDash {
+  to { stroke-dashoffset: -120; }
+}
+
+@keyframes bob {
+  0%, 100% { transform: translateY(0px); opacity: 0.85; }
+  50% { transform: translateY(-5px); opacity: 1; }
+}
+
 .filter-bar {
   display: flex;
   align-items: center;
@@ -172,16 +257,21 @@ h1 em {
   cursor: pointer;
   transition: all 0.15s ease;
 }
-.filter-btn:hover { border-color: var(--glow); color: var(--glow); }
+
+.filter-btn:hover {
+  border-color: var(--glow);
+  color: var(--glow);
+}
+
 .filter-btn.active {
   background: var(--ink);
   border-color: var(--ink);
   color: white;
 }
 
-/* ── CONTROL ROW ── */
 .controls {
-  position: relative; z-index: 1;
+  position: relative;
+  z-index: 1;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -199,7 +289,9 @@ h1 em {
 }
 
 .refresh-btn {
-  display: flex; align-items: center; gap: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
   font-family: 'Geist', sans-serif;
   font-size: 13px;
   font-weight: 500;
@@ -211,20 +303,32 @@ h1 em {
   cursor: pointer;
   transition: all 0.15s ease;
 }
-.refresh-btn:hover { background: #1A1A2E; transform: translateY(-1px); }
+
+.refresh-btn:hover {
+  background: #1A1A2E;
+  transform: translateY(-1px);
+}
+
 .refresh-btn:active { transform: translateY(0); }
-.refresh-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+.refresh-btn:disabled { opacity: 0.55; cursor: not-allowed; transform: none; }
 
 .refresh-icon {
-  width: 14px; height: 14px;
+  width: 14px;
+  height: 14px;
   transition: transform 0.5s ease;
 }
-.refresh-btn.spinning .refresh-icon { animation: spin 0.8s linear infinite; }
-@keyframes spin { to { transform: rotate(360deg); } }
 
-/* ── GRID ── */
+.refresh-btn.spinning .refresh-icon {
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
 .discoveries-grid {
-  position: relative; z-index: 1;
+  position: relative;
+  z-index: 1;
   max-width: 960px;
   margin: 0 auto;
   padding: 0 24px 80px;
@@ -233,19 +337,20 @@ h1 em {
   gap: 20px;
 }
 
-/* ── LOADING STATE ── */
 .loading-state {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 100px 24px;
+  padding: 84px 24px;
   gap: 20px;
-  position: relative; z-index: 1;
+  position: relative;
+  z-index: 1;
 }
 
 .loading-orb {
-  width: 48px; height: 48px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
   border: 2px solid var(--border);
   border-top-color: var(--glow);
@@ -271,16 +376,18 @@ h1 em {
   font-family: 'Geist Mono', monospace;
   font-size: 12px;
   color: var(--ink-muted);
-  display: flex; align-items: center; gap: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
   transition: color 0.3s;
 }
+
 .step.active { color: var(--glow); }
 .step.done { color: var(--success); }
 .step::before { content: '○'; font-size: 10px; }
 .step.active::before { content: '◉'; }
 .step.done::before { content: '●'; }
 
-/* ── DISCOVERY CARD ── */
 .discovery-card {
   background: white;
   border: 1px solid var(--border);
@@ -289,13 +396,15 @@ h1 em {
   transition: box-shadow 0.2s ease, transform 0.2s ease;
   animation: fadeUp 0.4s ease both;
 }
+
 .discovery-card:hover {
   box-shadow: 0 4px 24px rgba(10,10,15,0.1);
   transform: translateY(-2px);
 }
+
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(12px); }
-  to   { opacity: 1; transform: translateY(0); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .card-inner {
@@ -345,7 +454,6 @@ h1 em {
   font-weight: 500;
 }
 
-/* Category colors */
 .cat-space    { background: #EBF1FF; color: #185FA5; }
 .cat-medicine { background: #E6F5F0; color: #0F6E56; }
 .cat-ai       { background: #F0EDFF; color: #534AB7; }
@@ -396,14 +504,20 @@ h1 em {
 }
 
 .impact-dots {
-  display: flex; gap: 4px;
+  display: flex;
+  gap: 4px;
 }
+
 .impact-dot {
-  width: 6px; height: 6px;
+  width: 6px;
+  height: 6px;
   border-radius: 50%;
   background: var(--border-strong);
 }
-.impact-dot.filled { background: var(--accent); }
+
+.impact-dot.filled {
+  background: var(--accent);
+}
 
 .card-link {
   margin-left: auto;
@@ -411,41 +525,49 @@ h1 em {
   color: var(--glow);
   text-decoration: none;
   font-family: 'Geist Mono', monospace;
-  display: flex; align-items: center; gap: 4px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
   transition: opacity 0.15s;
 }
+
 .card-link:hover { opacity: 0.7; }
 
-/* ── FEATURED CARD (rank 1) ── */
 .discovery-card.featured {
   grid-column: 1 / -1;
-}
-.discovery-card.featured {
   border-color: rgba(26,107,255,0.25);
   background: linear-gradient(135deg, #FAFEFF 0%, white 60%);
 }
+
 .discovery-card.featured .card-rank {
   background: var(--glow-pale);
   border-right-color: rgba(26,107,255,0.15);
 }
+
 .discovery-card.featured .rank-num { color: var(--glow); }
 .discovery-card.featured .card-title { font-size: 24px; }
 
-/* ── ERROR STATE ── */
 .error-state {
-  position: relative; z-index: 1;
+  position: relative;
+  z-index: 1;
   text-align: center;
   padding: 80px 24px;
-  max-width: 500px;
+  max-width: 540px;
   margin: 0 auto;
 }
-.error-icon { font-size: 40px; margin-bottom: 20px; }
+
+.error-icon {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
 .error-title {
   font-family: 'Instrument Serif', serif;
   font-size: 24px;
   color: var(--ink);
   margin-bottom: 10px;
 }
+
 .error-body {
   font-size: 14px;
   color: var(--ink-muted);
@@ -453,37 +575,20 @@ h1 em {
   margin-bottom: 24px;
 }
 
-/* ── FOOTER ── */
 footer {
-  position: relative; z-index: 1;
+  position: relative;
+  z-index: 1;
   border-top: 1px solid var(--border);
   padding: 32px 24px;
   text-align: center;
   background: var(--paper-warm);
 }
+
 .footer-text {
   font-family: 'Geist Mono', monospace;
   font-size: 11px;
   color: var(--ink-muted);
   line-height: 1.8;
-}
-
-/* ── LAST UPDATED banner ── */
-.freshness-bar {
-  position: relative; z-index: 1;
-  max-width: 960px;
-  margin: 0 auto 8px;
-  padding: 0 24px;
-}
-.freshness-inner {
-  background: var(--glow-pale);
-  border: 1px solid rgba(26,107,255,0.2);
-  border-radius: 8px;
-  padding: 10px 16px;
-  display: flex; align-items: center; gap: 10px;
-  font-family: 'Geist Mono', monospace;
-  font-size: 12px;
-  color: var(--glow);
 }
 
 @media (max-width: 600px) {
@@ -492,10 +597,12 @@ footer {
   .rank-num { font-size: 22px; }
   .card-title { font-size: 17px; }
   .discovery-card.featured .card-title { font-size: 19px; }
-  .hero { padding: 48px 20px 40px; }
+  .hero { padding: 48px 20px 34px; }
   h1 { font-size: 36px; }
   .topbar { padding: 0 16px; }
   .topbar-count { display: none; }
+  .cat-sketch { width: 180px; }
+  .cat-message { font-size: 20px; }
 }
 </style>
 </head>
@@ -513,7 +620,46 @@ footer {
 <section class="hero">
   <div class="hero-kicker">Live · Updated Daily</div>
   <h1>Today's <em>Top 5 Discoveries</em></h1>
-  <p class="hero-sub">The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world — updated every night by GitHub Actions.</p>
+  <p class="hero-sub">
+    The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world — refreshed automatically from your daily JSON feed.
+  </p>
+
+  <div class="cat-stage">
+    <div class="cat-wrap">
+      <svg class="cat-sketch" viewBox="0 0 280 220" aria-hidden="true">
+        <path class="glow-line spark" d="M212 28c16 8 26 20 32 34" />
+        <path class="glow-line spark" d="M228 14c6 10 10 19 12 28" />
+        <path class="glow-line spark" d="M197 16c10 4 18 10 25 18" />
+
+        <path class="draw-1" d="M84 169
+          C73 150, 67 137, 66 118
+          C65 90, 78 63, 101 48
+          L113 27
+          L128 49
+          C136 45, 145 43, 154 43
+          C164 43, 174 46, 182 51
+          L196 28
+          L207 52
+          C229 68, 242 93, 241 118
+          C240 142, 228 160, 208 171
+          C190 181, 168 184, 155 184
+          C143 184, 120 181, 103 175
+          C95 172, 89 170, 84 169Z" />
+        <path class="draw-2 soft" d="M126 118c7-9 18-13 29-13c13 0 24 5 31 15" />
+        <path class="draw-3" d="M142 135
+          C147 141, 162 141, 167 135
+          M154 137
+          C154 146, 149 151, 142 154
+          M155 137
+          C155 146, 161 151, 168 154" />
+        <path class="draw-4 soft" d="M116 132L86 127M116 139L84 140M118 147L89 154M193 132L223 127M193 139L225 140M191 147L220 154" />
+        <circle class="draw-4" cx="125" cy="103" r="4.8" />
+        <circle class="draw-4" cx="183" cy="103" r="4.8" />
+        <path class="soft" d="M102 178c10 9 26 14 52 14c27 0 46-5 58-15" />
+      </svg>
+      <div class="cat-message">Curiosity <em>lead you to the right page!</em></div>
+    </div>
+  </div>
 
   <div class="filter-bar" id="filter-bar">
     <button class="filter-btn active" data-cat="all">All Fields</button>
@@ -530,20 +676,25 @@ footer {
 
 <footer>
   <div class="footer-text">
-    Powered by discoveries.json · Update the file daily to refresh content<br>
+    Powered by discoveries.json · Updated automatically with GitHub Actions<br>
     discoveries.today — because the world never stops being amazing
   </div>
 </footer>
 
 <script>
 const JSON_PATH = 'discoveries.json';
-const CACHE_KEY = 'discoveries_cache';
 
 const todayStr = () => new Date().toISOString().slice(0, 10);
 
-const fmt = d => new Date(d + 'T12:00:00').toLocaleDateString('en-US', {
-  weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
-});
+const fmt = d => {
+  const parsed = new Date(d + 'T12:00:00');
+  return parsed.toLocaleDateString('en-US', {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+};
 
 document.getElementById('topbar-date').textContent = fmt(todayStr());
 
@@ -555,11 +706,10 @@ function catClass(cat = '') {
   if (c.includes('space')) return 'cat-space';
   if (c.includes('med')) return 'cat-medicine';
   if (c.includes('ai')) return 'cat-ai';
+  if (c.includes('tech')) return 'cat-tech';
   if (c.includes('climat')) return 'cat-climate';
   if (c.includes('physics')) return 'cat-physics';
   if (c.includes('bio')) return 'cat-biology';
-  if (c.includes('engine')) return 'cat-tech';
-  if (c.includes('chem')) return 'cat-default';
   return 'cat-default';
 }
 
@@ -573,6 +723,15 @@ function catFilterMatch(cat = '', filter) {
   if (filter === 'biology') return c.includes('bio');
   if (filter === 'physics') return c.includes('physics');
   return false;
+}
+
+function escapeHtml(str = '') {
+  return String(str)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
 }
 
 function renderSkeletons() {
@@ -591,12 +750,15 @@ function renderSkeletons() {
   let s = 1;
   const iv = setInterval(() => {
     const prev = document.getElementById(`step${s}`);
-    if (prev) { prev.classList.remove('active'); prev.classList.add('done'); }
+    if (prev) {
+      prev.classList.remove('active');
+      prev.classList.add('done');
+    }
     s++;
     const next = document.getElementById(`step${s}`);
     if (next) next.classList.add('active');
     else clearInterval(iv);
-  }, 1200);
+  }, 700);
 }
 
 function renderError(msg) {
@@ -604,167 +766,138 @@ function renderError(msg) {
     <div class="error-state">
       <div class="error-icon">🔭</div>
       <div class="error-title">Couldn't load discoveries</div>
-      <div class="error-body">${msg}</div>
+      <div class="error-body">${escapeHtml(msg)}</div>
       <button onclick="fetchDiscoveries(true)"
-        style="margin-top:8px;padding:12px 28px;background:var(--glow);color:white;border:none;
-               border-radius:8px;font-family:'Geist',sans-serif;font-size:14px;
-               font-weight:500;cursor:pointer;">
-        Try Again
+        style="margin-top:8px;padding:12px 28px;background:var(--glow);color:white;border:none;border-radius:8px;font-family:'Geist',sans-serif;font-size:14px;cursor:pointer;">
+        Try again
       </button>
     </div>`;
 }
 
-function renderCards(discoveries) {
-  const filtered = activeFilter === 'all'
-    ? discoveries
-    : discoveries.filter(d => catFilterMatch(d.category, activeFilter));
+function impactDots(n = 3) {
+  const count = Math.max(1, Math.min(5, Number(n) || 3));
+  return `
+    <div class="impact-dots">
+      ${Array.from({ length: 5 }, (_, i) =>
+        `<span class="impact-dot ${i < count ? 'filled' : ''}"></span>`
+      ).join('')}
+    </div>
+  `;
+}
 
+function renderCards() {
+  const filtered = allDiscoveries.filter(item => catFilterMatch(item.category || '', activeFilter));
   const countEl = document.getElementById('topbar-count');
-  countEl.textContent = `${filtered.length} of 5 today`;
-  countEl.style.display = 'block';
 
-  const app = document.getElementById('app');
+  countEl.style.display = filtered.length ? 'inline-flex' : 'none';
+  countEl.textContent = `${filtered.length} shown`;
 
-  if (filtered.length === 0) {
-    app.innerHTML = `
-      <div style="position:relative;z-index:1;text-align:center;padding:80px 24px;
-                  color:var(--ink-muted);font-family:'Geist Mono',monospace;font-size:13px;">
-        No discoveries in this category today — try another filter.
+  if (!filtered.length) {
+    document.getElementById('app').innerHTML = `
+      <div class="error-state">
+        <div class="error-icon">🧭</div>
+        <div class="error-title">No discoveries in this filter</div>
+        <div class="error-body">Try another category or refresh the page.</div>
       </div>`;
     return;
   }
 
-  const lastUpdated = localStorage.getItem('discoveries_fetched_at');
-  const freshHTML = lastUpdated ? `
-    <div class="freshness-bar">
-      <div class="freshness-inner">
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-          <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
-        </svg>
-        discoveries.json · Fetched ${lastUpdated} · Update the file daily to refresh content
-      </div>
-    </div>` : '';
-
-  const cards = filtered.map((d, i) => {
-    const rank = i + 1;
-    const featured = rank === 1 ? 'featured' : '';
-    const cc = catClass(d.category);
-    const impact = Math.min(5, Math.max(1, d.impact || 3));
-    const dots = Array.from({ length: 5 }, (_, j) =>
-      `<div class="impact-dot ${j < impact ? 'filled' : ''}"></div>`).join('');
-    const linkHTML = d.source_url
-      ? `<a class="card-link" href="${d.source_url}" target="_blank" rel="noopener">Read more →</a>` : '';
-
-    return `
-      <div class="discovery-card ${featured}" style="animation-delay:${i * 60}ms" data-category="${d.category || ''}">
-        <div class="card-inner">
-          <div class="card-rank">
-            <span class="rank-num">${rank < 10 ? '0' + rank : rank}</span>
-          </div>
-          <div class="card-content">
-            <div class="card-meta">
-              <span class="category-tag ${cc}">${d.category || 'Science'}</span>
-              ${d.source ? `<span class="source-tag">via ${d.source}</span>` : ''}
-            </div>
-            <div class="card-title">${d.title}</div>
-            <div class="card-body">${d.summary}</div>
-            <div class="card-footer">
-              <span class="impact-label">Relevance</span>
-              <div class="impact-dots">${dots}</div>
-              ${linkHTML}
-            </div>
-          </div>
-        </div>
-      </div>`;
-  }).join('');
-
-  app.innerHTML = `
-    ${freshHTML}
+  document.getElementById('app').innerHTML = `
     <div class="controls">
-      <span class="result-label">
-        Top 5 discoveries · ${fmt(todayStr())}
-      </span>
-      <div style="display:flex;gap:8px;align-items:center;">
-        <button class="refresh-btn" id="refresh-btn" onclick="fetchDiscoveries(true)">
-          <svg class="refresh-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-            <path d="M23 4v6h-6M1 20v-6h6"/>
-            <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
-          </svg>
-          Refresh Feed
-        </button>
-      </div>
+      <div class="result-label">${filtered.length} discovery${filtered.length === 1 ? '' : 'ies'} shown</div>
+      <button class="refresh-btn" id="refresh-btn" onclick="fetchDiscoveries(true)">
+        <svg class="refresh-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+          <path d="M21 12a9 9 0 1 1-2.64-6.36"/>
+          <path d="M21 3v6h-6"/>
+        </svg>
+        Refresh
+      </button>
     </div>
-    <div class="discoveries-grid">${cards}</div>`;
+
+    <section class="discoveries-grid">
+      ${filtered.map((item, i) => `
+        <article class="discovery-card ${i === 0 ? 'featured' : ''}">
+          <div class="card-inner">
+            <div class="card-rank">
+              <div class="rank-num">${i + 1}</div>
+            </div>
+            <div class="card-content">
+              <div class="card-meta">
+                <span class="category-tag ${catClass(item.category || '')}">${escapeHtml(item.category || 'Science')}</span>
+                <span class="source-tag">${escapeHtml(item.source || 'Unknown source')}</span>
+              </div>
+              <h2 class="card-title">${escapeHtml(item.title || 'Untitled')}</h2>
+              <p class="card-body">${escapeHtml(item.summary || 'No summary available.')}</p>
+              <div class="card-footer">
+                <span class="impact-label">Impact</span>
+                ${impactDots(item.impact)}
+                <a class="card-link" href="${escapeHtml(item.source_url || '#')}" target="_blank" rel="noopener noreferrer">
+                  Read more →
+                </a>
+              </div>
+            </div>
+          </div>
+        </article>
+      `).join('')}
+    </section>
+  `;
+}
+
+async function fetchDiscoveries(forceRefresh = false) {
+  const btn = document.getElementById('refresh-btn');
+  if (btn) {
+    btn.disabled = true;
+    btn.classList.add('spinning');
+  }
+
+  if (!allDiscoveries.length || forceRefresh) renderSkeletons();
+
+  try {
+    const url = `${JSON_PATH}?v=${Date.now()}`;
+    const res = await fetch(url, {
+      cache: 'no-store'
+    });
+
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status}: Could not load discoveries.json`);
+    }
+
+    const data = await res.json();
+    const items = Array.isArray(data.items)
+      ? data.items
+      : Array.isArray(data.discoveries)
+        ? data.discoveries
+        : [];
+
+    allDiscoveries = items.slice(0, 5);
+
+    setTimeout(() => {
+      renderCards();
+      if (btn) {
+        btn.disabled = false;
+        btn.classList.remove('spinning');
+      }
+    }, 550);
+  } catch (err) {
+    renderError(err.message || 'Unknown error.');
+    if (btn) {
+      btn.disabled = false;
+      btn.classList.remove('spinning');
+    }
+  }
 }
 
 document.getElementById('filter-bar').addEventListener('click', e => {
   const btn = e.target.closest('.filter-btn');
   if (!btn) return;
+
+  activeFilter = btn.dataset.cat || 'all';
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  activeFilter = btn.dataset.cat;
-  if (allDiscoveries.length > 0) renderCards(allDiscoveries);
+  renderCards();
 });
 
-async function fetchDiscoveries(force = false) {
-  const today = todayStr();
-  const cached = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
-
-  if (!force && cached && cached.date === today && cached.discoveries?.length > 0) {
-    allDiscoveries = cached.discoveries;
-    renderCards(allDiscoveries);
-    return;
-  }
-
-  const btn = document.getElementById('refresh-btn');
-  if (btn) { btn.classList.add('spinning'); btn.disabled = true; }
-  else renderSkeletons();
-
-  try {
-    const url = force ? `${JSON_PATH}?t=${Date.now()}` : JSON_PATH;
-    const res = await fetch(url);
-
-    if (!res.ok) throw new Error(
-      `Could not load ${JSON_PATH} (HTTP ${res.status}). ` +
-      `Make sure the file exists in the same folder as index.html.`
-    );
-
-    const data = await res.json();
-    const raw = data.items ?? data.discoveries ?? [];
-
-    if (!Array.isArray(raw) || raw.length === 0) {
-      if (cached && Array.isArray(cached.discoveries) && cached.discoveries.length > 0) {
-        allDiscoveries = cached.discoveries;
-        renderCards(allDiscoveries);
-        return;
-      }
-
-      throw new Error(
-        `discoveries.json loaded but contained no entries. ` +
-        `Expected an "items" or "discoveries" array.`
-      );
-    }
-
-    allDiscoveries = raw.slice(0, 5);
-
-    const cacheDate = data.date || today;
-    localStorage.setItem(CACHE_KEY, JSON.stringify({ date: cacheDate, discoveries: allDiscoveries }));
-    localStorage.setItem('discoveries_fetched_at', new Date().toLocaleTimeString());
-
-    renderCards(allDiscoveries);
-
-  } catch (err) {
-    console.error(err);
-    renderError(err.message || 'Something went wrong loading discoveries.json.');
-  } finally {
-    if (btn) {
-      btn.classList.remove('spinning');
-      btn.disabled = false;
-    }
-  }
-}
-
-fetchDiscoveries(false);
+fetchDiscoveries();
 </script>
 </body>
 </html>
