@@ -2,260 +2,145 @@ name: Update Daily Discoveries
 
 on:
   schedule:
-    # Runs every night at 11:00 PM UTC
-    - cron: '0 23 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+    - cron: "0 23 * * *"
+  workflow_dispatch:
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Opt into Node.js 24 to silence deprecation warnings
+permissions:
+  contents: write
 
 jobs:
   update-discoveries:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write  # Needed to commit and push discoveries.json
-
     steps:
-      # ── 1. Check out the repo ─────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ── 2. Set up Python ──────────────────────────────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      # ── 3. Install dependencies ───────────────────────────────────────────────
-      - name: Install dependencies
-        run: pip install requests
+      - name: Install dependency
+        run: pip install feedparser
 
-      # ── 4. Verify secrets are present (does NOT print values) ─────────────────
-      - name: Check secrets are set
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          GOOGLE_SEARCH_ID: ${{ secrets.GOOGLE_SEARCH_ID }}
+      - name: Generate discoveries.json from RSS feeds
         run: |
-          if [ -z "$GOOGLE_API_KEY" ]; then
-            echo "❌ ERROR: GOOGLE_API_KEY secret is not set or is empty."
-            exit 1
-          else
-            echo "✅ GOOGLE_API_KEY is set (length: ${#GOOGLE_API_KEY})"
-          fi
-          if [ -z "$GOOGLE_SEARCH_ID" ]; then
-            echo "❌ ERROR: GOOGLE_SEARCH_ID secret is not set or is empty."
-            exit 1
-          else
-            echo "✅ GOOGLE_SEARCH_ID is set (length: ${#GOOGLE_SEARCH_ID})"
-          fi
-
-      # ── 5. Fetch discoveries via Google Custom Search API ─────────────────────
-      - name: Fetch and generate discoveries.json
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          GOOGLE_SEARCH_ID: ${{ secrets.GOOGLE_SEARCH_ID }}
-        run: |
-          python3 << 'EOF'
-          import os
+          python << 'PY'
           import json
-          import requests
+          import re
           from datetime import datetime, timezone
+          from urllib.parse import urlparse
+          import feedparser
 
-          API_KEY   = os.environ["GOOGLE_API_KEY"]
-          SEARCH_ID = os.environ["GOOGLE_SEARCH_ID"]
-          TODAY     = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-          # ── Do a single test call first to surface clear error messages ────────
-          print("🔍 Testing API connectivity with a single request...")
-          test_resp = requests.get(
-              "https://www.googleapis.com/customsearch/v1",
-              params={
-                  "key": API_KEY,
-                  "cx":  SEARCH_ID,
-                  "q":   "science discovery",
-                  "num": 1,
-              },
-              timeout=15,
-          )
-
-          if test_resp.status_code == 403:
-              err = test_resp.json().get("error", {})
-              print(f"❌ 403 Forbidden — {err.get('message', 'No message')}")
-              print("Possible causes:")
-              print("  1. 'Custom Search API' is NOT enabled in Google Cloud Console.")
-              print("     → https://console.developers.google.com/apis/api/customsearch.googleapis.com")
-              print("  2. The API key has no permission for Custom Search.")
-              print("     → Check key restrictions in https://console.cloud.google.com/apis/credentials")
-              print("  3. Daily quota (100 free queries/day) may be exhausted.")
-              raise SystemExit(1)
-          elif test_resp.status_code == 400:
-              err = test_resp.json().get("error", {})
-              print(f"❌ 400 Bad Request — {err.get('message', 'No message')}")
-              print("  → Check that GOOGLE_SEARCH_ID (cx) is correct.")
-              raise SystemExit(1)
-          elif not test_resp.ok:
-              print(f"❌ HTTP {test_resp.status_code} — {test_resp.text[:300]}")
-              raise SystemExit(1)
-          else:
-              print(f"✅ API connection successful.")
-
-          # ── Search queries ─────────────────────────────────────────────────────
-          # NOTE: 'sort=date' and 'dateRestrict' are omitted — they are not
-          # supported on all CSE tiers and were the likely cause of 403 errors.
-          QUERIES = [
-              "latest scientific discovery breakthrough",
-              "new space discovery NASA ESA",
-              "medical research breakthrough new study",
-              "AI artificial intelligence discovery research",
-              "climate science new finding research",
-              "biology genetics new discovery study",
-              "physics new research finding",
+          RSS_FEEDS = [
+              "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+              "https://www.sciencedaily.com/rss/top/science.xml",
+              "https://www.sciencedaily.com/rss/top/space_time.xml",
+              "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
           ]
 
-          # ── Category inference ─────────────────────────────────────────────────
-          def infer_category(text: str) -> str:
+          KEYWORDS = [
+              "discovery", "discover", "breakthrough", "study", "research", "scientists",
+              "astronomers", "engineers", "found", "reveals", "revealed", "new", "first"
+          ]
+
+          def clean_text(text):
+              text = re.sub(r"<[^>]+>", "", text or "")
+              text = re.sub(r"\s+", " ", text).strip()
+              return text
+
+          def infer_category(text):
               t = text.lower()
-              if any(k in t for k in ["space", "nasa", "esa", "planet", "star", "galaxy",
-                                       "asteroid", "cosmos", "telescope", "orbit", "mars",
-                                       "moon", "solar", "black hole"]):
+              if any(k in t for k in ["space", "nasa", "planet", "star", "galaxy", "black hole", "moon", "mars", "telescope", "orbit"]):
                   return "Space"
-              if any(k in t for k in ["ai", "artificial intelligence", "machine learning",
-                                       "neural", "robot", "deep learning", "llm"]):
-                  return "AI & Tech"
-              if any(k in t for k in ["medicine", "medical", "drug", "cancer", "vaccine",
-                                       "therapy", "clinical", "disease", "health",
-                                       "treatment", "patient", "brain", "neuro"]):
+              if any(k in t for k in ["medicine", "medical", "disease", "therapy", "drug", "clinical", "patient", "health"]):
                   return "Medicine"
-              if any(k in t for k in ["climate", "carbon", "emission", "glacier", "warming",
-                                       "ocean", "weather", "atmosphere", "arctic"]):
+              if any(k in t for k in ["ai", "artificial intelligence", "machine learning", "robot", "neural", "model"]):
+                  return "AI & Tech"
+              if any(k in t for k in ["climate", "warming", "carbon", "emissions", "ocean", "glacier", "atmosphere"]):
                   return "Climate"
-              if any(k in t for k in ["biology", "gene", "dna", "rna", "species", "evolution",
-                                       "cell", "protein", "microbe", "bacteria", "virus",
-                                       "crispr", "genome", "fossil"]):
+              if any(k in t for k in ["biology", "gene", "dna", "species", "cell", "protein", "bacteria", "virus"]):
                   return "Biology"
-              if any(k in t for k in ["physics", "quantum", "particle", "laser", "photon",
-                                       "electron", "superconductor", "fusion", "gravity"]):
+              if any(k in t for k in ["physics", "quantum", "particle", "laser", "fusion", "superconductor", "electron", "photon"]):
                   return "Physics"
-              if any(k in t for k in ["chemistry", "material", "molecule", "compound",
-                                       "catalyst", "polymer", "nano"]):
-                  return "Chemistry"
               return "Science"
 
-          # ── Impact score (1–5) ─────────────────────────────────────────────────
-          def infer_impact(text: str) -> int:
+          def infer_impact(text):
               t = text.lower()
-              high   = ["breakthrough", "first ever", "never before", "revolutionary",
-                        "unprecedented", "major", "landmark", "historic", "game-changer"]
-              medium = ["significant", "new study", "researchers found", "discovery",
-                        "advances", "improves", "shows", "reveals", "new research"]
-              if any(k in t for k in high):
+              if any(k in t for k in ["breakthrough", "first ever", "historic", "landmark", "major", "unprecedented"]):
                   return 5
-              if any(k in t for k in medium):
-                  return 3
-              return 2
+              if any(k in t for k in ["new study", "researchers", "scientists", "reveals", "discovery"]):
+                  return 4
+              return 3
 
-          # ── Fetch results ──────────────────────────────────────────────────────
-          seen_urls  = set()
-          candidates = []
+          def looks_relevant(text):
+              t = text.lower()
+              return any(k in t for k in KEYWORDS)
 
-          for query in QUERIES:
-              if len(candidates) >= 20:
-                  break
-              try:
-                  resp = requests.get(
-                      "https://www.googleapis.com/customsearch/v1",
-                      params={
-                          "key": API_KEY,
-                          "cx":  SEARCH_ID,
-                          "q":   query,
-                          "num": 5,
-                      },
-                      timeout=15,
-                  )
-                  resp.raise_for_status()
-                  data = resp.json()
+          all_items = []
+          seen_links = set()
 
-                  for item in data.get("items", []):
-                      url   = item.get("link", "")
-                      title = item.get("title", "").strip()
-                      snip  = item.get("snippet", "").strip().replace("\n", " ")
+          for feed_url in RSS_FEEDS:
+              feed = feedparser.parse(feed_url)
 
-                      if not url or not title or url in seen_urls:
-                          continue
+              if getattr(feed, "bozo", 0):
+                  print(f"Warning: could not fully parse {feed_url}")
 
-                      seen_urls.add(url)
-                      combined = title + " " + snip
-                      category = infer_category(combined)
-                      impact   = infer_impact(combined)
+              for entry in feed.entries[:10]:
+                  title = clean_text(entry.get("title", ""))
+                  summary = clean_text(entry.get("summary", entry.get("description", "")))
+                  link = entry.get("link", "")
 
-                      try:
-                          from urllib.parse import urlparse
-                          source = urlparse(url).netloc.replace("www.", "")
-                      except Exception:
-                          source = ""
+                  if not title or not link or link in seen_links:
+                      continue
 
-                      candidates.append({
-                          "title":      title,
-                          "summary":    snip if snip else title,
-                          "category":   category,
-                          "source":     source,
-                          "source_url": url,
-                          "impact":     impact,
-                      })
+                  combined = f"{title} {summary}"
 
-                  print(f"  ✓ '{query}' → {len(data.get('items', []))} results")
+                  if not looks_relevant(combined):
+                      continue
 
-              except requests.RequestException as e:
-                  print(f"  ⚠ query '{query}' failed — {e}")
-                  continue
+                  seen_links.add(link)
+                  source = urlparse(link).netloc.replace("www.", "")
 
-          if not candidates:
-              raise RuntimeError(
-                  "No results returned from any query. "
-                  "API connected but returned empty results — check your CSE site configuration."
-              )
+                  all_items.append({
+                      "title": title,
+                      "summary": summary[:300] if summary else title,
+                      "category": infer_category(combined),
+                      "source": source,
+                      "source_url": link,
+                      "impact": infer_impact(combined)
+                  })
 
-          # ── Rank and deduplicate → top 5 ───────────────────────────────────────
-          candidates.sort(key=lambda x: -x["impact"])
+          all_items.sort(key=lambda x: (x["impact"], len(x["title"]) + len(x["summary"])), reverse=True)
+          top5 = all_items[:5]
 
-          seen_titles = set()
-          top5 = []
-          for c in candidates:
-              short = c["title"][:60].lower()
-              if short not in seen_titles:
-                  seen_titles.add(short)
-                  top5.append(c)
-              if len(top5) == 5:
-                  break
+          if not top5:
+              top5 = [{
+                  "title": "No fresh discoveries found",
+                  "summary": "The workflow ran, but no suitable RSS items were found today. Try adding more feeds.",
+                  "category": "Science",
+                  "source": "GitHub Action",
+                  "source_url": "https://github.com",
+                  "impact": 2
+              }]
 
-          # ── Write discoveries.json ─────────────────────────────────────────────
           output = {
-              "date":        TODAY,
-              "items":       top5,
-              "discoveries": top5,
+              "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+              "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+              "items": top5
           }
 
           with open("discoveries.json", "w", encoding="utf-8") as f:
-              json.dump(output, f, ensure_ascii=False, indent=2)
+              json.dump(output, f, indent=2, ensure_ascii=False)
 
-          print(f"\n✅ Written discoveries.json with {len(top5)} items for {TODAY}")
-          for i, item in enumerate(top5, 1):
-              print(f"  {i}. [{item['category']}] {item['title'][:80]}")
-          EOF
+          print("discoveries.json updated successfully")
+          PY
 
-      # ── 6. Commit and push if the file changed ────────────────────────────────
-      - name: Commit and push discoveries.json
+      - name: Commit and push if file changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add discoveries.json
-
-          if git diff --cached --quiet; then
-            echo "No changes to discoveries.json — skipping commit."
-          else
-            git commit -m "chore: update daily discoveries [$(date -u '+%Y-%m-%d')]"
-            git push
-            echo "✅ discoveries.json pushed successfully."
-          fi
+          git diff --staged --quiet || git commit -m "Update daily discoveries"
+          git push
