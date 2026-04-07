@@ -1,87 +1,14 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
+  "last_updated": "2026-04-07 00:00 UTC",
   "items": [
     {
-      "title": "Scientists Discover New Earth-Like Exoplanet in Habitable Zone",
-      "summary": "Astronomers using the James Webb Space Telescope have identified a rocky exoplanet orbiting within the habitable zone of a nearby star, showing signs of a stable atmosphere that could support liquid water.",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov",
-      "impact": 5
-    },
-    {
-      "title": "Breakthrough CRISPR Therapy Reverses Rare Genetic Disorder in Clinical Trial",
-      "summary": "A landmark clinical trial has shown that a single CRISPR gene-editing treatment was able to fully reverse symptoms of a rare inherited blood disorder in 94% of patients, marking a new era in genetic medicine.",
-      "category": "Medicine",
-      "source": "nature.com",
-      "source_url": "https://www.nature.com",
-      "impact": 5
-    },
-    {
-      "title": "New AI Model Predicts Protein Folding with Near-Perfect Accuracy",
-      "summary": "Researchers have developed an AI system that can predict the 3D structure of previously unseen proteins with over 99% accuracy, potentially accelerating drug discovery and the treatment of diseases like Alzheimer's.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com",
-      "impact": 4
-    },
-    {
-      "title": "Ancient Antarctic Ice Core Reveals Fastest Climate Shift in 800,000 Years",
-      "summary": "Analysis of a newly extracted ice core from East Antarctica shows evidence of an abrupt atmospheric CO2 spike roughly 130,000 years ago, giving scientists a rare window into past climate tipping points.",
-      "category": "Climate",
-      "source": "science.org",
-      "source_url": "https://www.science.org",
-      "impact": 4
-    },
-    {
-      "title": "Physicists Achieve Room-Temperature Superconductivity in New Material",
-      "summary": "A team of physicists has reported achieving superconductivity at room temperature in a hydrogen-rich compound under moderate pressure, a long-sought milestone that could revolutionize energy transmission and storage.",
-      "category": "Physics",
-      "source": "newscientist.com",
-      "source_url": "https://www.newscientist.com",
-      "impact": 5
-    }
-  ],
-  "discoveries": [
-    {
-      "title": "Scientists Discover New Earth-Like Exoplanet in Habitable Zone",
-      "summary": "Astronomers using the James Webb Space Telescope have identified a rocky exoplanet orbiting within the habitable zone of a nearby star, showing signs of a stable atmosphere that could support liquid water.",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov",
-      "impact": 5
-    },
-    {
-      "title": "Breakthrough CRISPR Therapy Reverses Rare Genetic Disorder in Clinical Trial",
-      "summary": "A landmark clinical trial has shown that a single CRISPR gene-editing treatment was able to fully reverse symptoms of a rare inherited blood disorder in 94% of patients, marking a new era in genetic medicine.",
-      "category": "Medicine",
-      "source": "nature.com",
-      "source_url": "https://www.nature.com",
-      "impact": 5
-    },
-    {
-      "title": "New AI Model Predicts Protein Folding with Near-Perfect Accuracy",
-      "summary": "Researchers have developed an AI system that can predict the 3D structure of previously unseen proteins with over 99% accuracy, potentially accelerating drug discovery and the treatment of diseases like Alzheimer's.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com",
-      "impact": 4
-    },
-    {
-      "title": "Ancient Antarctic Ice Core Reveals Fastest Climate Shift in 800,000 Years",
-      "summary": "Analysis of a newly extracted ice core from East Antarctica shows evidence of an abrupt atmospheric CO2 spike roughly 130,000 years ago, giving scientists a rare window into past climate tipping points.",
-      "category": "Climate",
-      "source": "science.org",
-      "source_url": "https://www.science.org",
-      "impact": 4
-    },
-    {
-      "title": "Physicists Achieve Room-Temperature Superconductivity in New Material",
-      "summary": "A team of physicists has reported achieving superconductivity at room temperature in a hydrogen-rich compound under moderate pressure, a long-sought milestone that could revolutionize energy transmission and storage.",
-      "category": "Physics",
-      "source": "newscientist.com",
-      "source_url": "https://www.newscientist.com",
-      "impact": 5
+      "title": "Sample discovery title",
+      "summary": "This is a starter placeholder. Once the GitHub Action runs, this file will be replaced automatically with fresh discoveries from RSS feeds.",
+      "category": "Science",
+      "source": "Starter file",
+      "source_url": "https://example.com",
+      "impact": 3
     }
   ]
 }
