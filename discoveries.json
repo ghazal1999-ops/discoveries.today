@@ -1,13 +1,29 @@
 {
-  "date": "2026-04-07",
-  "last_updated": "2026-04-07 20:06 UTC",
+  "date": "2026-04-08",
+  "last_updated": "2026-04-08 05:31 UTC",
   "items": [
     {
-      "title": "NASA to Host Media Call with Artemis II Crew on Way Home from Moon",
-      "summary": "Media will have an opportunity at 9:45 p.m. EDT on Wednesday, April 8, to speak with NASA’s Artemis II crew members as they continue their journey toward Earth during their historic mission around the Moon. The 20-minute virtual news conference will take place with NASA astronauts Reid Wiseman, Vict",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/",
+      "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
+      "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+      "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists discover reversible male birth control that stops sperm production",
+      "summary": "Scientists at Cornell University may be closing in on the long-sought “holy grail” of male contraception: a safe, reversible, nonhormonal method that completely halts sperm production. In a breakthrough mouse study, researchers used a compound called JQ1 to temporarily shut down meiosis—the critical",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260407193844.htm",
       "impact": 5
     },
     {
@@ -19,27 +35,11 @@
       "impact": 5
     },
     {
-      "title": "Scientists found a protein that drives brain aging — and how to stop it",
-      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain beg",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
-      "impact": 4
-    },
-    {
       "title": "This “forbidden” exoplanet has an atmosphere scientists can’t explain",
       "summary": "A strange “forbidden” planet spotted by the James Webb Space Telescope is turning planetary science on its head. TOI-5205 b, a Jupiter-sized world orbiting a small, cool star, has an atmosphere surprisingly poor in heavy elements—even less enriched than its own star, which defies current theories of",
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260406192905.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover hidden brain switch that tells you to stop eating",
-      "summary": "Your brain’s “stop eating” signal may come from an unexpected source. Researchers found that astrocytes—once thought to just support neurons—actually play a key role in controlling appetite. After a meal, glucose triggers tanycytes, which send signals to astrocytes that then activate fullness neuron",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
       "impact": 4
     }
   ]
