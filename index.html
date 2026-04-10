@@ -106,20 +106,10 @@ body::before {
 .hero {
   position: relative;
   z-index: 1;
-  max-width: 1220px;
-  margin: 0 auto;
-  padding: 72px 24px 40px;
-}
-
-.hero-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 760px) 320px;
-  gap: 30px;
-  align-items: center;
-}
-
-.hero-main {
   text-align: center;
+  padding: 72px 24px 40px;
+  max-width: 860px;
+  margin: 0 auto;
 }
 
 .hero-kicker {
@@ -166,136 +156,6 @@ h1 em {
   margin: 0 auto 24px;
   line-height: 1.65;
   font-weight: 300;
-}
-
-.hero-side {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.cat-panel {
-  position: relative;
-  width: 100%;
-  min-height: 320px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.cat-bubble {
-  position: absolute;
-  top: 6px;
-  left: 8px;
-  max-width: 215px;
-  background: rgba(255,255,255,0.92);
-  border: 1px solid var(--border-strong);
-  border-radius: 22px;
-  padding: 14px 16px;
-  box-shadow: 0 16px 40px rgba(10,10,15,0.08);
-  font-family: 'Instrument Serif', Georgia, serif;
-  font-size: 24px;
-  line-height: 1.15;
-  letter-spacing: -0.02em;
-  color: var(--ink);
-  animation: bubbleFloat 4.5s ease-in-out infinite;
-}
-
-.cat-bubble em {
-  color: var(--accent);
-  font-style: italic;
-}
-
-.cat-bubble::after {
-  content: '';
-  position: absolute;
-  right: 32px;
-  bottom: -12px;
-  width: 22px;
-  height: 22px;
-  background: rgba(255,255,255,0.92);
-  border-right: 1px solid var(--border-strong);
-  border-bottom: 1px solid var(--border-strong);
-  transform: rotate(45deg);
-}
-
-@keyframes bubbleFloat {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-6px); }
-}
-
-.cat-figure {
-  position: absolute;
-  right: 18px;
-  bottom: 0;
-  width: 250px;
-  height: auto;
-  filter: drop-shadow(0 14px 28px rgba(10,10,15,0.08));
-}
-
-.cat-figure path,
-.cat-figure circle,
-.cat-figure ellipse,
-.cat-figure line {
-  fill: none;
-  stroke: var(--ink);
-  stroke-width: 3.1;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-}
-
-.cat-figure .soft {
-  stroke: var(--ink-muted);
-  stroke-width: 2.2;
-}
-
-.cat-figure .accent-stroke {
-  stroke: var(--accent);
-  stroke-width: 2.1;
-}
-
-.cat-draw {
-  stroke-dasharray: 700;
-  stroke-dashoffset: 700;
-  animation: drawCat 2.2s ease forwards;
-}
-
-.cat-draw-2 {
-  stroke-dasharray: 240;
-  stroke-dashoffset: 240;
-  animation: drawCat 1.4s ease forwards 0.4s;
-}
-
-.cat-draw-3 {
-  stroke-dasharray: 180;
-  stroke-dashoffset: 180;
-  animation: drawCat 1s ease forwards 0.8s;
-}
-
-@keyframes drawCat {
-  to { stroke-dashoffset: 0; }
-}
-
-.paw-wave {
-  transform-origin: 188px 88px;
-  animation: pawWave 1.5s ease-in-out infinite;
-}
-
-@keyframes pawWave {
-  0%, 100% { transform: rotate(0deg); }
-  20% { transform: rotate(-14deg); }
-  40% { transform: rotate(10deg); }
-  60% { transform: rotate(-10deg); }
-  80% { transform: rotate(7deg); }
-}
-
-.spark-1 { animation: sparkBlink 1.3s ease-in-out infinite; }
-.spark-2 { animation: sparkBlink 1.3s ease-in-out infinite 0.25s; }
-.spark-3 { animation: sparkBlink 1.3s ease-in-out infinite 0.5s; }
-
-@keyframes sparkBlink {
-  0%, 100% { opacity: 0.2; transform: translateY(0px); }
-  50% { opacity: 1; transform: translateY(-4px); }
 }
 
 .filter-bar {
@@ -648,41 +508,10 @@ footer {
 
 .footer-text {
   font-family: 'Geist Mono', monospace;
-  font-size: 11px;
-  color: var(--ink-muted);
+  font-size: 12px;
+  color: var(--ink);
   line-height: 1.8;
-}
-
-@media (max-width: 980px) {
-  .hero-layout {
-    grid-template-columns: 1fr;
-    gap: 12px;
-  }
-
-  .hero-side {
-    order: 2;
-  }
-
-  .hero-main {
-    order: 1;
-  }
-
-  .cat-panel {
-    min-height: 250px;
-  }
-
-  .cat-bubble {
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  .cat-figure {
-    position: relative;
-    right: auto;
-    bottom: auto;
-    margin-top: 78px;
-  }
+  font-weight: 700;
 }
 
 @media (max-width: 600px) {
@@ -695,9 +524,6 @@ footer {
   h1 { font-size: 36px; }
   .topbar { padding: 0 16px; }
   .topbar-count { display: none; }
-  .cat-panel { min-height: 230px; }
-  .cat-figure { width: 190px; }
-  .cat-bubble { font-size: 18px; max-width: 185px; padding: 12px 14px; }
 }
 </style>
 </head>
@@ -713,69 +539,20 @@ footer {
 </nav>
 
 <section class="hero">
-  <div class="hero-layout">
-    <div class="hero-main">
-      <div class="hero-kicker">Live · Updated Daily</div>
-      <h1>Today's <em>Top 5 Discoveries</em></h1>
-      <p class="hero-sub">
-        The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world — refreshed automatically from your daily JSON feed.
-      </p>
+  <div class="hero-kicker">Live · Updated Daily</div>
+  <h1>Today's <em>Top 5 Discoveries</em></h1>
+  <p class="hero-sub">
+    The five most remarkable breakthroughs, inventions, and scientific discoveries from around the world.
+  </p>
 
-      <div class="filter-bar" id="filter-bar">
-        <button class="filter-btn active" data-cat="all">All Fields</button>
-        <button class="filter-btn" data-cat="space">Space</button>
-        <button class="filter-btn" data-cat="medicine">Medicine</button>
-        <button class="filter-btn" data-cat="ai">AI & Tech</button>
-        <button class="filter-btn" data-cat="climate">Climate</button>
-        <button class="filter-btn" data-cat="biology">Biology</button>
-        <button class="filter-btn" data-cat="physics">Physics</button>
-      </div>
-    </div>
-
-    <div class="hero-side">
-      <div class="cat-panel">
-        <div class="cat-bubble">Curiosity <em>led you to the right page!</em></div>
-
-        <svg class="cat-figure" viewBox="0 0 260 280" aria-hidden="true">
-          <path class="cat-draw" d="M65 250
-            C56 236, 54 220, 55 202
-            C57 175, 69 150, 88 135
-            L88 108
-            L110 128
-            C122 123, 133 121, 145 121
-            C156 121, 166 123, 177 128
-            L196 107
-            L198 137
-            C216 152, 227 176, 229 201
-            C231 221, 226 239, 214 252
-            C201 266, 178 271, 143 271
-            C107 271, 80 266, 65 250Z" />
-
-          <path class="cat-draw-2 soft" d="M110 178 C120 167, 134 162, 145 162 C159 162, 171 167, 180 178" />
-          <circle class="cat-draw-3" cx="118" cy="168" r="4.5" />
-          <circle class="cat-draw-3" cx="173" cy="168" r="4.5" />
-          <path class="cat-draw-3" d="M140 190 C144 195, 147 195, 151 190 M145 190 L145 202 M145 202 C139 206, 136 211, 133 217 M145 202 C151 205, 155 210, 158 217" />
-          <line class="soft" x1="105" y1="196" x2="74" y2="190" />
-          <line class="soft" x1="104" y1="205" x2="72" y2="205" />
-          <line class="soft" x1="107" y1="214" x2="76" y2="220" />
-          <line class="soft" x1="186" y1="196" x2="217" y2="190" />
-          <line class="soft" x1="187" y1="205" x2="219" y2="205" />
-          <line class="soft" x1="184" y1="214" x2="215" y2="220" />
-          <path class="soft" d="M94 242 C108 251, 122 255, 145 255 C167 255, 184 251, 198 241" />
-
-          <g class="paw-wave">
-            <path class="cat-draw-2" d="M186 120 C205 100, 224 92, 235 102 C245 111, 239 129, 223 143" />
-            <path d="M223 143 C230 146, 234 154, 230 162 C226 170, 216 171, 208 166 C201 161, 199 151, 204 145" />
-            <path d="M212 136 C214 129, 221 125, 227 127" />
-            <path d="M221 133 C224 126, 231 123, 237 125" />
-          </g>
-
-          <path class="accent-stroke spark-1" d="M205 80 L212 73" />
-          <path class="accent-stroke spark-2" d="M216 83 L225 79" />
-          <path class="accent-stroke spark-3" d="M212 93 L220 98" />
-        </svg>
-      </div>
-    </div>
+  <div class="filter-bar" id="filter-bar">
+    <button class="filter-btn active" data-cat="all">All Fields</button>
+    <button class="filter-btn" data-cat="space">Space</button>
+    <button class="filter-btn" data-cat="medicine">Medicine</button>
+    <button class="filter-btn" data-cat="ai">AI & Tech</button>
+    <button class="filter-btn" data-cat="climate">Climate</button>
+    <button class="filter-btn" data-cat="biology">Biology</button>
+    <button class="filter-btn" data-cat="physics">Physics</button>
   </div>
 </section>
 
@@ -783,8 +560,7 @@ footer {
 
 <footer>
   <div class="footer-text">
-    Powered by discoveries.json · Updated automatically with GitHub Actions<br>
-    discoveries.today — because the world never stops being amazing
+    because the world never stops being amazing
   </div>
 </footer>
 
