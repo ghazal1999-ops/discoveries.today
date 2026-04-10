@@ -1,45 +1,45 @@
 {
-  "date": "2026-04-09",
-  "last_updated": "2026-04-09 00:03 UTC",
+  "date": "2026-04-10",
+  "last_updated": "2026-04-10 06:08 UTC",
   "items": [
     {
-      "title": "Scientists solve 30-year mystery of a hidden nutrient that protects the brain and fights cancer",
-      "summary": "Scientists have finally uncovered the missing link in how our bodies absorb queuosine, a rare micronutrient crucial for brain health, memory, stress response, and cancer defense. For decades, researchers suspected a transporter had to exist, but it remained elusive—until now. By identifying the gene",
+      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t.",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260407004815.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
       "impact": 5
     },
     {
-      "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
-      "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it",
+      "title": "This “rotten egg” brain gas could be the key to fighting Alzheimer’s disease",
+      "summary": "Scientists have uncovered a surprising new player in Alzheimer’s disease: a protein called CSE that helps produce tiny amounts of hydrogen sulfide gas in the brain. In experiments with genetically engineered mice, removing this protein led to memory loss, brain damage, and other hallmarks of Alzheim",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225933.htm",
+      "impact": 4
     },
     {
-      "title": "Scientists discover reversible male birth control that stops sperm production",
-      "summary": "Scientists at Cornell University may be closing in on the long-sought “holy grail” of male contraception: a safe, reversible, nonhormonal method that completely halts sperm production. In a breakthrough mouse study, researchers used a compound called JQ1 to temporarily shut down meiosis—the critical",
+      "title": "Your DNA has a secret “second code” that decides which genes get silenced",
+      "summary": "Not all parts of our genetic code are equal, even when they appear to say the same thing. Scientists have discovered that cells can detect less efficient genetic instructions and selectively silence them. A protein called DHX29 plays a key role in this process by identifying and suppressing weaker m",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225946.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists discover spice synergy that boosts anti-inflammation 100x",
+      "summary": "Chronic inflammation often works quietly in the background but can fuel serious diseases like diabetes, heart disease, and cancer. New research reveals that everyday plant compounds—like menthol from mint, cineole from eucalyptus, and capsaicin from chili peppers—can team up inside immune cells to d",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260407193844.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225950.htm",
+      "impact": 4
     },
     {
-      "title": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
-      "summary": "Editor’s note: Some photo captions were updated on April 8, 2026, to reflect ongoing scientific observations and discussion about the images. The first flyby images of the Moon captured by NASA&#8217;s Artemis II astronauts during their historic test flight reveal some regions no human has seen, inc",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
-      "impact": 5
-    },
-    {
-      "title": "Did a black hole just explode? This “impossible” particle may be the evidence",
-      "summary": "A bizarre, record-breaking neutrino detected in 2023 may have originated from an exploding primordial black hole—a relic from the early universe. Scientists suggest these black holes could carry a mysterious “dark charge,” causing rare but powerful bursts of energy that current detectors might occas",
-      "category": "Space",
+      "title": "Humans reached Australia 60,000 years ago, new DNA study reveals",
+      "summary": "Scientists have uncovered compelling evidence that humans reached New Guinea and Australia around 60,000 years ago—earlier than some recent theories suggested. By tracing maternal DNA lineages, the team discovered that these early travelers likely used at least two different migration routes through",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260407193906.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225938.htm",
       "impact": 4
     }
   ]
