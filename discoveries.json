@@ -1,29 +1,29 @@
 {
-  "date": "2026-04-10",
-  "last_updated": "2026-04-10 06:08 UTC",
+  "date": "2026-04-11",
+  "last_updated": "2026-04-11 00:04 UTC",
   "items": [
     {
-      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
-      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t.",
+      "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
+      "summary": "A breakthrough in microbiome research could change how colorectal cancer is detected—no colonoscopy required. Scientists used AI to map gut bacteria at an unprecedented level of detail, revealing subtle microbial patterns linked to cancer. By analyzing simple stool samples, their method identified 9",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
       "impact": 5
     },
     {
-      "title": "This “rotten egg” brain gas could be the key to fighting Alzheimer’s disease",
-      "summary": "Scientists have uncovered a surprising new player in Alzheimer’s disease: a protein called CSE that helps produce tiny amounts of hydrogen sulfide gas in the brain. In experiments with genetically engineered mice, removing this protein led to memory loss, brain damage, and other hallmarks of Alzheim",
+      "title": "Scientists finally uncover why promising cancer drugs keep failing",
+      "summary": "Cancer drugs known as BET inhibitors once looked like a breakthrough, but in real patients they’ve often fallen short. New research reveals a key reason why: two closely related proteins, BRD2 and BRD4, don’t actually do the same job. Instead, BRD2 acts like a “stage manager,” preparing genes for ac",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225933.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101055.htm",
+      "impact": 5
     },
     {
-      "title": "Your DNA has a secret “second code” that decides which genes get silenced",
-      "summary": "Not all parts of our genetic code are equal, even when they appear to say the same thing. Scientists have discovered that cells can detect less efficient genetic instructions and selectively silence them. A protein called DHX29 plays a key role in this process by identifying and suppressing weaker m",
-      "category": "Biology",
+      "title": "Dragonflies can see a color humans can’t and it could change medicine",
+      "summary": "Dragonflies may see the world in a way that pushes beyond human limits—and surprisingly, they do it using the same molecular trick we evolved ourselves. Scientists discovered that these insects can detect extremely deep red light, even edging into near-infrared, thanks to a specialized visual protei",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225946.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101059.htm",
       "impact": 4
     },
     {
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Humans reached Australia 60,000 years ago, new DNA study reveals",
-      "summary": "Scientists have uncovered compelling evidence that humans reached New Guinea and Australia around 60,000 years ago—earlier than some recent theories suggested. By tracing maternal DNA lineages, the team discovered that these early travelers likely used at least two different migration routes through",
-      "category": "Biology",
+      "title": "Gravitational waves may be hidden in the light atoms emit",
+      "summary": "Scientists have proposed a surprising new way to detect gravitational waves—by observing how they change the light emitted by atoms. These waves can subtly shift photon frequencies in different directions, leaving behind a detectable signature. The effect doesn’t change how much light atoms emit, wh",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225938.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
       "impact": 4
     }
   ]
