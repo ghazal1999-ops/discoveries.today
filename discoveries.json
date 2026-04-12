@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-11",
-  "last_updated": "2026-04-11 00:04 UTC",
+  "date": "2026-04-12",
+  "last_updated": "2026-04-12 00:03 UTC",
   "items": [
     {
       "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
@@ -11,35 +11,35 @@
       "impact": 5
     },
     {
-      "title": "Scientists finally uncover why promising cancer drugs keep failing",
-      "summary": "Cancer drugs known as BET inhibitors once looked like a breakthrough, but in real patients they’ve often fallen short. New research reveals a key reason why: two closely related proteins, BRD2 and BRD4, don’t actually do the same job. Instead, BRD2 acts like a “stage manager,” preparing genes for ac",
-      "category": "Medicine",
+      "title": "Scientists finally crack mystery of rare COVID vaccine blood clots",
+      "summary": "Researchers have uncovered why a rare blood clotting disorder can occur after certain COVID-19 vaccines or adenovirus infections. The immune system can mistakenly target a normal blood protein (PF4) after confusing it with a viral protein. This triggers clotting in extremely rare cases. The breakthr",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101055.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101106.htm",
       "impact": 5
     },
     {
-      "title": "Dragonflies can see a color humans can’t and it could change medicine",
-      "summary": "Dragonflies may see the world in a way that pushes beyond human limits—and surprisingly, they do it using the same molecular trick we evolved ourselves. Scientists discovered that these insects can detect extremely deep red light, even edging into near-infrared, thanks to a specialized visual protei",
-      "category": "Medicine",
+      "title": "Two simple eating habits linked to lower weight, study finds",
+      "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock.",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101059.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
+      "impact": 5
     },
     {
-      "title": "Scientists discover spice synergy that boosts anti-inflammation 100x",
-      "summary": "Chronic inflammation often works quietly in the background but can fuel serious diseases like diabetes, heart disease, and cancer. New research reveals that everyday plant compounds—like menthol from mint, cineole from eucalyptus, and capsaicin from chili peppers—can team up inside immune cells to d",
-      "category": "Medicine",
+      "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
+      "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260408225950.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
+      "impact": 5
     },
     {
-      "title": "Gravitational waves may be hidden in the light atoms emit",
-      "summary": "Scientists have proposed a surprising new way to detect gravitational waves—by observing how they change the light emitted by atoms. These waves can subtly shift photon frequencies in different directions, leaving behind a detectable signature. The effect doesn’t change how much light atoms emit, wh",
-      "category": "Physics",
+      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
+      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decl",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
       "impact": 4
     }
   ]
