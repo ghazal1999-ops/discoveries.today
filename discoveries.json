@@ -1,21 +1,13 @@
 {
-  "date": "2026-04-12",
-  "last_updated": "2026-04-12 00:03 UTC",
+  "date": "2026-04-13",
+  "last_updated": "2026-04-13 00:06 UTC",
   "items": [
     {
-      "title": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers",
-      "summary": "A breakthrough in microbiome research could change how colorectal cancer is detected—no colonoscopy required. Scientists used AI to map gut bacteria at an unprecedented level of detail, revealing subtle microbial patterns linked to cancer. By analyzing simple stool samples, their method identified 9",
-      "category": "Medicine",
+      "title": "Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology",
+      "summary": "A new nanodisc-based platform lets scientists study viral proteins in a form that closely mimics real viruses, revealing how antibodies truly recognize them. This approach uncovered hidden interactions in viruses like HIV and Ebola that traditional methods missed. By recreating the virus’s membrane ",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists finally crack mystery of rare COVID vaccine blood clots",
-      "summary": "Researchers have uncovered why a rare blood clotting disorder can occur after certain COVID-19 vaccines or adenovirus infections. The immune system can mistakenly target a normal blood protein (PF4) after confusing it with a viral protein. This triggers clotting in extremely rare cases. The breakthr",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260409101106.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
       "impact": 5
     },
     {
@@ -27,6 +19,14 @@
       "impact": 5
     },
     {
+      "title": "How aggressive breast cancer turns off the immune system",
+      "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Us",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+      "impact": 5
+    },
+    {
       "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
       "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
       "category": "Science",
@@ -35,11 +35,11 @@
       "impact": 5
     },
     {
-      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
-      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decl",
-      "category": "Medicine",
+      "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+      "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and be",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
       "impact": 4
     }
   ]
