@@ -1,13 +1,21 @@
 {
-  "date": "2026-04-13",
-  "last_updated": "2026-04-13 00:06 UTC",
+  "date": "2026-04-14",
+  "last_updated": "2026-04-14 06:12 UTC",
   "items": [
     {
-      "title": "Hidden weak spots in HIV and Ebola revealed with breakthrough nanodisc technology",
-      "summary": "A new nanodisc-based platform lets scientists study viral proteins in a form that closely mimics real viruses, revealing how antibodies truly recognize them. This approach uncovered hidden interactions in viruses like HIV and Ebola that traditional methods missed. By recreating the virus’s membrane ",
-      "category": "Biology",
+      "title": "NASA Night-light Imagery Tracks US Energy Transition, Global Volatility",
+      "summary": "New nighttime maps based on NASA satellite imagery are upending assumptions, revealing a world where artificial brightening and dimming have intensified over the past decade. The findings show intense flaring over major oil and gas fields in the United States, while factors such as rural electrifica",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/",
+      "impact": 5
+    },
+    {
+      "title": "New toothpaste stops gum disease without killing good bacteria",
+      "summary": "Scientists have developed a new way to fight gum disease without wiping out the mouth’s helpful bacteria—a major shift from traditional treatments. Instead of killing everything, this targeted approach blocks only the harmful microbes that drive periodontitis, allowing beneficial bacteria to thrive ",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022027.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
       "impact": 5
     },
     {
@@ -19,11 +27,11 @@
       "impact": 5
     },
     {
-      "title": "How aggressive breast cancer turns off the immune system",
-      "summary": "Researchers are launching a new project to crack the mystery of aggressive breast cancer, where predicting disease progression remains a major hurdle. By studying how tumors interact with and suppress the immune system, scientists aim to identify new biomarkers that reveal how the cancer evolves. Us",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411022031.htm",
+      "title": "NASA to Host Artemis II Crew Postflight News Conference",
+      "summary": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Ca",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
       "impact": 5
     },
     {
@@ -33,14 +41,6 @@
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
       "impact": 5
-    },
-    {
-      "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
-      "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange, social complexity, and be",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
-      "impact": 4
     }
   ]
 }
