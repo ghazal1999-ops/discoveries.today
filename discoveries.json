@@ -1,13 +1,13 @@
 {
-  "date": "2026-04-14",
-  "last_updated": "2026-04-14 06:12 UTC",
+  "date": "2026-04-15",
+  "last_updated": "2026-04-15 06:12 UTC",
   "items": [
     {
-      "title": "NASA Night-light Imagery Tracks US Energy Transition, Global Volatility",
-      "summary": "New nighttime maps based on NASA satellite imagery are upending assumptions, revealing a world where artificial brightening and dimming have intensified over the past decade. The findings show intense flaring over major oil and gas fields in the United States, while factors such as rural electrifica",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/",
+      "title": "Scientists just recreated a rare cosmic reaction never seen before",
+      "summary": "A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form i",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
       "impact": 5
     },
     {
@@ -19,28 +19,28 @@
       "impact": 5
     },
     {
-      "title": "Two simple eating habits linked to lower weight, study finds",
-      "summary": "A major study suggests that when you eat could play a key role in staying lean. People who fast longer overnight and start their day with an early breakfast were more likely to have a lower BMI years later. Scientists think this is because eating earlier aligns better with the body’s internal clock.",
-      "category": "Space",
+      "title": "Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it",
+      "summary": "In the aftermath of Earth’s most catastrophic extinction event, one unlikely survivor rose to dominate a shattered world: Lystrosaurus. Now, a stunning fossil discovery—an ancient egg containing a curled-up embryo—has finally answered a decades-old mystery about whether mammal ancestors laid eggs. U",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411090018.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075642.htm",
+      "impact": 4
     },
     {
-      "title": "NASA to Host Artemis II Crew Postflight News Conference",
-      "summary": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Ca",
+      "title": "This strange “pearling” motion inside cells could change how we understand disease",
+      "summary": "Mitochondria don’t just generate energy—they also carefully organize their own DNA in a surprisingly elegant way. Scientists have discovered that a long-overlooked phenomenon called “mitochondrial pearling,” where mitochondria briefly form bead-like shapes, helps evenly space clusters of mitochondri",
       "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
-      "impact": 5
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043133.htm",
+      "impact": 4
     },
     {
-      "title": "A 67-year-old “crazy” theory about vitamin B1 has finally been proven",
-      "summary": "Scientists have achieved the unthinkable by stabilizing a highly reactive molecule in water, confirming a decades-old theory about vitamin B1’s role in the body. The breakthrough not only solves a scientific mystery but could revolutionize greener chemical manufacturing.",
-      "category": "Science",
+      "title": "Quantum systems can remember and forget at the same time, scientists discover",
+      "summary": "Quantum systems can secretly “remember” their past—even when they appear not to. Scientists found that whether a system shows memory depends on how you look at it: through its evolving state or its measurable properties. Each perspective uncovers different kinds of memory, meaning a system can seem ",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260411081426.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043150.htm",
+      "impact": 4
     }
   ]
 }
