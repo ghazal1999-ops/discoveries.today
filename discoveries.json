@@ -1,7 +1,23 @@
 {
-  "date": "2026-04-15",
-  "last_updated": "2026-04-15 06:12 UTC",
+  "date": "2026-04-16",
+  "last_updated": "2026-04-16 06:15 UTC",
   "items": [
+    {
+      "title": "95% of people carry this virus and scientists may have just found how to stop it",
+      "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering ",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
+      "impact": 5
+    },
+    {
+      "title": "‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions",
+      "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) mission has mapped interstellar ice at an unprecedented scale. Covering regions in our Milky Way galaxy more than 600 light-years across, the ice was found inside giant molecular clouds — va",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/",
+      "impact": 5
+    },
     {
       "title": "Scientists just recreated a rare cosmic reaction never seen before",
       "summary": "A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form i",
@@ -11,35 +27,19 @@
       "impact": 5
     },
     {
-      "title": "New toothpaste stops gum disease without killing good bacteria",
-      "summary": "Scientists have developed a new way to fight gum disease without wiping out the mouth’s helpful bacteria—a major shift from traditional treatments. Instead of killing everything, this targeted approach blocks only the harmful microbes that drive periodontitis, allowing beneficial bacteria to thrive ",
-      "category": "Medicine",
+      "title": "Graphene just defied a fundamental law of physics",
+      "summary": "In a major breakthrough, scientists have observed electrons in graphene flowing like a nearly frictionless liquid, defying a core law of physics. This exotic quantum state not only reveals new fundamental behavior but could also unlock powerful future technologies.",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043141.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm",
       "impact": 5
     },
     {
-      "title": "Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it",
-      "summary": "In the aftermath of Earth’s most catastrophic extinction event, one unlikely survivor rose to dominate a shattered world: Lystrosaurus. Now, a stunning fossil discovery—an ancient egg containing a curled-up embryo—has finally answered a decades-old mystery about whether mammal ancestors laid eggs. U",
+      "title": "Scientists just solved a 160-million-year fossil mystery “I’ve never seen anything like it”",
+      "summary": "A rare fossil discovery is shedding light on the “missing years” of early sponge evolution. Scientists found a 550-million-year-old sponge that likely lacked hard skeletal parts, explaining why earlier fossils are so scarce. This supports the idea that the earliest sponges were soft-bodied and rarel",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075642.htm",
-      "impact": 4
-    },
-    {
-      "title": "This strange “pearling” motion inside cells could change how we understand disease",
-      "summary": "Mitochondria don’t just generate energy—they also carefully organize their own DNA in a surprisingly elegant way. Scientists have discovered that a long-overlooked phenomenon called “mitochondrial pearling,” where mitochondria briefly form bead-like shapes, helps evenly space clusters of mitochondri",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043133.htm",
-      "impact": 4
-    },
-    {
-      "title": "Quantum systems can remember and forget at the same time, scientists discover",
-      "summary": "Quantum systems can secretly “remember” their past—even when they appear not to. Scientists found that whether a system shows memory depends on how you look at it: through its evolving state or its measurable properties. Each perspective uncovers different kinds of memory, meaning a system can seem ",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260413043150.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
       "impact": 4
     }
   ]
