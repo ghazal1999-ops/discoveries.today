@@ -1,15 +1,7 @@
 {
-  "date": "2026-04-16",
-  "last_updated": "2026-04-16 06:15 UTC",
+  "date": "2026-04-17",
+  "last_updated": "2026-04-17 06:15 UTC",
   "items": [
-    {
-      "title": "95% of people carry this virus and scientists may have just found how to stop it",
-      "summary": "Scientists have taken a major step toward stopping Epstein-Barr virus (EBV), an extremely common infection linked to cancer and chronic disease. By using mice engineered with human antibody genes, researchers created powerful human-like antibodies that block the virus from attaching to and entering ",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075650.htm",
-      "impact": 5
-    },
     {
       "title": "‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions",
       "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) mission has mapped interstellar ice at an unprecedented scale. Covering regions in our Milky Way galaxy more than 600 light-years across, the ice was found inside giant molecular clouds — va",
@@ -24,6 +16,14 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists thought this was a young T. rex. They were wrong",
+      "summary": "A long-running dinosaur mystery may finally be solved: Nanotyrannus, once dismissed as just a teenage T. rex, appears to have been its own distinct species after all. Scientists analyzed a tiny throat bone from the original fossil and discovered growth patterns showing the animal was already mature,",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm",
       "impact": 5
     },
     {
