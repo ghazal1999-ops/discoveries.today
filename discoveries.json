@@ -1,7 +1,15 @@
 {
   "date": "2026-04-18",
-  "last_updated": "2026-04-18 05:25 UTC",
+  "last_updated": "2026-04-18 23:26 UTC",
   "items": [
+    {
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a ",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "impact": 5
+    },
     {
       "title": "Scientists thought this was a young T. rex. They were wrong",
       "summary": "A long-running dinosaur mystery may finally be solved: Nanotyrannus, once dismissed as just a teenage T. rex, appears to have been its own distinct species after all. Scientists analyzed a tiny throat bone from the original fossil and discovered growth patterns showing the animal was already mature,",
@@ -9,22 +17,6 @@
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm",
       "impact": 5
-    },
-    {
-      "title": "Graphene just defied a fundamental law of physics",
-      "summary": "In a major breakthrough, scientists have observed electrons in graphene flowing like a nearly frictionless liquid, defying a core law of physics. This exotic quantum state not only reveals new fundamental behavior but could also unlock powerful future technologies.",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists just solved a 160-million-year fossil mystery “I’ve never seen anything like it”",
-      "summary": "A rare fossil discovery is shedding light on the “missing years” of early sponge evolution. Scientists found a 550-million-year-old sponge that likely lacked hard skeletal parts, explaining why earlier fossils are so scarce. This supports the idea that the earliest sponges were soft-bodied and rarel",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
-      "impact": 4
     },
     {
       "title": "Scientists discover hidden ocean methane source that could worsen global warming",
@@ -40,6 +32,14 @@
       "category": "Biology",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
+      "impact": 4
+    },
+    {
+      "title": "Black hole jets measured for first time and rival the power of 10,000 suns",
+      "summary": "Scientists have captured stunning new insights into one of the universe’s most powerful phenomena—black hole jets—by using a planet-sized network of radio telescopes. Focusing on Cygnus X-1, one of the first known black holes, they measured jets blasting out with the energy of 10,000 Suns and moving",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260416071949.htm",
       "impact": 4
     }
   ]
