@@ -1,23 +1,7 @@
 {
-  "date": "2026-04-17",
-  "last_updated": "2026-04-17 06:15 UTC",
+  "date": "2026-04-18",
+  "last_updated": "2026-04-18 05:25 UTC",
   "items": [
-    {
-      "title": "‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions",
-      "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) mission has mapped interstellar ice at an unprecedented scale. Covering regions in our Milky Way galaxy more than 600 light-years across, the ice was found inside giant molecular clouds — va",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/",
-      "impact": 5
-    },
-    {
-      "title": "Scientists just recreated a rare cosmic reaction never seen before",
-      "summary": "A breakthrough experiment has shed new light on one of astrophysics’ biggest mysteries: the origin of rare proton-rich elements. For the first time, scientists directly measured a key reaction that creates selenium-74 using a rare isotope beam. The results sharpen models of how these elements form i",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260414075652.htm",
-      "impact": 5
-    },
     {
       "title": "Scientists thought this was a young T. rex. They were wrong",
       "summary": "A long-running dinosaur mystery may finally be solved: Nanotyrannus, once dismissed as just a teenage T. rex, appears to have been its own distinct species after all. Scientists analyzed a tiny throat bone from the original fossil and discovered growth patterns showing the animal was already mature,",
@@ -40,6 +24,22 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists discover hidden ocean methane source that could worsen global warming",
+      "summary": "Scientists have discovered that methane in the open ocean is produced by microbes under nutrient-poor conditions, solving a long-standing mystery. As warming oceans reduce nutrient mixing, these methane-producing microbes may thrive. This could lead to increased methane emissions from the sea. The r",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043615.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
+      "summary": "Scientists have uncovered a surprising twist in how bacteria share genes—including those that spread antibiotic resistance. Tiny virus-like particles called gene transfer agents (GTAs), once ancient viral invaders, have been repurposed by bacteria into delivery systems that shuttle DNA between neigh",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
       "impact": 4
     }
   ]
