@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-18",
-  "last_updated": "2026-04-18 23:26 UTC",
+  "date": "2026-04-19",
+  "last_updated": "2026-04-19 23:28 UTC",
   "items": [
     {
       "title": "Artificial neurons successfully communicate with living brain cells",
@@ -9,22 +9,6 @@
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "impact": 5
-    },
-    {
-      "title": "Scientists thought this was a young T. rex. They were wrong",
-      "summary": "A long-running dinosaur mystery may finally be solved: Nanotyrannus, once dismissed as just a teenage T. rex, appears to have been its own distinct species after all. Scientists analyzed a tiny throat bone from the original fossil and discovered growth patterns showing the animal was already mature,",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists discover hidden ocean methane source that could worsen global warming",
-      "summary": "Scientists have discovered that methane in the open ocean is produced by microbes under nutrient-poor conditions, solving a long-standing mystery. As warming oceans reduce nutrient mixing, these methane-producing microbes may thrive. This could lead to increased methane emissions from the sea. The r",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260415043615.htm",
-      "impact": 4
     },
     {
       "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
@@ -40,6 +24,22 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260416071949.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+      "summary": "Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than simil",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
+      "impact": 4
+    },
+    {
+      "title": "MIT scientists just found a hidden problem slowing the ozone comeback",
+      "summary": "The ozone layer has been on track to recover thanks to the Montreal Protocol—but a loophole may be holding it back. Chemicals still permitted for industrial use are leaking into the atmosphere at higher rates than expected. Scientists now estimate this could delay ozone recovery by up to seven years",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260416071945.htm",
       "impact": 4
     }
   ]
