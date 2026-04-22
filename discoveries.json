@@ -1,13 +1,13 @@
 {
-  "date": "2026-04-21",
-  "last_updated": "2026-04-21 23:28 UTC",
+  "date": "2026-04-22",
+  "last_updated": "2026-04-22 23:39 UTC",
   "items": [
     {
-      "title": "Breakthrough discovery reveals hidden oxygen flow deep inside catalysts",
-      "summary": "A major discovery is reshaping how scientists think about catalysts. Researchers have, for the first time, captured oxygen atoms moving through the interior of a catalyst—not just along its surface. This reveals that the bulk material can actively participate in reactions, opening a new frontier in ",
-      "category": "Science",
+      "title": "Ancient DNA reveals a lost population near Paris replaced by strangers",
+      "summary": "Ancient DNA from a tomb near Paris reveals a shocking prehistoric reset: one population vanished and was replaced by newcomers from the south. The two groups show no genetic connection, signaling a major upheaval around 3000 BC. Disease, including early plague, likely played a role, but wasn’t the o",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260420014736.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042800.htm",
       "impact": 5
     },
     {
@@ -19,27 +19,27 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover skincare compound that kills drug-resistant bacteria",
-      "summary": "A popular Korean skincare ingredient may be far more powerful than anyone realized. Scientists have discovered that madecassic acid—derived from the herb Centella asiatica—can stop antibiotic-resistant bacteria in their tracks, including dangerous strains of E. coli. By targeting a bacterial protein",
-      "category": "Medicine",
+      "title": "This donut-shaped discovery just shattered a 150-year math rule",
+      "summary": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured locally but are actually different overall. For decades, researchers suspected this might be possible but couldn’t prove it—until now. The breakthrough",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260420014738.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
+      "impact": 5
     },
     {
-      "title": "95% success rate: This new trick lures termites straight to their death",
-      "summary": "Scientists at UC Riverside have found a clever new way to outsmart termites—by turning their own instincts against them. Using a natural pine scent called pinene, which smells like food to termites, researchers can lure the pests straight toward a targeted dose of insecticide hidden in wood. The res",
-      "category": "AI & Tech",
+      "title": "Ancient DNA reveals a hidden Neanderthal group frozen in time",
+      "summary": "A remarkable genetic breakthrough has uncovered what may be one of the clearest snapshots yet of a Neanderthal “community” living together 100,000 years ago in what is now Poland. The findings reveal that these individuals shared genetic ties with Neanderthals spread across Europe and the Caucasus, ",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260420233930.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042757.htm",
+      "impact": 5
     },
     {
-      "title": "A bizarre new state of matter may be hiding inside Uranus and Neptune",
-      "summary": "Deep inside planets like Uranus and Neptune, scientists may have uncovered a bizarre new state of matter where atoms behave in unexpected ways. Advanced simulations suggest that carbon and hydrogen, under crushing pressures and scorching temperatures, can form a strange hybrid phase—part solid, part",
-      "category": "Space",
+      "title": "“Baffling” new snake species in Myanmar looks like multiple species at once",
+      "summary": "Scientists have uncovered a fascinating new species of pit viper in Myanmar that seems to blur the very definition of what a species is. This snake, now named the Ayeyarwady pit viper, puzzled researchers because it looks like a mix between two known species—sometimes resembling one, sometimes the o",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042812.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421233649.htm",
       "impact": 4
     }
   ]
