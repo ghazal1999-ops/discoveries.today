@@ -1,38 +1,30 @@
 {
-  "date": "2026-04-22",
-  "last_updated": "2026-04-22 23:39 UTC",
+  "date": "2026-04-23",
+  "last_updated": "2026-04-23 23:37 UTC",
   "items": [
     {
-      "title": "Ancient DNA reveals a lost population near Paris replaced by strangers",
-      "summary": "Ancient DNA from a tomb near Paris reveals a shocking prehistoric reset: one population vanished and was replaced by newcomers from the south. The two groups show no genetic connection, signaling a major upheaval around 3000 BC. Disease, including early plague, likely played a role, but wasn’t the o",
+      "title": "Scientists discover hidden forces are warping Earth deep beneath the surface",
+      "summary": "Scientists have mapped how Earth’s deepest mantle is being deformed—and the results point to long-lost tectonic plates buried thousands of kilometers underground. Using a massive global dataset of seismic waves, they found that most deformation happens in regions where these ancient slabs are though",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044632.htm",
+      "impact": 5
+    },
+    {
+      "title": "AI just discovered new physics in the fourth state of matter",
+      "summary": "Physicists have taken a major step toward using AI not just to analyze data, but to uncover entirely new laws of nature. By combining a specially designed neural network with precise 3D tracking of particles in a dusty plasma—a strange “fourth state of matter” found from space to wildfires—the team ",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm",
+      "impact": 5
+    },
+    {
+      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+      "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042800.htm",
-      "impact": 5
-    },
-    {
-      "title": "This new camera captures what happens in a trillionth of a second",
-      "summary": "Scientists have unveiled a breakthrough imaging method that can capture the hidden details of events unfolding in trillionths of a second. This new technique doesn’t just track how bright something is—it also reveals subtle structural changes that were previously invisible, all in a single shot. By ",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042808.htm",
-      "impact": 5
-    },
-    {
-      "title": "This donut-shaped discovery just shattered a 150-year math rule",
-      "summary": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured locally but are actually different overall. For decades, researchers suspected this might be possible but couldn’t prove it—until now. The breakthrough",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
-      "impact": 5
-    },
-    {
-      "title": "Ancient DNA reveals a hidden Neanderthal group frozen in time",
-      "summary": "A remarkable genetic breakthrough has uncovered what may be one of the clearest snapshots yet of a Neanderthal “community” living together 100,000 years ago in what is now Poland. The findings reveal that these individuals shared genetic ties with Neanderthals spread across Europe and the Caucasus, ",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421042757.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
+      "impact": 4
     },
     {
       "title": "“Baffling” new snake species in Myanmar looks like multiple species at once",
@@ -40,6 +32,14 @@
       "category": "Biology",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/04/260421233649.htm",
+      "impact": 4
+    },
+    {
+      "title": "289-million-year-old mummified reptile reveals how breathing began on land",
+      "summary": "A remarkably preserved, mummified reptile from 289 million years ago is rewriting what we know about how animals first breathed on land. This tiny creature, Captorhinus aguti, reveals the earliest known version of the rib-powered breathing system used by modern reptiles, birds, and mammals — a cruci",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044626.htm",
       "impact": 4
     }
   ]
