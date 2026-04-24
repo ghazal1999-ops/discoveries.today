@@ -1,22 +1,22 @@
 {
-  "date": "2026-04-23",
-  "last_updated": "2026-04-23 23:37 UTC",
+  "date": "2026-04-24",
+  "last_updated": "2026-04-24 23:33 UTC",
   "items": [
     {
-      "title": "Scientists discover hidden forces are warping Earth deep beneath the surface",
-      "summary": "Scientists have mapped how Earth’s deepest mantle is being deformed—and the results point to long-lost tectonic plates buried thousands of kilometers underground. Using a massive global dataset of seismic waves, they found that most deformation happens in regions where these ancient slabs are though",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044632.htm",
+      "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
+      "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
+      "category": "Climate",
+      "source": "bbc.com",
+      "source_url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
       "impact": 5
     },
     {
-      "title": "AI just discovered new physics in the fourth state of matter",
-      "summary": "Physicists have taken a major step toward using AI not just to analyze data, but to uncover entirely new laws of nature. By combining a specially designed neural network with precise 3D tracking of particles in a dusty plasma—a strange “fourth state of matter” found from space to wildfires—the team ",
-      "category": "Space",
+      "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
+      "summary": "Nearly 100 million years ago, snakes weren’t the sleek, limbless creatures we know today—they still had hind legs and even a cheekbone that has almost vanished in modern species. A remarkably preserved fossil of Najash rionegrina from Argentina has reshaped how scientists think about snake origins, ",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
+      "impact": 4
     },
     {
       "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
@@ -27,19 +27,19 @@
       "impact": 4
     },
     {
-      "title": "“Baffling” new snake species in Myanmar looks like multiple species at once",
-      "summary": "Scientists have uncovered a fascinating new species of pit viper in Myanmar that seems to blur the very definition of what a species is. This snake, now named the Ayeyarwady pit viper, puzzled researchers because it looks like a mix between two known species—sometimes resembling one, sometimes the o",
-      "category": "Biology",
+      "title": "Ancient mass grave reveals how a pandemic wiped out a city 1,500 years ago",
+      "summary": "A newly confirmed mass grave in ancient Jordan offers chilling insight into one of history’s first pandemics. Hundreds of plague victims were buried within days, revealing how the Plague of Justinian devastated entire communities. The findings show that people who usually lived spread out across reg",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260421233649.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260423031540.htm",
       "impact": 4
     },
     {
-      "title": "289-million-year-old mummified reptile reveals how breathing began on land",
-      "summary": "A remarkably preserved, mummified reptile from 289 million years ago is rewriting what we know about how animals first breathed on land. This tiny creature, Captorhinus aguti, reveals the earliest known version of the rib-powered breathing system used by modern reptiles, birds, and mammals — a cruci",
-      "category": "Science",
+      "title": "For the first time, scientists pinpoint the brain cells behind depression",
+      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044626.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
       "impact": 4
     }
   ]
