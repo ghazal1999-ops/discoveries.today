@@ -1,13 +1,21 @@
 {
-  "date": "2026-04-26",
-  "last_updated": "2026-04-26 23:30 UTC",
+  "date": "2026-04-27",
+  "last_updated": "2026-04-27 23:43 UTC",
   "items": [
     {
-      "title": "Giant prehistoric insects didn’t need high oxygen after all, study finds",
-      "summary": "Ancient Earth once buzzed with enormous dragonfly-like insects, and scientists long thought high oxygen levels made their size possible. A new study overturns that idea, revealing insect flight muscles weren’t constrained by oxygen after all. Their breathing system has plenty of room to expand, mean",
+      "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
+      "summary": "In a breakthrough experiment, scientists directly imaged how particles pair up in a system that mimics superconductors. Instead of behaving independently, the pairs moved in a synchronized, dance-like pattern—something never predicted before. This suggests a major gap in the classic theory of superc",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260424233208.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm",
+      "impact": 5
+    },
+    {
+      "title": "This tiny mammal survived the dinosaur apocalypse and changed life on Earth",
+      "summary": "A newly discovered prehistoric mammal may hold clues to how life survived the dinosaur-killing extinction. The tiny species, Cimolodon desosai, lived 75 million years ago and had traits—like a small body and varied diet—that likely boosted survival odds. Found in Baja California, the fossil includes",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050554.htm",
       "impact": 5
     },
     {
@@ -19,11 +27,11 @@
       "impact": 5
     },
     {
-      "title": "This exotic particle could finally explain why matter has mass",
-      "summary": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggesting that particles can weigh less when surrounded by dense nuclear matter. The findings support long",
-      "category": "Space",
+      "title": "Pesticide exposure linked to 150% higher cancer risk in major study",
+      "summary": "A major new study finds that living in pesticide-heavy environments could raise cancer risk by up to 150%, even when the chemicals are considered “safe” on their own. The research suggests these mixtures may silently damage cells years before cancer appears.",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012314.htm",
       "impact": 5
     },
     {
@@ -33,14 +41,6 @@
       "source": "bbc.com",
       "source_url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
       "impact": 5
-    },
-    {
-      "title": "Harvard scientists link gut bacteria to depression through hidden inflammation trigger",
-      "summary": "A gut bacterium may be quietly fueling depression through an unexpected chemical twist. Researchers found that when Morganella morganii interacts with a common pollutant, it produces a molecule that triggers inflammation—something strongly linked to depression. This finding helps explain how gut mic",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260425091216.htm",
-      "impact": 4
     }
   ]
 }
