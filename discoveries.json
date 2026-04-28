@@ -1,37 +1,21 @@
 {
-  "date": "2026-04-27",
-  "last_updated": "2026-04-27 23:43 UTC",
+  "date": "2026-04-28",
+  "last_updated": "2026-04-28 23:45 UTC",
   "items": [
     {
-      "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
-      "summary": "In a breakthrough experiment, scientists directly imaged how particles pair up in a system that mimics superconductors. Instead of behaving independently, the pairs moved in a synchronized, dance-like pattern—something never predicted before. This suggests a major gap in the classic theory of superc",
-      "category": "AI & Tech",
+      "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
+      "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner,",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260428045612.htm",
       "impact": 5
     },
     {
-      "title": "This tiny mammal survived the dinosaur apocalypse and changed life on Earth",
-      "summary": "A newly discovered prehistoric mammal may hold clues to how life survived the dinosaur-killing extinction. The tiny species, Cimolodon desosai, lived 75 million years ago and had traits—like a small body and varied diet—that likely boosted survival odds. Found in Baja California, the fossil includes",
+      "title": "Your dreams aren’t random. Here’s what’s really happening",
+      "summary": "Dreams are more structured than they seem, shaped by both personal traits and real-world experiences. Researchers found that the brain doesn’t just replay daily life—it reshapes it into imaginative, sometimes surreal scenarios. People who mind-wander more tend to have fragmented dreams, while those ",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050554.htm",
-      "impact": 5
-    },
-    {
-      "title": "NASA Celebrates Decade of University Innovation in Aeronautics",
-      "summary": "For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the&#160;University Leadership Initiative&#160;(ULI) is still flying high, making awards with the potential to change 21st century air travel.&",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/",
-      "impact": 5
-    },
-    {
-      "title": "Pesticide exposure linked to 150% higher cancer risk in major study",
-      "summary": "A major new study finds that living in pesticide-heavy environments could raise cancer risk by up to 150%, even when the chemicals are considered “safe” on their own. The research suggests these mixtures may silently damage cells years before cancer appears.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260426012314.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
       "impact": 5
     },
     {
@@ -41,6 +25,22 @@
       "source": "bbc.com",
       "source_url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
       "impact": 5
+    },
+    {
+      "title": "Scientists capture electrons forming strange patchy patterns inside quantum materials",
+      "summary": "Researchers have, for the first time, directly visualized how electronic patterns known as charge density waves evolve across a phase transition. Using cutting-edge microscopy, they found these patterns form unevenly, breaking into patches influenced by tiny structural distortions. Unexpectedly, sma",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050623.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists finally solve mystery of strange “golden orb” found 2 miles deep",
+      "summary": "A mysterious “golden orb” found more than two miles deep in the Gulf of Alaska left scientists baffled for over two years, sparking wild speculation about its origins. After an intensive investigation combining deep-sea expertise, microscopic analysis, and advanced DNA sequencing, researchers finall",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050613.htm",
+      "impact": 4
     }
   ]
 }
