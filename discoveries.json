@@ -1,7 +1,15 @@
 {
-  "date": "2026-04-28",
-  "last_updated": "2026-04-28 23:45 UTC",
+  "date": "2026-04-29",
+  "last_updated": "2026-04-29 23:44 UTC",
   "items": [
+    {
+      "title": "50-foot ancient snake discovered in India may be one of the largest ever",
+      "summary": "A massive prehistoric snake discovered in India may rank among the largest ever to slither across Earth. Named Vasuki indicus, this ancient giant lived around 47 million years ago and is estimated to have stretched an astonishing 11 to 15 meters long—rivaling the legendary Titanoboa. Fossilized vert",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260429043500.htm",
+      "impact": 5
+    },
     {
       "title": "Scientists catch antimatter “atom” acting like a wave for the first time",
       "summary": "Quantum physics once shocked scientists by revealing that particles can behave like waves—and now, that strange behavior has been pushed even further. For the first time, researchers have observed wave-like interference in positronium, an exotic “atom” made of an electron and its antimatter partner,",
@@ -27,19 +35,11 @@
       "impact": 5
     },
     {
-      "title": "Scientists capture electrons forming strange patchy patterns inside quantum materials",
-      "summary": "Researchers have, for the first time, directly visualized how electronic patterns known as charge density waves evolve across a phase transition. Using cutting-edge microscopy, they found these patterns form unevenly, breaking into patches influenced by tiny structural distortions. Unexpectedly, sma",
-      "category": "Physics",
+      "title": "A one-in-a-million supernova seen five times could reveal the Universe’s true speed",
+      "summary": "A spectacular cosmic event nicknamed “SN Winny” could help solve one of astronomy’s biggest mysteries: how fast the universe is expanding. This rare superluminous supernova, located 10 billion light-years away, appears five times in the sky thanks to gravitational lensing, creating a dazzling “cosmi",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050623.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists finally solve mystery of strange “golden orb” found 2 miles deep",
-      "summary": "A mysterious “golden orb” found more than two miles deep in the Gulf of Alaska left scientists baffled for over two years, sparking wild speculation about its origins. After an intensive investigation combining deep-sea expertise, microscopic analysis, and advanced DNA sequencing, researchers finall",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/04/260427050613.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/04/260428045603.htm",
       "impact": 4
     }
   ]
