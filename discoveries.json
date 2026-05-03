@@ -1,23 +1,7 @@
 {
-  "date": "2026-05-02",
-  "last_updated": "2026-05-02 23:34 UTC",
+  "date": "2026-05-03",
+  "last_updated": "2026-05-03 23:35 UTC",
   "items": [
-    {
-      "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
-      "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration of quadsqueezing—an elusive fourth-order quantum effect. By combining simple forces in a clever way, they made previously hidden quantum behaviors visible and usable, opening new frontiers f",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm",
-      "impact": 5
-    },
-    {
-      "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
-      "summary": "Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, this creature, named Tanyka amnicola, belonged to an ancient lineage that should have already faded ",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
-      "impact": 5
-    },
     {
       "title": "The “big one” might not come alone: Double West Coast earthquake threat",
       "summary": "Two of the most dangerous fault systems on the U.S. West Coast may be more connected than scientists once thought. New research suggests the Cascadia subduction zone and the San Andreas fault can “sync up,” triggering earthquakes within minutes or hours of each other. This rare “synchronization” cou",
@@ -27,20 +11,36 @@
       "impact": 5
     },
     {
-      "title": "Astronomers finally solve the gamma-Cas X-ray mystery after 50 years",
-      "summary": "A decades-old cosmic mystery has finally been cracked: the strange X-rays coming from the bright star gamma-Cas are caused by a hidden stellar companion feeding off it. Using cutting-edge observations from the XRISM space mission, astronomers discovered that an unseen white dwarf star is siphoning m",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260501052856.htm",
-      "impact": 5
-    },
-    {
       "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
       "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
       "category": "Climate",
       "source": "bbc.com",
       "source_url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
       "impact": 5
+    },
+    {
+      "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+      "summary": "Astronomers have unleashed a powerful new AI tool called RAVEN to comb through data from NASA’s TESS mission—and it’s paying off in a big way. By analyzing millions of stars, the system has confirmed over 100 exoplanets, including 31 brand-new worlds, and identified thousands more promising candidat",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists just discovered what coffee is really doing to your gut and brain",
+      "summary": "Coffee doesn’t just energize—it actively reshapes the gut and mind. Researchers found that both caffeinated and decaf coffee altered gut bacteria in ways linked to better mood and lower stress. Decaf even improved learning and memory, while caffeine boosted focus and reduced anxiety. Together, they ",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260502233911.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists stunned as pink katydid transforms into green camouflage",
+      "summary": "A bizarre rainforest insect is rewriting what scientists thought they knew about camouflage. A katydid spotted glowing hot pink in Panama stunned researchers when it slowly transformed into green in just 11 days, perfectly mirroring the life cycle of tropical leaves that emerge pink before maturing.",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260501052900.htm",
+      "impact": 4
     }
   ]
 }
