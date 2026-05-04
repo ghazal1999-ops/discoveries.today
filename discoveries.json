@@ -1,13 +1,21 @@
 {
-  "date": "2026-05-03",
-  "last_updated": "2026-05-03 23:35 UTC",
+  "date": "2026-05-04",
+  "last_updated": "2026-05-04 23:44 UTC",
   "items": [
     {
-      "title": "The “big one” might not come alone: Double West Coast earthquake threat",
-      "summary": "Two of the most dangerous fault systems on the U.S. West Coast may be more connected than scientists once thought. New research suggests the Cascadia subduction zone and the San Andreas fault can “sync up,” triggering earthquakes within minutes or hours of each other. This rare “synchronization” cou",
-      "category": "Science",
+      "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
+      "summary": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet their inner atomic structure remained a mystery—until now. Researchers have finally mapped their three-dimensional structure in unprecedented detail, uncovering hidden patterns in how electric ",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260502002153.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
+      "summary": "Scientists are using sunlight to turn plastic waste into clean fuels like hydrogen, offering a breakthrough solution to both pollution and energy challenges. While still in development, the approach could transform trash into a valuable resource for a low-carbon future.",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023841.htm",
       "impact": 5
     },
     {
@@ -32,14 +40,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260502233911.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists stunned as pink katydid transforms into green camouflage",
-      "summary": "A bizarre rainforest insect is rewriting what scientists thought they knew about camouflage. A katydid spotted glowing hot pink in Panama stunned researchers when it slowly transformed into green in just 11 days, perfectly mirroring the life cycle of tropical leaves that emerge pink before maturing.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260501052900.htm",
       "impact": 4
     }
   ]
