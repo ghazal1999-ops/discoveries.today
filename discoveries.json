@@ -1,13 +1,13 @@
 {
-  "date": "2026-05-05",
-  "last_updated": "2026-05-05 23:40 UTC",
+  "date": "2026-05-06",
+  "last_updated": "2026-05-06 23:41 UTC",
   "items": [
     {
-      "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
-      "summary": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet their inner atomic structure remained a mystery—until now. Researchers have finally mapped their three-dimensional structure in unprecedented detail, uncovering hidden patterns in how electric ",
-      "category": "Medicine",
+      "title": "240-million-year-old giant “sand creeper” found hidden in retaining wall",
+      "summary": "A forgotten fossil hidden inside a garden wall has turned out to be one of Australia’s most remarkable prehistoric discoveries. Scientists have now identified the 240-million-year-old amphibian, Arenaerpeton supinatus, revealing an almost perfectly preserved skeleton—complete with rare traces of ski",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154028.htm",
       "impact": 5
     },
     {
@@ -19,14 +19,6 @@
       "impact": 5
     },
     {
-      "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
-      "summary": "Scientists are using sunlight to turn plastic waste into clean fuels like hydrogen, offering a breakthrough solution to both pollution and energy challenges. While still in development, the approach could transform trash into a valuable resource for a low-carbon future.",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023841.htm",
-      "impact": 5
-    },
-    {
       "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
       "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
       "category": "Climate",
@@ -35,11 +27,19 @@
       "impact": 5
     },
     {
-      "title": "This simple blood test might detect depression before symptoms appear",
-      "summary": "A new study suggests depression may soon be detectable through a simple blood test—by tracking how certain immune cells age. Researchers found that accelerated aging in monocytes, a type of white blood cell, is closely tied to the emotional and cognitive symptoms of depression, like hopelessness and",
-      "category": "AI & Tech",
+      "title": "Webb space telescope reveals a scorching “super-Earth” that looks like Mercury",
+      "summary": "A scorching, airless world just 48 light-years away is offering scientists a rare glimpse into the geology of distant planets. Using the James Webb Space Telescope, researchers studied LHS 3844 b—a tidally locked “super-Earth” with a permanent dayside hot enough to melt metal—and discovered it’s a d",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023827.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154012.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists boost strawberry flavor and nutrition without changing growth",
+      "summary": "A surprising genetic twist shows that boosting a seemingly ordinary “housekeeping” gene can dramatically improve fruit quality without any trade-offs. By increasing the activity of a tRNA-related gene in strawberries, researchers unlocked richer color, stronger aroma, and higher levels of health-boo",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023855.htm",
       "impact": 4
     }
   ]
