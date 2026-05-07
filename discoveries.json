@@ -1,21 +1,21 @@
 {
-  "date": "2026-05-06",
-  "last_updated": "2026-05-06 23:41 UTC",
+  "date": "2026-05-07",
+  "last_updated": "2026-05-07 23:44 UTC",
   "items": [
     {
-      "title": "240-million-year-old giant “sand creeper” found hidden in retaining wall",
-      "summary": "A forgotten fossil hidden inside a garden wall has turned out to be one of Australia’s most remarkable prehistoric discoveries. Scientists have now identified the 240-million-year-old amphibian, Arenaerpeton supinatus, revealing an almost perfectly preserved skeleton—complete with rare traces of ski",
-      "category": "AI & Tech",
+      "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
+      "summary": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154028.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
       "impact": 5
     },
     {
-      "title": "Scientists just created exotic new forms of matter that shouldn’t exist",
-      "summary": "A new quantum physics study reveals that simply changing a magnetic field over time can unlock entirely new forms of matter that don’t exist under normal conditions. By carefully “driving” materials with timed magnetic shifts, researchers created exotic quantum states that could be far more stable a",
-      "category": "Physics",
+      "title": "NASA just tested a powerful new thruster that could send humans to Mars",
+      "summary": "A powerful new electromagnetic thruster has taken a major step forward after a successful high-energy test at NASA’s Jet Propulsion Laboratory. Fueled by lithium vapor and driven by intense magnetic forces, the experimental engine reached record-breaking power levels—far beyond anything currently us",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
       "impact": 5
     },
     {
@@ -27,19 +27,19 @@
       "impact": 5
     },
     {
-      "title": "Webb space telescope reveals a scorching “super-Earth” that looks like Mercury",
-      "summary": "A scorching, airless world just 48 light-years away is offering scientists a rare glimpse into the geology of distant planets. Using the James Webb Space Telescope, researchers studied LHS 3844 b—a tidally locked “super-Earth” with a permanent dayside hot enough to melt metal—and discovered it’s a d",
-      "category": "Space",
+      "title": "Scientists accidentally discover DNA that breaks the rules of life",
+      "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes ",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504154012.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
       "impact": 4
     },
     {
-      "title": "Scientists boost strawberry flavor and nutrition without changing growth",
-      "summary": "A surprising genetic twist shows that boosting a seemingly ordinary “housekeeping” gene can dramatically improve fruit quality without any trade-offs. By increasing the activity of a tRNA-related gene in strawberries, researchers unlocked richer color, stronger aroma, and higher levels of health-boo",
-      "category": "Medicine",
+      "title": "Your DNA may predict your future success more than your upbringing",
+      "summary": "A new twin study suggests your genes may play a bigger role in your future success than your upbringing. Researchers found that IQ, which is largely genetically influenced, strongly predicts education, career, and income. Even twins raised in the same household diverged based on genetic differences.",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260504023855.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234624.htm",
       "impact": 4
     }
   ]
