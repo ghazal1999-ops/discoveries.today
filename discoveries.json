@@ -1,23 +1,7 @@
 {
-  "date": "2026-05-07",
-  "last_updated": "2026-05-07 23:44 UTC",
+  "date": "2026-05-08",
+  "last_updated": "2026-05-08 23:47 UTC",
   "items": [
-    {
-      "title": "Scientists finally solve 40-year-old physics puzzle about how things grow",
-      "summary": "In a major breakthrough, scientists have experimentally confirmed a universal growth law in two dimensions using a quantum system of fleeting light–matter particles. The finding strengthens the idea that wildly different processes—from crystals to living systems—may all follow the same hidden rules.",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234622.htm",
-      "impact": 5
-    },
-    {
-      "title": "NASA just tested a powerful new thruster that could send humans to Mars",
-      "summary": "A powerful new electromagnetic thruster has taken a major step forward after a successful high-energy test at NASA’s Jet Propulsion Laboratory. Fueled by lithium vapor and driven by intense magnetic forces, the experimental engine reached record-breaking power levels—far beyond anything currently us",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
-      "impact": 5
-    },
     {
       "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
       "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
@@ -27,19 +11,35 @@
       "impact": 5
     },
     {
-      "title": "Scientists accidentally discover DNA that breaks the rules of life",
-      "summary": "A routine experiment with a new single-cell DNA sequencing method turned into a surprising scientific twist when researchers stumbled upon a bizarre genetic code in a microscopic pond organism. Instead of following the near-universal “rules” of life, this newly identified protist rewrites how genes ",
-      "category": "Biology",
+      "title": "Scientists make stunning discovery that could change our understanding of the Universe",
+      "summary": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow pr",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260507024045.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260508022653.htm",
       "impact": 4
     },
     {
-      "title": "Your DNA may predict your future success more than your upbringing",
-      "summary": "A new twin study suggests your genes may play a bigger role in your future success than your upbringing. Researchers found that IQ, which is largely genetically influenced, strongly predicts education, career, and income. Even twins raised in the same household diverged based on genetic differences.",
-      "category": "AI & Tech",
+      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
+      "summary": "Scientists have uncovered a surprising way to influence the bacteria living in our mouths — not by killing them, but by interrupting how they “talk” to each other. Researchers found that dental plaque bacteria use chemical signals to coordinate growth, and by blocking those signals, they were able t",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260505234624.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
+      "impact": 4
+    },
+    {
+      "title": "What scientists found inside coral reefs could change the future of medicine",
+      "summary": "Beneath the beauty of coral reefs lies a hidden universe of microbes unlike anything scientists expected. Each coral species supports its own specialized microbial partners, many of which have never been studied before. These microbes produce a stunning variety of chemical compounds with potential u",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260506225229.htm",
+      "impact": 4
+    },
+    {
+      "title": "A common constipation drug shows surprising power to protect kidneys",
+      "summary": "A common constipation drug may have unexpectedly unlocked a new way to slow chronic kidney disease — a condition that affects millions and often leads to dialysis. In a clinical trial involving 150 patients, researchers found that lubiprostone, a medication normally used to treat constipation, helpe",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
       "impact": 4
     }
   ]
