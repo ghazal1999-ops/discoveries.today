@@ -1,15 +1,7 @@
 {
-  "date": "2026-05-09",
-  "last_updated": "2026-05-09 23:38 UTC",
+  "date": "2026-05-10",
+  "last_updated": "2026-05-10 23:42 UTC",
   "items": [
-    {
-      "title": "Scientists found the “holy grail” gene that could one day help humans regrow limbs",
-      "summary": "Scientists studying axolotls, zebrafish, and mice have uncovered a shared set of genes that may one day help humans regrow lost limbs. By identifying powerful “SP genes” involved in regeneration, researchers discovered that disabling these genes stopped proper bone regrowth in salamanders and mice. ",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260508003121.htm",
-      "impact": 5
-    },
     {
       "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
       "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
@@ -17,14 +9,6 @@
       "source": "bbc.com",
       "source_url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
       "impact": 5
-    },
-    {
-      "title": "Scientists make stunning discovery that could change our understanding of the Universe",
-      "summary": "Scientists may have uncovered a surprising secret behind why life exists at all. A new study suggests that the Universe’s fundamental constants — the deep physical rules that govern everything from atoms to stars — appear to sit within an incredibly narrow “sweet spot” that allows liquids to flow pr",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260508022653.htm",
-      "impact": 4
     },
     {
       "title": "Scientists discover a new way to prevent gum disease without killing good bacteria",
@@ -35,11 +19,27 @@
       "impact": 4
     },
     {
-      "title": "Deep diving fur seals experience delayed heart surges after returning to land",
-      "summary": "Fur seals may look like they’re simply resting after exhausting hunting trips at sea, but their bodies are secretly working overtime. Scientists discovered that hours after returning to land, the seals’ heart rates suddenly surge — sometimes doubling — as they recover from the intense physical stres",
-      "category": "Science",
+      "title": "Brain scans reveal a shocking difference between psychopaths and other people",
+      "summary": "Scientists have uncovered a striking brain difference linked to psychopathy: people with psychopathic traits were found to have a striatum — a brain region tied to reward, motivation, and decision-making — that was about 10% larger on average than those without such traits. Using MRI scans and psych",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260508003119.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
+      "impact": 4
+    },
+    {
+      "title": "Antarctica is melting from below and scientists say it’s worse than expected",
+      "summary": "Scientists have uncovered a hidden Antarctic threat that could accelerate global sea level rise far faster than expected. Deep beneath floating ice shelves, long channels carved into the ice appear to trap warmer ocean water, dramatically speeding up melting from below. Even regions of East Antarcti",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260509210637.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
+      "summary": "Rebooting the gut microbiome with bacteria from youth may help stop aging-related liver damage and even prevent liver cancer, according to new research in mice. Older mice that received their own preserved youthful microbiome showed less inflammation, reduced DNA damage, and no signs of liver cancer",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
       "impact": 4
     }
   ]
