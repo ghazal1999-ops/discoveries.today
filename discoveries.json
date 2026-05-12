@@ -1,7 +1,23 @@
 {
-  "date": "2026-05-11",
-  "last_updated": "2026-05-11 23:49 UTC",
+  "date": "2026-05-12",
+  "last_updated": "2026-05-12 23:51 UTC",
   "items": [
+    {
+      "title": "This strange giant dinosaur may change what we know about Jurassic titans",
+      "summary": "A bizarre new giant dinosaur discovered in Argentina is giving paleontologists a fresh look at how Jurassic titans evolved in the Southern Hemisphere. Bicharracosaurus dionidei stretched about 20 meters long and carried a strange mix of features seen in both Diplodocus and Brachiosaurus relatives. S",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260511213154.htm",
+      "impact": 5
+    },
+    {
+      "title": "Stunning fossil discovery challenges the origins of animal life",
+      "summary": "Scientists revisiting mysterious 540-million-year-old microfossils from Brazil have overturned a major idea about early animal life. What were once thought to be trails left behind by tiny worm-like creatures are now believed to be fossilized communities of bacteria and algae — some with remarkably ",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260511213139.htm",
+      "impact": 5
+    },
     {
       "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
       "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
@@ -11,35 +27,19 @@
       "impact": 5
     },
     {
-      "title": "Scientists say Dante’s Inferno described an asteroid impact 500 years before modern science",
-      "summary": "Dante’s Inferno may have been far more than a religious epic. New research argues that the 14th-century poet essentially imagined a catastrophic asteroid impact centuries before modern science understood meteors. In this interpretation, Satan crashes into Earth like a giant cosmic object, blasting t",
+      "title": "A supervolcano nearly wiped out humanity 74,000 years ago, but humans did something incredible",
+      "summary": "The Toba supereruption 74,000 years ago was so massive it may have plunged Earth into years of darkness and cold, leading some scientists to believe humanity nearly went extinct. Yet archaeological evidence from Africa and Asia suggests early humans were far more resilient than once thought. Instead",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260510234711.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA’s Hubble reveals a giant chaotic planet nursery unlike anything seen before",
+      "summary": "Hubble has revealed a giant planet-forming disk unlike anything astronomers have seen before. Nicknamed “Dracula’s Chivito,” the enormous structure appears turbulent and oddly lopsided, with towering filaments visible on only one side. The disk contains enough material to potentially create multiple",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260510234658.htm",
-      "impact": 4
-    },
-    {
-      "title": "Brain scans reveal a shocking difference between psychopaths and other people",
-      "summary": "Scientists have uncovered a striking brain difference linked to psychopathy: people with psychopathic traits were found to have a striatum — a brain region tied to reward, motivation, and decision-making — that was about 10% larger on average than those without such traits. Using MRI scans and psych",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
-      "impact": 4
-    },
-    {
-      "title": "Researchers say AI chatbots may blur the line between reality and delusion",
-      "summary": "A new study suggests AI chatbots may do more than spread misinformation — they can actively strengthen a user’s false beliefs. Because conversational AI often validates and builds on what users say, it can make distorted memories, conspiracy theories, or delusions feel more believable and emotionall",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260509210652.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
-      "summary": "Rebooting the gut microbiome with bacteria from youth may help stop aging-related liver damage and even prevent liver cancer, according to new research in mice. Older mice that received their own preserved youthful microbiome showed less inflammation, reduced DNA damage, and no signs of liver cancer",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260511213151.htm",
       "impact": 4
     }
   ]
