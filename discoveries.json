@@ -1,30 +1,22 @@
 {
-  "date": "2026-05-14",
-  "last_updated": "2026-05-14 23:46 UTC",
+  "date": "2026-05-15",
+  "last_updated": "2026-05-15 23:45 UTC",
   "items": [
     {
-      "title": "Quantum breakthrough could revolutionize teleportation and computing",
-      "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major milestone for quantum technology. The breakthrough could help unlock faster quantum communication, teleportation, and powerful new computing systems.",
-      "category": "Physics",
+      "title": "Scientists discover giant “last titan” dinosaur, Southeast Asia’s largest ever",
+      "summary": "A massive new dinosaur discovered in Thailand is rewriting Southeast Asia’s prehistoric history. The newly named Nagatitan chaiyaphumensis was a colossal long-necked sauropod that weighed around 27 tonnes and lived more than 100 million years ago. Scientists believe it may be the last giant sauropod",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515002121.htm",
       "impact": 5
     },
     {
-      "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
-      "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
-      "category": "Climate",
-      "source": "bbc.com",
-      "source_url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
-      "impact": 5
-    },
-    {
-      "title": "Earth is flying through ancient supernova debris and scientists found the evidence in Antarctic ice",
-      "summary": "Earth is quietly collecting radioactive debris from an ancient stellar explosion as our Solar System drifts through a giant cloud of gas and dust between the stars. Scientists analyzing Antarctic ice up to 80,000 years old discovered traces of iron-60 — a rare isotope forged in supernova explosions ",
-      "category": "Space",
+      "title": "A grad student’s wild idea sparks a major aging breakthrough",
+      "summary": "A casual conversation between graduate students helped spark a breakthrough in aging research at Mayo Clinic. Researchers discovered that tiny synthetic DNA molecules called aptamers can selectively attach to senescent “zombie cells,” which are linked to aging, cancer, and neurodegenerative disease.",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221751.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
+      "impact": 5
     },
     {
       "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Giant “stealth” magma surge triggered thousands of earthquakes beneath Atlantic island",
-      "summary": "Deep beneath Portugal’s São Jorge Island, a massive surge of magma silently pushed upward from more than 20 kilometers underground in 2022, triggering thousands of earthquakes and briefly raising fears of a volcanic eruption. Scientists discovered that the molten rock climbed astonishingly fast — en",
-      "category": "AI & Tech",
+      "title": "NASA’s Roman Space Telescope could reveal millions of invisible neutron stars",
+      "summary": "NASA’s Roman Space Telescope could expose a vast hidden population of neutron stars lurking unseen across the Milky Way. By detecting subtle shifts in starlight caused by gravity, the mission may identify and even weigh isolated neutron stars that are otherwise impossible to see. Scientists hope the",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221803.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515002130.htm",
+      "impact": 4
+    },
+    {
+      "title": "Deadly “red sky” solar storm from 800 years ago discovered in ancient trees",
+      "summary": "Researchers in Japan traced a hidden medieval solar storm using ancient tree rings and centuries-old sky observations. The team linked reports of eerie red auroras with spikes of carbon-14 trapped in buried wood, revealing a powerful solar radiation event around 1200 CE. The findings suggest the Sun",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221818.htm",
       "impact": 4
     }
   ]
