@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-15",
-  "last_updated": "2026-05-15 23:45 UTC",
+  "date": "2026-05-16",
+  "last_updated": "2026-05-16 23:42 UTC",
   "items": [
     {
       "title": "Scientists discover giant “last titan” dinosaur, Southeast Asia’s largest ever",
@@ -8,6 +8,22 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260515002121.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
+      "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the dis",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists discover hidden “brakes” that stop massive earthquakes",
+      "summary": "A mysterious underwater fault near Ecuador has been producing nearly identical magnitude 6 earthquakes every five to six years, baffling scientists for decades. Researchers now believe the fault contains hidden “brake zones” where seawater and unusual rock structures work together to stop quakes fro",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515233325.htm",
       "impact": 5
     },
     {
@@ -24,22 +40,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260514084421.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA’s Roman Space Telescope could reveal millions of invisible neutron stars",
-      "summary": "NASA’s Roman Space Telescope could expose a vast hidden population of neutron stars lurking unseen across the Milky Way. By detecting subtle shifts in starlight caused by gravity, the mission may identify and even weigh isolated neutron stars that are otherwise impossible to see. Scientists hope the",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515002130.htm",
-      "impact": 4
-    },
-    {
-      "title": "Deadly “red sky” solar storm from 800 years ago discovered in ancient trees",
-      "summary": "Researchers in Japan traced a hidden medieval solar storm using ancient tree rings and centuries-old sky observations. The team linked reports of eerie red auroras with spikes of carbon-14 trapped in buried wood, revealing a powerful solar radiation event around 1200 CE. The findings suggest the Sun",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221818.htm",
       "impact": 4
     }
   ]
