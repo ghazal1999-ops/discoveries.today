@@ -1,13 +1,13 @@
 {
-  "date": "2026-05-16",
-  "last_updated": "2026-05-16 23:42 UTC",
+  "date": "2026-05-17",
+  "last_updated": "2026-05-17 23:51 UTC",
   "items": [
     {
-      "title": "Scientists discover giant “last titan” dinosaur, Southeast Asia’s largest ever",
-      "summary": "A massive new dinosaur discovered in Thailand is rewriting Southeast Asia’s prehistoric history. The newly named Nagatitan chaiyaphumensis was a colossal long-necked sauropod that weighed around 27 tonnes and lived more than 100 million years ago. Scientists believe it may be the last giant sauropod",
-      "category": "AI & Tech",
+      "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
+      "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s enviro",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515002121.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
       "impact": 5
     },
     {
@@ -27,19 +27,19 @@
       "impact": 5
     },
     {
-      "title": "A grad student’s wild idea sparks a major aging breakthrough",
-      "summary": "A casual conversation between graduate students helped spark a breakthrough in aging research at Mayo Clinic. Researchers discovered that tiny synthetic DNA molecules called aptamers can selectively attach to senescent “zombie cells,” which are linked to aging, cancer, and neurodegenerative disease.",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
-      "impact": 5
-    },
-    {
-      "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
-      "summary": "Scientists have uncovered compelling evidence that dinosaur fossils may still contain traces of their original proteins, overturning a long-standing belief that fossilization destroys all organic material. In a remarkably well-preserved Edmontosaurus fossil from South Dakota, researchers detected re",
+      "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
+      "summary": "Astronomers have revealed the sharpest image ever captured of a filament in the cosmic web — the enormous hidden structure connecting galaxies across the Universe. The glowing strand stretches 3 million light-years and links two galaxies from nearly 12 billion years ago. By observing this faint inte",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260514084421.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
+      "impact": 4
+    },
+    {
+      "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
+      "summary": "A spectacular dinosaur discovery in Spain is giving scientists a rare new look inside the world of stegosaurs. Paleontologists uncovered the best-preserved stegosaur skull ever found in Europe, belonging to the iconic plated dinosaur Dacentrurus armatus, which roamed Earth around 150 million years a",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
       "impact": 4
     }
   ]
