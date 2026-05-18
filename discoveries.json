@@ -1,13 +1,29 @@
 {
-  "date": "2026-05-17",
-  "last_updated": "2026-05-17 23:51 UTC",
+  "date": "2026-05-18",
+  "last_updated": "2026-05-18 23:57 UTC",
   "items": [
+    {
+      "title": "Scientists opened a sealed envelope after 10 years and gravity still didn’t make sense",
+      "summary": "For more than 200 years, scientists have struggled to pin down the exact strength of gravity — and one physicist spent a decade chasing the answer while keeping his own results hidden from himself. Stephan Schlamminger and his team at NIST painstakingly recreated a landmark French experiment designe",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260517211443.htm",
+      "impact": 5
+    },
     {
       "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
       "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s enviro",
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists think they’ve cracked the mystery of human right-handedness",
+      "summary": "A new study suggests humans became overwhelmingly right-handed because of two major evolutionary shifts: walking on two legs and developing much larger brains. Researchers found that as human ancestors evolved, their right-hand preference steadily intensified — transforming a mild tendency into one ",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260517211429.htm",
       "impact": 5
     },
     {
@@ -19,27 +35,11 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover hidden “brakes” that stop massive earthquakes",
-      "summary": "A mysterious underwater fault near Ecuador has been producing nearly identical magnitude 6 earthquakes every five to six years, baffling scientists for decades. Researchers now believe the fault contains hidden “brake zones” where seawater and unusual rock structures work together to stop quakes fro",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515233325.htm",
-      "impact": 5
-    },
-    {
       "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
       "summary": "Astronomers have revealed the sharpest image ever captured of a filament in the cosmic web — the enormous hidden structure connecting galaxies across the Universe. The glowing strand stretches 3 million light-years and links two galaxies from nearly 12 billion years ago. By observing this faint inte",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
-      "impact": 4
-    },
-    {
-      "title": "Stunning 150-million-year-old stegosaur skull rewrites dinosaur evolution",
-      "summary": "A spectacular dinosaur discovery in Spain is giving scientists a rare new look inside the world of stegosaurs. Paleontologists uncovered the best-preserved stegosaur skull ever found in Europe, belonging to the iconic plated dinosaur Dacentrurus armatus, which roamed Earth around 150 million years a",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515233340.htm",
       "impact": 4
     }
   ]
