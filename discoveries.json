@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-18",
-  "last_updated": "2026-05-18 23:57 UTC",
+  "date": "2026-05-19",
+  "last_updated": "2026-05-19 23:55 UTC",
   "items": [
     {
       "title": "Scientists opened a sealed envelope after 10 years and gravity still didn’t make sense",
@@ -8,14 +8,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260517211443.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
-      "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain barrier, which normally protects and regulates the brain’s enviro",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
       "impact": 5
     },
     {
@@ -27,19 +19,27 @@
       "impact": 5
     },
     {
-      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
-      "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the dis",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
-      "impact": 5
-    },
-    {
-      "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways",
-      "summary": "Astronomers have revealed the sharpest image ever captured of a filament in the cosmic web — the enormous hidden structure connecting galaxies across the Universe. The glowing strand stretches 3 million light-years and links two galaxies from nearly 12 billion years ago. By observing this faint inte",
+      "title": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
+      "summary": "Scientists have uncovered remarkable new details about Bronze Age life in Central Europe by studying rare burials untouched by cremation. The research reveals communities experimenting with new foods, burial rituals, and cultural connections while largely staying rooted in their local homelands.",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260516034136.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260518041445.htm",
+      "impact": 4
+    },
+    {
+      "title": "Schrödinger’s clock: Time could tick faster and slower at the same time",
+      "summary": "Time might be even stranger than Einstein imagined. Physicists are now exploring the possibility that a single clock could exist in a quantum superposition, ticking both faster and slower at the same time — almost like Schrödinger’s cat being both alive and dead simultaneously. Using incredibly prec",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260517211440.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
+      "summary": "NASA’s Nancy Grace Roman Space Telescope is now aiming for an earlier launch in September 2026. Designed to explore dark matter, dark energy, and distant exoplanets, the telescope will capture massive, ultra-detailed surveys of the cosmos using infrared vision. Scientists expect Roman to uncover hun",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260518041345.htm",
       "impact": 4
     }
   ]
