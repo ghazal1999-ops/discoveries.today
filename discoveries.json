@@ -1,45 +1,45 @@
 {
-  "date": "2026-05-19",
-  "last_updated": "2026-05-19 23:55 UTC",
+  "date": "2026-05-21",
+  "last_updated": "2026-05-21 00:01 UTC",
   "items": [
     {
-      "title": "Scientists opened a sealed envelope after 10 years and gravity still didn’t make sense",
-      "summary": "For more than 200 years, scientists have struggled to pin down the exact strength of gravity — and one physicist spent a decade chasing the answer while keeping his own results hidden from himself. Stephan Schlamminger and his team at NIST painstakingly recreated a landmark French experiment designe",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260517211443.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists think they’ve cracked the mystery of human right-handedness",
-      "summary": "A new study suggests humans became overwhelmingly right-handed because of two major evolutionary shifts: walking on two legs and developing much larger brains. Researchers found that as human ancestors evolved, their right-hand preference steadily intensified — transforming a mild tendency into one ",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260517211429.htm",
-      "impact": 5
-    },
-    {
-      "title": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
-      "summary": "Scientists have uncovered remarkable new details about Bronze Age life in Central Europe by studying rare burials untouched by cremation. The research reveals communities experimenting with new foods, burial rituals, and cultural connections while largely staying rooted in their local homelands.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260518041445.htm",
-      "impact": 4
-    },
-    {
-      "title": "Schrödinger’s clock: Time could tick faster and slower at the same time",
-      "summary": "Time might be even stranger than Einstein imagined. Physicists are now exploring the possibility that a single clock could exist in a quantum superposition, ticking both faster and slower at the same time — almost like Schrödinger’s cat being both alive and dead simultaneously. Using incredibly prec",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260517211440.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope is now aiming for an earlier launch in September 2026. Designed to explore dark matter, dark energy, and distant exoplanets, the telescope will capture massive, ultra-detailed surveys of the cosmos using infrared vision. Scientists expect Roman to uncover hun",
+      "title": "Scientists found a giant magnetic “twist” hidden inside the Milky Way",
+      "summary": "Astronomers have uncovered a strange magnetic “flip” hidden inside the Milky Way. Using a new radio telescope, researchers mapped the galaxy’s magnetic field in unprecedented detail and discovered that a mysterious reversal in the Sagittarius Arm cuts diagonally across space. The finding could resha",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260518041345.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224322.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
+      "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lea",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
+      "impact": 5
+    },
+    {
+      "title": "Britain’s 11,000-year-old “oldest northerner” was a 3-year-old girl, DNA reveals",
+      "summary": "Scientists have identified the oldest known human remains in Northern Britain as a young girl who lived around 11,000 years ago. Found in a Cumbrian cave and nicknamed the “Ossick Lass,” she was likely between 2.5 and 3.5 years old when she died. Nearby jewelry and evidence of multiple burials sugge",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224326.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists use light to create tiny molecules that could transform medicine",
+      "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the intense internal strain they contain. By using photocatalysis",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
+      "impact": 4
+    },
+    {
+      "title": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
+      "summary": "Scientists have uncovered an astonishing new chapter in humpback whale migration: two whales were found to have traveled between breeding grounds in Australia and Brazil, crossing more than 14,000 kilometers of open ocean. One whale shattered records by covering at least 15,100 kilometers between si",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224303.htm",
       "impact": 4
     }
   ]
