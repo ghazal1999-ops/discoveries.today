@@ -1,45 +1,45 @@
 {
   "date": "2026-05-21",
-  "last_updated": "2026-05-21 00:01 UTC",
+  "last_updated": "2026-05-21 23:52 UTC",
   "items": [
     {
-      "title": "Scientists found a giant magnetic “twist” hidden inside the Milky Way",
-      "summary": "Astronomers have uncovered a strange magnetic “flip” hidden inside the Milky Way. Using a new radio telescope, researchers mapped the galaxy’s magnetic field in unprecedented detail and discovered that a mysterious reversal in the Sagittarius Arm cuts diagonally across space. The finding could resha",
-      "category": "Space",
+      "title": "Scientists discover strange “narwhal” waves that trap light beyond known limits",
+      "summary": "Physicists at Peking University have uncovered a new way to confine light far beyond conventional limits — without relying on metals and their inherent energy dissipation. By formulating the singular dispersion equation, the team discovered narwhal-shaped wavefunctions that trap light at deep-subwav",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224322.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260520093803.htm",
       "impact": 5
     },
     {
-      "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-      "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lea",
+      "title": "Scientists discover the nutrient that can supercharge cellular energy",
+      "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
       "impact": 5
     },
     {
-      "title": "Britain’s 11,000-year-old “oldest northerner” was a 3-year-old girl, DNA reveals",
-      "summary": "Scientists have identified the oldest known human remains in Northern Britain as a young girl who lived around 11,000 years ago. Found in a Cumbrian cave and nicknamed the “Ossick Lass,” she was likely between 2.5 and 3.5 years old when she died. Nearby jewelry and evidence of multiple burials sugge",
+      "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
+      "summary": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. “President Trump’s leadership in establishing the Artemis pro",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/",
+      "impact": 5
+    },
+    {
+      "title": "UNESCO warns a tsunami in the Mediterranean is inevitable",
+      "summary": "The French Riviera may look like an unlikely place for a tsunami disaster, but scientists warn the threat is far more real than most people realize. Historical events and new modeling show that destructive waves have already struck the Mediterranean coast — and could hit again with very little warni",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224326.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260520093719.htm",
+      "impact": 5
     },
     {
-      "title": "Scientists use light to create tiny molecules that could transform medicine",
-      "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the intense internal strain they contain. By using photocatalysis",
+      "title": "Scientists discover a strange “inside-out” planetary system that shouldn’t exist",
+      "summary": "Scientists have discovered a bizarre planetary system where a rocky world orbits farther out than giant gas planets, defying long-standing theories of planet formation. The finding hints that some planets may form much later than expected — and that our Solar System might not be as typical as we tho",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
-      "impact": 4
-    },
-    {
-      "title": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
-      "summary": "Scientists have uncovered an astonishing new chapter in humpback whale migration: two whales were found to have traveled between breeding grounds in Australia and Brazil, crossing more than 14,000 kilometers of open ocean. One whale shattered records by covering at least 15,100 kilometers between si",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260519224303.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260520093753.htm",
       "impact": 4
     }
   ]
