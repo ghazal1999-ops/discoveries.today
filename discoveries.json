@@ -1,15 +1,7 @@
 {
-  "date": "2026-05-21",
-  "last_updated": "2026-05-21 23:52 UTC",
+  "date": "2026-05-22",
+  "last_updated": "2026-05-22 23:57 UTC",
   "items": [
-    {
-      "title": "Scientists discover strange “narwhal” waves that trap light beyond known limits",
-      "summary": "Physicists at Peking University have uncovered a new way to confine light far beyond conventional limits — without relying on metals and their inherent energy dissipation. By formulating the singular dispersion equation, the team discovered narwhal-shaped wavefunctions that trap light at deep-subwav",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260520093803.htm",
-      "impact": 5
-    },
     {
       "title": "Scientists discover the nutrient that can supercharge cellular energy",
       "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic",
@@ -19,27 +11,35 @@
       "impact": 5
     },
     {
-      "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
-      "summary": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. “President Trump’s leadership in establishing the Artemis pro",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/",
-      "impact": 5
+      "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
+      "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the ",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+      "impact": 4
     },
     {
-      "title": "UNESCO warns a tsunami in the Mediterranean is inevitable",
-      "summary": "The French Riviera may look like an unlikely place for a tsunami disaster, but scientists warn the threat is far more real than most people realize. Historical events and new modeling show that destructive waves have already struck the Mediterranean coast — and could hit again with very little warni",
-      "category": "AI & Tech",
+      "title": "Ancient asteroid craters may have sparked Earth’s oxygen-producing life",
+      "summary": "A hidden crater in South Korea may hold clues to one of the biggest turning points in Earth’s history: the rise of oxygen. Scientists discovered fossil-like stromatolites — layered structures built by ancient microbes — inside the Hapcheon impact crater, suggesting that asteroid strikes may have cre",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260520093719.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260521072357.htm",
+      "impact": 4
     },
     {
-      "title": "Scientists discover a strange “inside-out” planetary system that shouldn’t exist",
-      "summary": "Scientists have discovered a bizarre planetary system where a rocky world orbits farther out than giant gas planets, defying long-standing theories of planet formation. The finding hints that some planets may form much later than expected — and that our Solar System might not be as typical as we tho",
-      "category": "Space",
+      "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
+      "summary": "Scientists are uncovering a surprising truth about aging cells: some may damage the body, while others help protect it. The discovery is fueling a new wave of precision anti-aging therapies aimed at removing only the harmful “zombie” cells without disrupting the body’s natural repair systems.",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260520093753.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260521072402.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
+      "summary": "Scientists have identified potentially cancer-causing chemicals hiding in many everyday foods, especially those exposed to high heat cooking methods like grilling, roasting, smoking, and frying. The compounds, known as PAHs, can form during cooking or enter foods through contamination, raising conce",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
       "impact": 4
     }
   ]
