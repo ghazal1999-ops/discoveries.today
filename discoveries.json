@@ -1,7 +1,23 @@
 {
-  "date": "2026-05-24",
-  "last_updated": "2026-05-24 23:51 UTC",
+  "date": "2026-05-25",
+  "last_updated": "2026-05-25 23:57 UTC",
   "items": [
+    {
+      "title": "This prehistoric fish may explain how animals first walked on Earth",
+      "summary": "Scientists have peered inside the skull of a 380-million-year-old Antarctic fish that was closely related to the first animals to walk on land, revealing surprising clues about how life began its move out of the water. Using advanced neutron imaging, researchers discovered that Koharalepis jarviki h",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260525000459.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists discover why some DNA-doubled cells refuse to die",
+      "summary": "Scientists have uncovered a surprising twist in how cells behave when division goes wrong. Sometimes a cell successfully copies its DNA but fails to split into two, leaving it with double the genetic material — a mistake linked to aging, cancer, and other major diseases. Researchers discovered that ",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260523103908.htm",
+      "impact": 5
+    },
     {
       "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
       "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the ",
@@ -19,27 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Scientists discover the perfect temperature to keep mangoes fresh much longer",
-      "summary": "Scientists found that storing mangoes at 54°F dramatically slows ripening and keeps the fruit fresh far longer than typical tropical temperatures. The cooler conditions helped mangoes stay firm, retain moisture, and preserve important antioxidants while reducing cellular damage. Researchers also unc",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260522023136.htm",
-      "impact": 4
-    },
-    {
       "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
       "summary": "Scientists have directly watched angular momentum move through a crystal for the very first time — and discovered a bizarre twist along the way. Using ultra-powerful terahertz laser pulses, researchers triggered tiny atomic rotations inside a quantum material and found that the direction of rotation",
       "category": "Physics",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260523103903.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
-      "summary": "Scientists have identified potentially cancer-causing chemicals hiding in many everyday foods, especially those exposed to high heat cooking methods like grilling, roasting, smoking, and frying. The compounds, known as PAHs, can form during cooking or enter foods through contamination, raising conce",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
       "impact": 4
     }
   ]
