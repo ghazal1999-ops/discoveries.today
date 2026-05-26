@@ -1,7 +1,15 @@
 {
-  "date": "2026-05-25",
-  "last_updated": "2026-05-25 23:57 UTC",
+  "date": "2026-05-26",
+  "last_updated": "2026-05-26 23:57 UTC",
   "items": [
+    {
+      "title": "Venomous Himalayan pit viper was actually 5 different species all along",
+      "summary": "Hidden deep in the towering mountains of the Himalayas, one of Asia’s most mysterious venomous snakes has been keeping a major secret for over 160 years. Scientists have now discovered that the so-called Himalayan pit viper is not just one species, but actually five separate species — including thre",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260526021953.htm",
+      "impact": 5
+    },
     {
       "title": "This prehistoric fish may explain how animals first walked on Earth",
       "summary": "Scientists have peered inside the skull of a 380-million-year-old Antarctic fish that was closely related to the first animals to walk on land, revealing surprising clues about how life began its move out of the water. Using advanced neutron imaging, researchers discovered that Koharalepis jarviki h",
@@ -11,35 +19,27 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover why some DNA-doubled cells refuse to die",
-      "summary": "Scientists have uncovered a surprising twist in how cells behave when division goes wrong. Sometimes a cell successfully copies its DNA but fails to split into two, leaving it with double the genetic material — a mistake linked to aging, cancer, and other major diseases. Researchers discovered that ",
-      "category": "Medicine",
+      "title": "Large Hadron Collider detects strange particle behavior that could rewrite physics",
+      "summary": "Scientists working at CERN’s Large Hadron Collider may be seeing the strongest hints yet of physics beyond the Standard Model — the decades-old theory that explains the fundamental particles and forces of the universe. By studying incredibly rare particle transformations called “penguin decays,” res",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260523103908.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
-      "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower thinking, delayed visual processing, and more damage to the ",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260526022012.htm",
       "impact": 4
     },
     {
-      "title": "Scientists may have found the source of the most powerful neutrino ever detected",
-      "summary": "A mysterious particle from deep space has scientists buzzing after the most energetic neutrino ever detected slammed through the Mediterranean Sea. Now, researchers think they may have identified the cosmic “culprits” behind it: blazars — supermassive black holes blasting jets of matter straight tow",
-      "category": "Space",
+      "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
+      "summary": "Scientists have created a global “treasure map” for rare earth elements by uncovering where the strange volcanic rocks that contain them are most likely to form. By combining thousands of rock samples with seismic images of Earth’s deep interior, the team discovered that these metal-rich rocks tend ",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260523103912.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260525000450.htm",
       "impact": 4
     },
     {
-      "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
-      "summary": "Scientists have directly watched angular momentum move through a crystal for the very first time — and discovered a bizarre twist along the way. Using ultra-powerful terahertz laser pulses, researchers triggered tiny atomic rotations inside a quantum material and found that the direction of rotation",
-      "category": "Physics",
+      "title": "Queenless wasp colonies explode into chaos but hidden helpers save them",
+      "summary": "When a queen wasp suddenly disappears, her colony doesn’t calmly choose a successor — it erupts into chaos. Researchers found that female wasps immediately begin battling for power, shattering the colony’s social order in a frenzy of aggression. But while some fight for the throne, others quietly be",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260523103903.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260526021958.htm",
       "impact": 4
     }
   ]
