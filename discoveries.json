@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "last_updated": "2026-05-30 00:02 UTC",
+  "last_updated": "2026-05-30 23:53 UTC",
   "items": [
     {
       "title": "A silent kidney crisis is spreading far faster than experts expected",
@@ -8,6 +8,14 @@
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260529030324.htm",
+      "impact": 5
+    },
+    {
+      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
+      "summary": "New DNA evidence shows that Europe’s hunter-gatherers and early farmers interacted far more closely than previously thought, with women likely playing a crucial role in spreading farming across northwestern Europe. Centuries later, the arrival of Bell Beaker migrants triggered another sweeping popul",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
       "impact": 5
     },
     {
@@ -24,14 +32,6 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
-      "impact": 5
-    },
-    {
-      "title": "DNA solves 250-year-old mystery of the Seychelles’ lost crocodiles",
-      "summary": "Scientists have solved the mystery of the Seychelles’ vanished crocodiles using DNA from historic museum specimens. The reptiles were not a unique species after all, but an isolated population of saltwater crocodiles that likely drifted thousands of kilometers across the Indian Ocean.",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260528082503.htm",
       "impact": 5
     },
     {
