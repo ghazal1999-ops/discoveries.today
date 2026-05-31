@@ -1,13 +1,13 @@
 {
-  "date": "2026-05-30",
-  "last_updated": "2026-05-30 23:53 UTC",
+  "date": "2026-05-31",
+  "last_updated": "2026-05-31 23:58 UTC",
   "items": [
     {
-      "title": "A silent kidney crisis is spreading far faster than experts expected",
-      "summary": "A sweeping global study found that chronic kidney disease now affects nearly 800 million people and has become one of the world's leading causes of death. Often silent in its early stages, the condition is also a major contributor to heart disease and may be even more common than current estimates s",
-      "category": "Medicine",
+      "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+      "summary": "Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing cloggi",
+      "category": "Climate",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260529030324.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
       "impact": 5
     },
     {
@@ -16,14 +16,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists say evolution may work differently than we thought",
-      "summary": "A major research study is challenging one of evolution’s most influential ideas: that most genetic changes that become permanent are essentially neutral. Researchers at the University of Michigan found that beneficial mutations are actually far more common than scientists have long assumed. The puzz",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260529030329.htm",
       "impact": 5
     },
     {
@@ -40,6 +32,14 @@
       "category": "Science",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
+      "impact": 4
+    },
+    {
+      "title": "The secret to pigeons’ incredible navigation was hiding in their liver",
+      "summary": "Scientists have uncovered a surprising navigation system in pigeons: iron-filled immune cells in the liver that may act like tiny magnetic sensors. Birds deprived of these cells struggled to find their way home under overcast skies, indicating they rely on Earth’s magnetic field for guidance. The di",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043640.htm",
       "impact": 4
     }
   ]
