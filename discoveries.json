@@ -1,21 +1,21 @@
 {
-  "date": "2026-05-31",
-  "last_updated": "2026-05-31 23:58 UTC",
+  "date": "2026-06-02",
+  "last_updated": "2026-06-02 00:07 UTC",
   "items": [
+    {
+      "title": "Scientists discover inherited traits that break Mendel’s Laws of genetics",
+      "summary": "A major mouse study found that some inherited traits are passed down through epigenetic changes that break the classic rules of genetics. Researchers discovered hundreds of cases where these chemical DNA marks behaved unexpectedly, including some that seemed to emerge out of nowhere. They also ident",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053420.htm",
+      "impact": 5
+    },
     {
       "title": "New solar desalination breakthrough makes fresh water without toxic brine",
       "summary": "Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing cloggi",
       "category": "Climate",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
-      "impact": 5
-    },
-    {
-      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
-      "summary": "New DNA evidence shows that Europe’s hunter-gatherers and early farmers interacted far more closely than previously thought, with women likely playing a crucial role in spreading farming across northwestern Europe. Centuries later, the arrival of Bell Beaker migrants triggered another sweeping popul",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
       "impact": 5
     },
     {
@@ -27,19 +27,19 @@
       "impact": 5
     },
     {
-      "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
-      "summary": "Scientists have discovered Labrujasuchus expectatus, a bizarre crocodile relative that looked more like an ostrich-like dinosaur than anything resembling a modern crocodile. It walked on two legs, had tiny arms, and sported a toothless beak—an unexpected combination for a member of the crocodile lin",
-      "category": "Science",
+      "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
+      "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective with a",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
       "impact": 4
     },
     {
-      "title": "The secret to pigeons’ incredible navigation was hiding in their liver",
-      "summary": "Scientists have uncovered a surprising navigation system in pigeons: iron-filled immune cells in the liver that may act like tiny magnetic sensors. Birds deprived of these cells struggled to find their way home under overcast skies, indicating they rely on Earth’s magnetic field for guidance. The di",
-      "category": "Biology",
+      "title": "The ocean's health may depend on a tiny microbe inside fish",
+      "summary": "A surprising new discovery suggests that tiny microbes living inside fish may be helping shape the chemistry of the world’s oceans. Scientists found evidence that bacteria in the guts of marine fish work alongside their hosts to produce calcium carbonate, a mineral that plays an important role in oc",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043640.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
       "impact": 4
     }
   ]
