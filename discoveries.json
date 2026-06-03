@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-02",
-  "last_updated": "2026-06-02 00:07 UTC",
+  "date": "2026-06-03",
+  "last_updated": "2026-06-03 00:23 UTC",
   "items": [
     {
       "title": "Scientists discover inherited traits that break Mendel’s Laws of genetics",
@@ -11,20 +11,12 @@
       "impact": 5
     },
     {
-      "title": "New solar desalination breakthrough makes fresh water without toxic brine",
-      "summary": "Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing cloggi",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
-      "impact": 5
-    },
-    {
-      "title": "Astronomers finally solve Saturn’s decades-long spin mystery",
-      "summary": "A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn’s changing “rotation rate” was never caused by the planet speeding up or slowing down, but by powerful winds high in its atmosphere. Webb’s unprecedented observation",
+      "title": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
+      "summary": "Astronomers have finally cracked the mystery behind a strange class of repeating cosmic signals that has baffled scientists for years. Using Australia’s ASKAP radio telescope, researchers traced the bursts to a rare stellar duo in which a dense white dwarf is relentlessly siphoning material from a n",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260602021631.htm",
+      "impact": 4
     },
     {
       "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "The ocean's health may depend on a tiny microbe inside fish",
-      "summary": "A surprising new discovery suggests that tiny microbes living inside fish may be helping shape the chemistry of the world’s oceans. Scientists found evidence that bacteria in the guts of marine fish work alongside their hosts to produce calcium carbonate, a mineral that plays an important role in oc",
+      "title": "This blood-feeding fly sacrifices its sight after finding a host",
+      "summary": "Deer keds rely on flight and vision to find a host, but everything changes once they land. After shedding their wings forever, these parasites reduce the activity of key vision-related genes by about half. Scientists believe they are effectively trading sharp eyesight for extra energy that can be us",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260602021633.htm",
+      "impact": 4
+    },
+    {
+      "title": "A single protein may be holding back CAR T cancer therapy",
+      "summary": "A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When NFIL3 was disabled, the cells remained stronger for longer and co",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053414.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
       "impact": 4
     }
   ]
