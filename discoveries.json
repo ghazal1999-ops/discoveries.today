@@ -1,7 +1,15 @@
 {
   "date": "2026-06-04",
-  "last_updated": "2026-06-04 00:25 UTC",
+  "last_updated": "2026-06-04 23:59 UTC",
   "items": [
+    {
+      "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
+      "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nearly",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+      "impact": 5
+    },
     {
       "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
       "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that deeper excavations co",
@@ -11,35 +19,27 @@
       "impact": 5
     },
     {
+      "title": "NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS",
+      "summary": "NASA's James Webb Space Telescope has uncovered unusual chemistry in interstellar comet 3I/ATLAS, including the first direct detection of methane on a visitor from another star system. The comet also contains exceptionally high levels of carbon dioxide, making it unlike most comets born in our solar",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603023116.htm",
+      "impact": 4
+    },
+    {
+      "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
+      "summary": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers to see not only the ant’s outer features but also structures inside its body. The findings offer ne",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+      "impact": 4
+    },
+    {
       "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
       "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of the intense chaos inside a nuclear fireball to better understand how radioactive fallout forms. Their experiments revealed that the way vaporized materials cool can dramatically change the particles that eventually form, especial",
       "category": "Physics",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discovered something surprising about french fries and diabetes",
-      "summary": "French fries may be the real potato problem. A large study tracking more than 205,000 people for nearly 40 years found that eating three servings of fries per week was linked to a 20% higher risk of developing type 2 diabetes, while baked, boiled, or mashed potatoes showed no significant increase in",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603015218.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
-      "summary": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
-      "impact": 4
-    },
-    {
-      "title": "This new diabetes pill burns fat without the downsides of Ozempic",
-      "summary": "Scientists have developed an experimental diabetes and obesity pill that works in a completely different way from drugs like Ozempic. Rather than reducing hunger, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinic",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
       "impact": 4
     }
   ]
