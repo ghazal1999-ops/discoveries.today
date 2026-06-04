@@ -1,45 +1,45 @@
 {
-  "date": "2026-06-03",
-  "last_updated": "2026-06-03 00:23 UTC",
+  "date": "2026-06-04",
+  "last_updated": "2026-06-04 00:25 UTC",
   "items": [
     {
-      "title": "Scientists discover inherited traits that break Mendel’s Laws of genetics",
-      "summary": "A major mouse study found that some inherited traits are passed down through epigenetic changes that break the classic rules of genetics. Researchers discovered hundreds of cases where these chemical DNA marks behaved unexpectedly, including some that seemed to emerge out of nowhere. They also ident",
+      "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
+      "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that deeper excavations co",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053420.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
       "impact": 5
     },
     {
-      "title": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
-      "summary": "Astronomers have finally cracked the mystery behind a strange class of repeating cosmic signals that has baffled scientists for years. Using Australia’s ASKAP radio telescope, researchers traced the bursts to a rare stellar duo in which a dense white dwarf is relentlessly siphoning material from a n",
-      "category": "Space",
+      "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
+      "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of the intense chaos inside a nuclear fireball to better understand how radioactive fallout forms. Their experiments revealed that the way vaporized materials cool can dramatically change the particles that eventually form, especial",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260602021631.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
       "impact": 4
     },
     {
-      "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
-      "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective with a",
+      "title": "Scientists discovered something surprising about french fries and diabetes",
+      "summary": "French fries may be the real potato problem. A large study tracking more than 205,000 people for nearly 40 years found that eating three servings of fries per week was linked to a 20% higher risk of developing type 2 diabetes, while baked, boiled, or mashed potatoes showed no significant increase in",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603015218.htm",
       "impact": 4
     },
     {
-      "title": "This blood-feeding fly sacrifices its sight after finding a host",
-      "summary": "Deer keds rely on flight and vision to find a host, but everything changes once they land. After shedding their wings forever, these parasites reduce the activity of key vision-related genes by about half. Scientists believe they are effectively trading sharp eyesight for extra energy that can be us",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260602021633.htm",
+      "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
+      "summary": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
       "impact": 4
     },
     {
-      "title": "A single protein may be holding back CAR T cancer therapy",
-      "summary": "A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When NFIL3 was disabled, the cells remained stronger for longer and co",
+      "title": "This new diabetes pill burns fat without the downsides of Ozempic",
+      "summary": "Scientists have developed an experimental diabetes and obesity pill that works in a completely different way from drugs like Ozempic. Rather than reducing hunger, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinic",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
       "impact": 4
     }
   ]
