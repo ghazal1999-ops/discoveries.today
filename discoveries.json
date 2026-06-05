@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-04",
-  "last_updated": "2026-06-04 23:59 UTC",
+  "date": "2026-06-05",
+  "last_updated": "2026-06-05 23:59 UTC",
   "items": [
     {
       "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
@@ -11,20 +11,20 @@
       "impact": 5
     },
     {
-      "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
-      "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that deeper excavations co",
-      "category": "AI & Tech",
+      "title": "The biggest collagen study yet reveals what actually works",
+      "summary": "A major review of nearly 8,000 participants found that collagen supplements can improve skin health and ease osteoarthritis symptoms, especially when taken consistently over longer periods. Researchers also found modest benefits for muscle and tendon health. But the results challenge claims that col",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
       "impact": 5
     },
     {
-      "title": "NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS",
-      "summary": "NASA's James Webb Space Telescope has uncovered unusual chemistry in interstellar comet 3I/ATLAS, including the first direct detection of methane on a visitor from another star system. The comet also contains exceptionally high levels of carbon dioxide, making it unlike most comets born in our solar",
+      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+      "summary": "NASA’s&#160;experimental&#160;X-59&#160;aircraft&#160;marked&#160;a major milestone&#160;Friday,&#160;June&#160;5,&#160;when it&#160;flew faster than the speed of sound for the first time,&#160;setting the stage for&#160;demonstrating&#160;its quiet supersonic capabilities&#160;later this year.&#160",
       "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603023116.htm",
-      "impact": 4
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+      "impact": 5
     },
     {
       "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
-      "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of the intense chaos inside a nuclear fireball to better understand how radioactive fallout forms. Their experiments revealed that the way vaporized materials cool can dramatically change the particles that eventually form, especial",
-      "category": "Physics",
+      "title": "Hidden supermassive black hole pairs may finally have a visible signal",
+      "summary": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The timing and brightness of these bursts could provide a unique fingerprint of black holes slowly spira",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
       "impact": 4
     }
   ]
