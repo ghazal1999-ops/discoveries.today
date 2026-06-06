@@ -1,15 +1,7 @@
 {
-  "date": "2026-06-05",
-  "last_updated": "2026-06-05 23:59 UTC",
+  "date": "2026-06-06",
+  "last_updated": "2026-06-06 23:56 UTC",
   "items": [
-    {
-      "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
-      "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nearly",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
-      "impact": 5
-    },
     {
       "title": "The biggest collagen study yet reveals what actually works",
       "summary": "A major review of nearly 8,000 participants found that collagen supplements can improve skin health and ease osteoarthritis symptoms, especially when taken consistently over longer periods. Researchers also found modest benefits for muscle and tendon health. But the results challenge claims that col",
@@ -27,11 +19,19 @@
       "impact": 5
     },
     {
-      "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
-      "summary": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers to see not only the ant’s outer features but also structures inside its body. The findings offer ne",
-      "category": "AI & Tech",
+      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+      "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled state",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+      "impact": 4
+    },
+    {
+      "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
+      "summary": "A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer. Researchers say the findings are promising but not yet proof, and clinical trials are now being planned to test whether these d",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
       "impact": 4
     },
     {
