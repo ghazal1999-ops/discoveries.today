@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-06",
-  "last_updated": "2026-06-06 23:56 UTC",
+  "date": "2026-06-07",
+  "last_updated": "2026-06-07 23:59 UTC",
   "items": [
     {
       "title": "The biggest collagen study yet reveals what actually works",
@@ -8,14 +8,6 @@
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
-      "impact": 5
-    },
-    {
-      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
-      "summary": "NASA’s&#160;experimental&#160;X-59&#160;aircraft&#160;marked&#160;a major milestone&#160;Friday,&#160;June&#160;5,&#160;when it&#160;flew faster than the speed of sound for the first time,&#160;setting the stage for&#160;demonstrating&#160;its quiet supersonic capabilities&#160;later this year.&#160",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
       "impact": 5
     },
     {
@@ -40,6 +32,14 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+      "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. The discovery sharpens our understanding of human vision and could lead to more precise color technologies and v",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
       "impact": 4
     }
   ]
