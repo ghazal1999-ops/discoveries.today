@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-07",
-  "last_updated": "2026-06-07 23:59 UTC",
+  "date": "2026-06-08",
+  "last_updated": "2026-06-08 23:57 UTC",
   "items": [
     {
-      "title": "The biggest collagen study yet reveals what actually works",
-      "summary": "A major review of nearly 8,000 participants found that collagen supplements can improve skin health and ease osteoarthritis symptoms, especially when taken consistently over longer periods. Researchers also found modest benefits for muscle and tendon health. But the results challenge claims that col",
-      "category": "Medicine",
+      "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
+      "summary": "Researchers have solved a decades-old mystery by showing that a cache of 43 helmets found off the Spanish coast is medieval, not Roman. The remarkable discovery exposes a thriving weapons trade network that connected Mediterranean powers during a time of piracy, warfare, and growing demand for milit",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075515.htm",
+      "impact": 4
     },
     {
       "title": "Scientists found a surprisingly simple way to create powerful quantum states",
@@ -19,11 +19,11 @@
       "impact": 4
     },
     {
-      "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
-      "summary": "A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer. Researchers say the findings are promising but not yet proof, and clinical trials are now being planned to test whether these d",
-      "category": "Medicine",
+      "title": "Scientists discover the brain chemical that helps you break bad habits",
+      "summary": "Scientists have uncovered a key brain signal that helps us break old habits and adapt when circumstances suddenly change. By watching mice navigate a virtual maze, researchers found that disappointment—when an expected reward failed to appear—triggered a surge of the neurotransmitter acetylcholine, ",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075901.htm",
       "impact": 4
     },
     {
