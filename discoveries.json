@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-08",
-  "last_updated": "2026-06-08 23:57 UTC",
+  "date": "2026-06-10",
+  "last_updated": "2026-06-10 00:05 UTC",
   "items": [
     {
       "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
@@ -8,6 +8,14 @@
       "category": "Science",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075515.htm",
+      "impact": 4
+    },
+    {
+      "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
+      "summary": "Astronomers have spent years searching for a possible hidden giant planet far beyond Neptune. Unusual orbits among distant Kuiper Belt objects have fueled the Planet Nine theory, but recent discoveries are challenging the idea by showing more stable motion than expected. If Planet Nine exists, it ma",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm",
       "impact": 4
     },
     {
@@ -24,14 +32,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075901.htm",
-      "impact": 4
-    },
-    {
-      "title": "Hidden supermassive black hole pairs may finally have a visible signal",
-      "summary": "Scientists have proposed a new method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes’ gravity. The timing and brightness of these bursts could provide a unique fingerprint of black holes slowly spira",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
       "impact": 4
     },
     {
