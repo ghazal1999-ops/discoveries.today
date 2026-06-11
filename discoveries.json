@@ -1,14 +1,22 @@
 {
-  "date": "2026-06-10",
-  "last_updated": "2026-06-10 00:05 UTC",
+  "date": "2026-06-11",
+  "last_updated": "2026-06-11 00:09 UTC",
   "items": [
     {
-      "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
-      "summary": "Researchers have solved a decades-old mystery by showing that a cache of 43 helmets found off the Spanish coast is medieval, not Roman. The remarkable discovery exposes a thriving weapons trade network that connected Mediterranean powers during a time of piracy, warfare, and growing demand for milit",
-      "category": "Science",
+      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
+      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central control",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075515.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
+      "impact": 5
+    },
+    {
+      "title": "Popular joint supplement glucosamine linked to faster Alzheimer’s progression",
+      "summary": "A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher likelihood of developing dementia among glucosamine users and uncovered biological clues that may expla",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm",
+      "impact": 5
     },
     {
       "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
@@ -19,11 +27,11 @@
       "impact": 4
     },
     {
-      "title": "Scientists found a surprisingly simple way to create powerful quantum states",
-      "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled state",
-      "category": "Biology",
+      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
+      "summary": "Scientists have uncovered new evidence that Stonehenge’s six-ton Altar Stone was deliberately transported hundreds of kilometers from Scotland by ancient people. The feat would have required extraordinary planning, teamwork, and determination, revealing a surprisingly sophisticated level of organiza",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
       "impact": 4
     },
     {
@@ -32,14 +40,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075901.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
-      "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. The discovery sharpens our understanding of human vision and could lead to more precise color technologies and v",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
       "impact": 4
     }
   ]
