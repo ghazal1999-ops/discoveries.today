@@ -1,7 +1,15 @@
 {
-  "date": "2026-06-11",
-  "last_updated": "2026-06-11 00:09 UTC",
+  "date": "2026-06-12",
+  "last_updated": "2026-06-12 00:14 UTC",
   "items": [
+    {
+      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
+      "summary": "NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations with lunar landers being developed by both Blue Origin and SpaceX. The mission will require a remar",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
+      "impact": 5
+    },
     {
       "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
       "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central control",
@@ -19,27 +27,19 @@
       "impact": 5
     },
     {
-      "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
-      "summary": "Astronomers have spent years searching for a possible hidden giant planet far beyond Neptune. Unusual orbits among distant Kuiper Belt objects have fueled the Planet Nine theory, but recent discoveries are challenging the idea by showing more stable motion than expected. If Planet Nine exists, it ma",
-      "category": "Space",
+      "title": "Scientists discover a strange property in rice and turn it into a smart material",
+      "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts differently to gentle movements and sudden impacts. The material can adapt its stiffne",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
       "impact": 4
     },
     {
-      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
-      "summary": "Scientists have uncovered new evidence that Stonehenge’s six-ton Altar Stone was deliberately transported hundreds of kilometers from Scotland by ancient people. The feat would have required extraordinary planning, teamwork, and determination, revealing a surprisingly sophisticated level of organiza",
-      "category": "AI & Tech",
+      "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
+      "summary": "For nearly 700 years, Indigenous hunters repeatedly used a bison kill site in central Montana—then suddenly stopped, even though bison were still abundant. Researchers uncovered evidence that recurring, decades-long droughts likely made the site less practical by reducing access to the water needed ",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover the brain chemical that helps you break bad habits",
-      "summary": "Scientists have uncovered a key brain signal that helps us break old habits and adapt when circumstances suddenly change. By watching mice navigate a virtual maze, researchers found that disappointment—when an expected reward failed to appear—triggered a surge of the neurotransmitter acetylcholine, ",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260606075901.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260610003056.htm",
       "impact": 4
     }
   ]
