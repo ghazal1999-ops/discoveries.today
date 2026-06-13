@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "last_updated": "2026-06-13 00:13 UTC",
+  "last_updated": "2026-06-13 23:59 UTC",
   "items": [
     {
       "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
@@ -11,11 +11,19 @@
       "impact": 5
     },
     {
-      "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
-      "summary": "NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations with lunar landers being developed by both Blue Origin and SpaceX. The mission will require a remar",
+      "title": "Dark energy survives major challenge as universe keeps accelerating",
+      "summary": "A bold claim that the universe’s accelerating expansion was an illusion has been put to the test—and failed. Researchers found that the study behind the controversy made key mistakes when analyzing supernova data. After revisiting the evidence, astronomers concluded that cosmic acceleration remains ",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032030.htm",
+      "impact": 5
+    },
+    {
+      "title": "Alien planet spins revealed a hidden clue to how worlds form",
+      "summary": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brown dwarfs, challenging simple assumptions about mass and rotation. The results suggest that magnetic ",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
       "impact": 5
     },
     {
@@ -24,14 +32,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
-      "impact": 4
-    },
-    {
-      "title": "James Webb reveals two completely different twilights on an alien world",
-      "summary": "JWST has revealed dramatic differences between the dawn and dusk regions of the scorching exoplanet WASP-121 b. Fierce winds appear to carry heat from the planet’s permanent dayside, making the evening side hotter and more expanded. Scientists also found signs that water is being broken apart by ext",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
       "impact": 4
     },
     {
