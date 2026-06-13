@@ -1,29 +1,21 @@
 {
-  "date": "2026-06-12",
-  "last_updated": "2026-06-12 00:14 UTC",
+  "date": "2026-06-13",
+  "last_updated": "2026-06-13 00:13 UTC",
   "items": [
+    {
+      "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
+      "summary": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrinos change as they travel. Using just 59 days of data, researchers sharply improved measurements of k",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
+      "impact": 5
+    },
     {
       "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
       "summary": "NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations with lunar landers being developed by both Blue Origin and SpaceX. The mission will require a remar",
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-      "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central control",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-      "impact": 5
-    },
-    {
-      "title": "Popular joint supplement glucosamine linked to faster Alzheimer’s progression",
-      "summary": "A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher likelihood of developing dementia among glucosamine users and uncovered biological clues that may expla",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm",
       "impact": 5
     },
     {
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
-      "summary": "For nearly 700 years, Indigenous hunters repeatedly used a bison kill site in central Montana—then suddenly stopped, even though bison were still abundant. Researchers uncovered evidence that recurring, decades-long droughts likely made the site less practical by reducing access to the water needed ",
-      "category": "Science",
+      "title": "James Webb reveals two completely different twilights on an alien world",
+      "summary": "JWST has revealed dramatic differences between the dawn and dusk regions of the scorching exoplanet WASP-121 b. Fierce winds appear to carry heat from the planet’s permanent dayside, making the evening side hotter and more expanded. Scientists also found signs that water is being broken apart by ext",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260610003056.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
+      "impact": 4
+    },
+    {
+      "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
+      "summary": "A spectacular fossil fish discovered on a remote cliff in New Zealand nearly 30 years ago has finally revealed its full story thanks to an unexpected discovery: the original collector’s long-lost field notebooks. The 1.2-meter fossil, preserved in stunning three-dimensional detail, belonged to an an",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032038.htm",
       "impact": 4
     }
   ]
