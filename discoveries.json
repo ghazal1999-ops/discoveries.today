@@ -1,21 +1,13 @@
 {
-  "date": "2026-06-13",
-  "last_updated": "2026-06-13 23:59 UTC",
+  "date": "2026-06-15",
+  "last_updated": "2026-06-15 00:02 UTC",
   "items": [
     {
-      "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
-      "summary": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrinos change as they travel. Using just 59 days of data, researchers sharply improved measurements of k",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
-      "impact": 5
-    },
-    {
-      "title": "Dark energy survives major challenge as universe keeps accelerating",
-      "summary": "A bold claim that the universe’s accelerating expansion was an illusion has been put to the test—and failed. Researchers found that the study behind the controversy made key mistakes when analyzing supernova data. After revisiting the evidence, astronomers concluded that cosmic acceleration remains ",
+      "title": "Yellowstone wolves may not have reshaped the national park after all",
+      "summary": "One of the most celebrated claims about Yellowstone’s wolves is facing a major challenge. Scientists say the study behind the famous trophic cascade story relied on flawed methods that overstated the ecological impact of wolf recovery. Their reanalysis found no evidence for a dramatic, park-wide sur",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032030.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm",
       "impact": 5
     },
     {
@@ -27,19 +19,27 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover a strange property in rice and turn it into a smart material",
-      "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts differently to gentle movements and sudden impacts. The material can adapt its stiffne",
-      "category": "AI & Tech",
+      "title": "Your brain can keep improving into your 90s, study finds",
+      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measur",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
       "impact": 4
     },
     {
-      "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
-      "summary": "A spectacular fossil fish discovered on a remote cliff in New Zealand nearly 30 years ago has finally revealed its full story thanks to an unexpected discovery: the original collector’s long-lost field notebooks. The 1.2-meter fossil, preserved in stunning three-dimensional detail, belonged to an an",
+      "title": "Why middle age is becoming a breaking point in the U.S.",
+      "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy na",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
+      "impact": 4
+    },
+    {
+      "title": "Ancient Denisovan DNA still shapes human immunity today",
+      "summary": "Ancient encounters between humans and the mysterious Denisovans are still shaping people today. By analyzing genomes from populations across the Pacific, researchers uncovered evidence that the ancestors of Near Oceanians interbred with at least three different Denisovan groups, leaving behind genet",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260612032038.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034210.htm",
       "impact": 4
     }
   ]
