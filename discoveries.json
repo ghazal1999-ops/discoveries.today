@@ -1,7 +1,23 @@
 {
-  "date": "2026-06-15",
-  "last_updated": "2026-06-15 00:02 UTC",
+  "date": "2026-06-16",
+  "last_updated": "2026-06-16 00:23 UTC",
   "items": [
+    {
+      "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
+      "summary": "Researchers tracked honey bees in the wild using a drone-based system and found that each bee follows its own highly consistent flight path. Some repeated their routes so precisely that they flew only centimeters from where they had flown before. Landmarks like trees helped keep them on track, while",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260614011857.htm",
+      "impact": 5
+    },
+    {
+      "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
+      "summary": "Beneath our feet lies a vast hidden fungal superhighway that helps sustain much of life on Earth—and scientists have now mapped it for the first time. Researchers estimate that these underground networks stretch an astonishing 110 quadrillion kilometers, move about 4 billion tons of carbon dioxide i",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260614011845.htm",
+      "impact": 5
+    },
     {
       "title": "Yellowstone wolves may not have reshaped the national park after all",
       "summary": "One of the most celebrated claims about Yellowstone’s wolves is facing a major challenge. Scientists say the study behind the famous trophic cascade story relied on flawed methods that overstated the ecological impact of wolf recovery. Their reanalysis found no evidence for a dramatic, park-wide sur",
@@ -11,35 +27,19 @@
       "impact": 5
     },
     {
-      "title": "Alien planet spins revealed a hidden clue to how worlds form",
-      "summary": "Using the Keck Observatory, astronomers measured the spins of dozens of giant planets and brown dwarfs orbiting distant stars. They found that giant planets can spin faster than much more massive brown dwarfs, challenging simple assumptions about mass and rotation. The results suggest that magnetic ",
+      "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
+      "summary": "Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA. Biological and materials samples, along with tested hardware, are heading back ",
       "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034225.htm",
-      "impact": 5
-    },
-    {
-      "title": "Your brain can keep improving into your 90s, study finds",
-      "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a day on brain-training activities, and researchers found measur",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
       "impact": 4
     },
     {
-      "title": "Why middle age is becoming a breaking point in the U.S.",
-      "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy na",
-      "category": "Medicine",
+      "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
+      "summary": "A new catalyst design could significantly improve the conversion of CO2 into methanol, an important fuel and chemical feedstock. Researchers separated key reaction steps across different catalyst sites, avoiding a long-standing trade-off between speed and efficiency. The result was about three times",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
-      "impact": 4
-    },
-    {
-      "title": "Ancient Denisovan DNA still shapes human immunity today",
-      "summary": "Ancient encounters between humans and the mysterious Denisovans are still shaping people today. By analyzing genomes from populations across the Pacific, researchers uncovered evidence that the ancestors of Near Oceanians interbred with at least three different Denisovan groups, leaving behind genet",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034210.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260613034234.htm",
       "impact": 4
     }
   ]
