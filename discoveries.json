@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-17",
-  "last_updated": "2026-06-17 00:09 UTC",
+  "date": "2026-06-18",
+  "last_updated": "2026-06-18 00:07 UTC",
   "items": [
     {
       "title": "Honey bees have their own personal flight paths and fly them with stunning precision",
@@ -11,19 +11,19 @@
       "impact": 5
     },
     {
-      "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
-      "summary": "Beneath our feet lies a vast hidden fungal superhighway that helps sustain much of life on Earth—and scientists have now mapped it for the first time. Researchers estimate that these underground networks stretch an astonishing 110 quadrillion kilometers, move about 4 billion tons of carbon dioxide i",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260614011845.htm",
-      "impact": 5
-    },
-    {
       "title": "Scientists found a way to explain bird flocks that “defy” Newton’s third law",
       "summary": "Physicists have solved a long-standing problem involving systems that appear to violate Newton’s third law, such as bird flocks and bacterial swarms. By adding carefully designed “imaginary partners” to their models, they can now simulate these complex systems with unprecedented accuracy.",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260615033843.htm",
+      "impact": 5
+    },
+    {
+      "title": "On the brink of extinction, the vaquita gets a digital lifeline",
+      "summary": "Scientists have digitally preserved the world’s most endangered marine mammal by creating highly detailed 3D models of a vaquita skeleton using advanced imaging technology. The virtual archive provides an unprecedented look at the species and could help inspire conservation efforts before the tiny p",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm",
       "impact": 5
     },
     {
