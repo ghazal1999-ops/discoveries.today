@@ -1,15 +1,7 @@
 {
   "date": "2026-06-20",
-  "last_updated": "2026-06-20 00:01 UTC",
+  "last_updated": "2026-06-20 23:59 UTC",
   "items": [
-    {
-      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
-      "summary": "Plague was already a deadly killer 5,500 years ago, long before cities, farming, or the rat-infested conditions usually linked to historic outbreaks. By analyzing ancient DNA from hunter-gatherer cemeteries in Siberia, researchers discovered early plague strains in nearly 40% of the individuals stud",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260618041450.htm",
-      "impact": 5
-    },
     {
       "title": "Major errors found in Al Gore-founded Climate TRACE database",
       "summary": "A new study from Northern Arizona University is raising red flags about a widely used global emissions database from Climate TRACE, a consortium co-founded by Al Gore. Researchers found that the database may be dramatically undercounting carbon dioxide emissions from cars and trucks in cities—by an ",
@@ -40,6 +32,14 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
+      "summary": "NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth ",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
       "impact": 4
     }
   ]
