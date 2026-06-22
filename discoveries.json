@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-20",
-  "last_updated": "2026-06-20 23:59 UTC",
+  "date": "2026-06-22",
+  "last_updated": "2026-06-22 00:03 UTC",
   "items": [
     {
       "title": "Major errors found in Al Gore-founded Climate TRACE database",
@@ -27,19 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Black hole winds may be robbing giant galaxies of their future stars",
-      "summary": "Astronomers may be closing in on a long-standing cosmic mystery: why some of the universe’s biggest galaxies seem to have far fewer stars than expected. Using NASA- and JAXA-supported XRISM observations of a galaxy called NGC 4151, researchers found strong evidence that supermassive black holes can ",
+      "title": "Scientists discover neurons must break their DNA to build the brain",
+      "summary": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations. Researchers discovered that this physical journey routinely causes some of the most severe forms of DNA damage—double-strand breaks—yet the young brain",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
       "impact": 4
     },
     {
-      "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
-      "summary": "NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth ",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
+      "title": "Researchers found a Wordle strategy that wins 99% of the time",
+      "summary": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain rather than likely answers. The method uses Shannon entropy to identify guesses that reveal the most about the hidden word. Each guess is designed to slash uncertainty and narrow the possibi",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
       "impact": 4
     }
   ]
