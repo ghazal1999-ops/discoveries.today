@@ -1,23 +1,7 @@
 {
   "date": "2026-06-22",
-  "last_updated": "2026-06-22 00:03 UTC",
+  "last_updated": "2026-06-22 23:59 UTC",
   "items": [
-    {
-      "title": "Major errors found in Al Gore-founded Climate TRACE database",
-      "summary": "A new study from Northern Arizona University is raising red flags about a widely used global emissions database from Climate TRACE, a consortium co-founded by Al Gore. Researchers found that the database may be dramatically undercounting carbon dioxide emissions from cars and trucks in cities—by an ",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260618041519.htm",
-      "impact": 5
-    },
-    {
-      "title": "DNA time stamps reveal the strawberry’s surprising origins",
-      "summary": "Researchers have created a new way to reconstruct the evolutionary history of complex plant genomes by analyzing genetic traces left by transposable elements. The technique revealed that modern strawberries were assembled through multiple ancient genome-merging events, shedding new light on how majo",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260618041515.htm",
-      "impact": 5
-    },
     {
       "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
       "summary": "A distant galaxy nicknamed Shadow Blaster may have revealed a surprising source of cosmic neutrinos: extreme star formation instead of a supermassive black hole. The discovery suggests that hidden, dust-filled starburst galaxies could account for a significant fraction of the Universe’s high-energy ",
@@ -27,11 +11,27 @@
       "impact": 4
     },
     {
+      "title": "Future astronauts could walk across rocks from deep inside the Moon",
+      "summary": "A colossal ancient collision may have left some of the Moon’s deepest secrets surprisingly close to future Artemis landing sites. By recreating the impact that formed the giant South Pole-Aitken basin—the Moon’s largest and oldest crater—scientists found that a low-angle strike from a large, iron-co",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm",
+      "impact": 4
+    },
+    {
       "title": "Scientists discover neurons must break their DNA to build the brain",
       "summary": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations. Researchers discovered that this physical journey routinely causes some of the most severe forms of DNA damage—double-strand breaks—yet the young brain",
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
+      "impact": 4
+    },
+    {
+      "title": "Butterfly that barely ages could help unlock longevity secrets",
+      "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual pollen-feeding lifestyle may play a role, but the research su",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
       "impact": 4
     },
     {
