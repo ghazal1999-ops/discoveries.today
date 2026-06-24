@@ -1,23 +1,7 @@
 {
-  "date": "2026-06-23",
-  "last_updated": "2026-06-23 23:49 UTC",
+  "date": "2026-06-24",
+  "last_updated": "2026-06-24 23:59 UTC",
   "items": [
-    {
-      "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
-      "summary": "A newly discovered feathered dinosaur called Jian changmaensis may be the missing predator responsible for mysterious piles of crushed prehistoric bird bones in China. The four-winged glider, a close cousin of Velociraptor, helps reveal how early birds and their dinosaur relatives shared the same an",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260621060311.htm",
-      "impact": 5
-    },
-    {
-      "title": "This is How NASA Flight Tests New Technology",
-      "summary": "Flight tests are a big part of how NASA turns breakthrough ideas into reality. From flying humans faster than the speed of sound to proving designs that helped shape the space shuttle, flight testing transforms bold concepts into safer, more efficient technologies that benefit the public. “Flight te",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/",
-      "impact": 5
-    },
     {
       "title": "Spider which uses spring trap to capture prey discovered in Australia",
       "summary": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented.",
@@ -25,6 +9,14 @@
       "source": "bbc.co.uk",
       "source_url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
       "impact": 5
+    },
+    {
+      "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
+      "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that help guide the immune system to clean up the remains. But researchers found that influenza viruses can",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm",
+      "impact": 4
     },
     {
       "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "A rare interstellar visitor triggered a SETI search for alien technology",
-      "summary": "SETI scientists searched the interstellar object 3I/ATLAS for radio signals that could indicate extraterrestrial technology but found nothing beyond human-made interference. Even so, the rapid-response observations helped confirm the object's natural origin and showcased how future interstellar visi",
-      "category": "Science",
+      "title": "Scientists discover ancient brain cells that help block distractions",
+      "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—sim",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260621060309.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+      "impact": 4
+    },
+    {
+      "title": "Future astronauts could walk across rocks from deep inside the Moon",
+      "summary": "A colossal ancient collision may have left some of the Moon’s deepest secrets surprisingly close to future Artemis landing sites. By recreating the impact that formed the giant South Pole-Aitken basin—the Moon’s largest and oldest crater—scientists found that a low-angle strike from a large, iron-co",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm",
       "impact": 4
     }
   ]
