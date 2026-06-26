@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "last_updated": "2026-06-26 00:03 UTC",
+  "last_updated": "2026-06-26 23:55 UTC",
   "items": [
     {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
@@ -19,27 +19,27 @@
       "impact": 5
     },
     {
-      "title": "Spider which uses spring trap to capture prey discovered in Australia",
-      "summary": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented.",
-      "category": "Science",
-      "source": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
-      "impact": 5
-    },
-    {
-      "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
-      "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that help guide the immune system to clean up the remains. But researchers found that influenza viruses can",
+      "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
+      "summary": "A new study found that fructose and glucose may look the same on a nutrition label, but the brain treats them very differently. In mice, glucose strongly reduced activity in hunger-promoting brain cells, while fructose had a much weaker effect. High-fructose corn syrup triggered a stronger response ",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260623083106.htm",
       "impact": 4
     },
     {
-      "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
-      "summary": "Researchers found that a rare liver cancer evades immunotherapy by luring immune T cells away from the tumor and trapping them in nearby fibrous tissue. An FDA-approved drug called AMD3100 freed those T cells to attack the cancer, significantly improving the effectiveness of immunotherapy in tumor s",
-      "category": "Medicine",
+      "title": "Scientists discover ancient brain cells that help block distractions",
+      "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—sim",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
+      "impact": 4
+    },
+    {
+      "title": "Earth may have been seeding Venus with life for billions of years",
+      "summary": "A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the journey and end up suspended in Venus' clouds. If future missions detect life there, there's a surp",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
       "impact": 4
     }
   ]
