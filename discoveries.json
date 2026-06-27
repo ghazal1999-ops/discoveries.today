@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-26",
-  "last_updated": "2026-06-26 23:55 UTC",
+  "date": "2026-06-27",
+  "last_updated": "2026-06-27 23:55 UTC",
   "items": [
     {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
@@ -19,14 +19,6 @@
       "impact": 5
     },
     {
-      "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
-      "summary": "A new study found that fructose and glucose may look the same on a nutrition label, but the brain treats them very differently. In mice, glucose strongly reduced activity in hunger-promoting brain cells, while fructose had a much weaker effect. High-fructose corn syrup triggered a stronger response ",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260623083106.htm",
-      "impact": 4
-    },
-    {
       "title": "Scientists discover ancient brain cells that help block distractions",
       "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—sim",
       "category": "AI & Tech",
@@ -40,6 +32,14 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
+      "impact": 4
+    },
+    {
+      "title": "Early humans were bringing fire into caves 1.8 million years ago",
+      "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
       "impact": 4
     }
   ]
