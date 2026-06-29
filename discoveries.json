@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "last_updated": "2026-06-29 00:01 UTC",
+  "last_updated": "2026-06-29 23:54 UTC",
   "items": [
     {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
@@ -9,6 +9,22 @@
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
       "impact": 5
+    },
+    {
+      "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+      "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel and the 20-Foot Vertical Spin Tunnel — will pass the torch to the Flight Dynamics ",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+      "impact": 5
+    },
+    {
+      "title": "Brain activity under anesthesia challenges what we know about consciousness",
+      "summary": "The unconscious brain appears to be far more capable than scientists once believed. Researchers found that patients under general anesthesia could still process language at a sophisticated level, distinguishing nouns, verbs, and adjectives while listening to stories. Even more remarkably, neural act",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025514.htm",
+      "impact": 4
     },
     {
       "title": "Scientists discover ancient brain cells that help block distractions",
@@ -24,22 +40,6 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
-      "impact": 4
-    },
-    {
-      "title": "Early humans were bringing fire into caves 1.8 million years ago",
-      "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
-      "impact": 4
-    },
-    {
-      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
-      "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire wear overwhelming any plastic signal from the recycled material. If future studie",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
       "impact": 4
     }
   ]
