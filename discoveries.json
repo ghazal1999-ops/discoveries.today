@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-27",
-  "last_updated": "2026-06-27 23:55 UTC",
+  "date": "2026-06-29",
+  "last_updated": "2026-06-29 00:01 UTC",
   "items": [
     {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
@@ -8,14 +8,6 @@
       "category": "Science",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
-      "impact": 5
-    },
-    {
-      "title": "This common vitamin deficiency can mimic normal aging",
-      "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mi",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
       "impact": 5
     },
     {
@@ -40,6 +32,14 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
+      "impact": 4
+    },
+    {
+      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+      "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire wear overwhelming any plastic signal from the recycled material. If future studie",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
       "impact": 4
     }
   ]
