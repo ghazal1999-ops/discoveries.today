@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-29",
-  "last_updated": "2026-06-29 23:54 UTC",
+  "date": "2026-06-30",
+  "last_updated": "2026-06-30 23:58 UTC",
   "items": [
     {
       "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
@@ -11,12 +11,20 @@
       "impact": 5
     },
     {
-      "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
-      "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel and the 20-Foot Vertical Spin Tunnel — will pass the torch to the Flight Dynamics ",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+      "title": "Scientists say creatine may help fight depression",
+      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both ",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
       "impact": 5
+    },
+    {
+      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+      "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relen",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+      "impact": 4
     },
     {
       "title": "Brain activity under anesthesia challenges what we know about consciousness",
@@ -24,14 +32,6 @@
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025514.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover ancient brain cells that help block distractions",
-      "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these neurons in mice, the animals became unusually distractible—sim",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
       "impact": 4
     },
     {
