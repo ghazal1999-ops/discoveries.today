@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-30",
-  "last_updated": "2026-06-30 23:58 UTC",
+  "date": "2026-07-02",
+  "last_updated": "2026-07-02 00:00 UTC",
   "items": [
-    {
-      "title": "After 70 years of excavation, ancient Sardis becomes a UNESCO World Heritage site",
-      "summary": "After nearly seven decades of excavation, the legendary ancient city of Sardis has become a UNESCO World Heritage Site, celebrating years of discoveries that continue to reshape its history. Archaeologists say the biggest breakthroughs don't happen in a single season—they emerge as decades of eviden",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
-      "impact": 5
-    },
     {
       "title": "Scientists say creatine may help fight depression",
       "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both ",
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
+      "impact": 5
+    },
+    {
+      "title": "Melanoma's secret to cheating death has finally been revealed",
+      "summary": "Scientists have solved a long-standing mystery by discovering the missing genetic ingredient that helps melanoma cells become effectively immortal. The breakthrough could open the door to new treatments aimed at disrupting one of cancer's most important survival strategies.",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm",
       "impact": 5
     },
     {
@@ -27,19 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Brain activity under anesthesia challenges what we know about consciousness",
-      "summary": "The unconscious brain appears to be far more capable than scientists once believed. Researchers found that patients under general anesthesia could still process language at a sophisticated level, distinguishing nouns, verbs, and adjectives while listening to stories. Even more remarkably, neural act",
+      "title": "Scientists discover a surprising link between vitamin C and brain health",
+      "summary": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connections in a key brain network involved in me",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260624025514.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
       "impact": 4
     },
     {
-      "title": "Earth may have been seeding Venus with life for billions of years",
-      "summary": "A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the journey and end up suspended in Venus' clouds. If future missions detect life there, there's a surp",
-      "category": "Space",
+      "title": "These tiny soil microbes could rescue crops from salty farmland",
+      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and f",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
       "impact": 4
     }
   ]
