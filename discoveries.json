@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "last_updated": "2026-07-02 23:56 UTC",
+  "date": "2026-07-03",
+  "last_updated": "2026-07-03 23:57 UTC",
   "items": [
     {
       "title": "Scientists say creatine may help fight depression",
@@ -8,14 +8,6 @@
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-      "impact": 5
-    },
-    {
-      "title": "Melanoma's secret to cheating death has finally been revealed",
-      "summary": "Scientists have solved a long-standing mystery by discovering the missing genetic ingredient that helps melanoma cells become effectively immortal. The breakthrough could open the door to new treatments aimed at disrupting one of cancer's most important survival strategies.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm",
       "impact": 5
     },
     {
@@ -27,6 +19,14 @@
       "impact": 4
     },
     {
+      "title": "Scientists reveal what really happens when water is trapped in tiny spaces",
+      "summary": "A decades-old puzzle about water has finally been unraveled. Researchers found that water trapped in tiny nanoscale spaces is not inherently more reactive. Instead, the intense pressures created inside these microscopic gaps explain most of the effect, while the surrounding material can further enha",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/06/260626124706.htm",
+      "impact": 4
+    },
+    {
       "title": "Scientists discover a surprising link between vitamin C and brain health",
       "summary": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connections in a key brain network involved in me",
       "category": "Medicine",
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "These tiny soil microbes could rescue crops from salty farmland",
-      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and f",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+      "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
+      "summary": "NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebr",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
       "impact": 4
     }
   ]
