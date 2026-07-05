@@ -1,7 +1,15 @@
 {
-  "date": "2026-07-04",
-  "last_updated": "2026-07-04 23:53 UTC",
+  "date": "2026-07-05",
+  "last_updated": "2026-07-05 23:57 UTC",
   "items": [
+    {
+      "title": "New research reveals the hidden pollution left behind by fireworks",
+      "summary": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may affect ecosystems and increase people's exposure to air pollution during major cel",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+      "impact": 5
+    },
     {
       "title": "Scientists say creatine may help fight depression",
       "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both ",
@@ -9,6 +17,14 @@
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
       "impact": 5
+    },
+    {
+      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+      "summary": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region ",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+      "impact": 4
     },
     {
       "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
@@ -19,27 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Scientists reveal what really happens when water is trapped in tiny spaces",
-      "summary": "A decades-old puzzle about water has finally been unraveled. Researchers found that water trapped in tiny nanoscale spaces is not inherently more reactive. Instead, the intense pressures created inside these microscopic gaps explain most of the effect, while the surrounding material can further enha",
+      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "summary": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way's past thanks to its rare stars and possible origins in a long ago cos",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260626124706.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover a surprising link between vitamin C and brain health",
-      "summary": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connections in a key brain network involved in me",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
-      "impact": 4
-    },
-    {
-      "title": "These tiny soil microbes could rescue crops from salty farmland",
-      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and f",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
       "impact": 4
     }
   ]
