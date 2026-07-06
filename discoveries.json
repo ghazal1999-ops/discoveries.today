@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05",
-  "last_updated": "2026-07-05 23:57 UTC",
+  "date": "2026-07-06",
+  "last_updated": "2026-07-06 23:58 UTC",
   "items": [
     {
       "title": "New research reveals the hidden pollution left behind by fireworks",
@@ -8,6 +8,14 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+      "impact": 5
+    },
+    {
+      "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
+      "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lan",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
       "impact": 5
     },
     {
@@ -32,14 +40,6 @@
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
-      "summary": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way's past thanks to its rare stars and possible origins in a long ago cos",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
       "impact": 4
     }
   ]
