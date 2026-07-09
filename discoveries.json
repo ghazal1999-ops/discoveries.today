@@ -1,29 +1,21 @@
 {
-  "date": "2026-07-07",
-  "last_updated": "2026-07-07 23:48 UTC",
+  "date": "2026-07-09",
+  "last_updated": "2026-07-09 00:00 UTC",
   "items": [
+    {
+      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+      "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of the communities that bu",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
+      "impact": 5
+    },
     {
       "title": "New research reveals the hidden pollution left behind by fireworks",
       "summary": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may affect ecosystems and increase people's exposure to air pollution during major cel",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
-      "impact": 5
-    },
-    {
-      "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
-      "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lan",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
-      "impact": 5
-    },
-    {
-      "title": "Scientists say creatine may help fight depression",
-      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both ",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
       "impact": 5
     },
     {
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-      "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relen",
-      "category": "Medicine",
+      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
+      "summary": "A centimeter-sized crystal has revealed clear signs of quantum entanglement, showing that large, everyday objects can display surprisingly deep quantum behavior. The discovery could help solve the mystery of strange metals while opening new possibilities for ultra-precise quantum sensors and other a",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "summary": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way's past thanks to its rare stars and possible origins in a long ago cos",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
       "impact": 4
     }
   ]
