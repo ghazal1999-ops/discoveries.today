@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "last_updated": "2026-07-09 00:00 UTC",
+  "last_updated": "2026-07-09 23:58 UTC",
   "items": [
     {
       "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
@@ -11,35 +11,35 @@
       "impact": 5
     },
     {
-      "title": "New research reveals the hidden pollution left behind by fireworks",
-      "summary": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may affect ecosystems and increase people's exposure to air pollution during major cel",
-      "category": "AI & Tech",
+      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data s",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
       "impact": 5
     },
     {
-      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-      "summary": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region ",
+      "title": "Curiosity Sees Martian Sulfur Up Close",
+      "summary": "This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take [&#82",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/",
+      "impact": 5
+    },
+    {
+      "title": "This Mars rover could finally reveal whether life ever existed on Mars",
+      "summary": "The hunt for ancient life on Mars just got an important test run. Scientists confirmed that the Rosalind Franklin rover's sophisticated instrument can detect subtle differences in two stable molecules that could preserve evidence of past life for billions of years. But the team also uncovered a surp",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260707025051.htm",
       "impact": 4
     },
     {
-      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
-      "summary": "A centimeter-sized crystal has revealed clear signs of quantum entanglement, showing that large, everyday objects can display surprisingly deep quantum behavior. The discovery could help solve the mystery of strange metals while opening new possibilities for ultra-precise quantum sensors and other a",
-      "category": "Physics",
+      "title": "A vitamin A discovery is changing what scientists know about vision",
+      "summary": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyr",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
-      "summary": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way's past thanks to its rare stars and possible origins in a long ago cos",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
       "impact": 4
     }
   ]
