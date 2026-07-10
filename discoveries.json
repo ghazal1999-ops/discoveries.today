@@ -1,23 +1,7 @@
 {
-  "date": "2026-07-09",
-  "last_updated": "2026-07-09 23:58 UTC",
+  "date": "2026-07-10",
+  "last_updated": "2026-07-10 23:49 UTC",
   "items": [
-    {
-      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
-      "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of the communities that bu",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
-      "impact": 5
-    },
-    {
-      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-      "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data s",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
-      "impact": 5
-    },
     {
       "title": "Curiosity Sees Martian Sulfur Up Close",
       "summary": "This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take [&#82",
@@ -27,11 +11,11 @@
       "impact": 5
     },
     {
-      "title": "This Mars rover could finally reveal whether life ever existed on Mars",
-      "summary": "The hunt for ancient life on Mars just got an important test run. Scientists confirmed that the Rosalind Franklin rover's sophisticated instrument can detect subtle differences in two stable molecules that could preserve evidence of past life for billions of years. But the team also uncovered a surp",
-      "category": "Space",
+      "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
+      "summary": "Researchers found that mRNA cancer vaccines can recruit an unexpected immune cell to launch powerful tumor-fighting responses, overturning a long-held assumption about how the vaccines work. The discovery could lead to more effective cancer vaccines and help scientists tailor treatments for better p",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260707025051.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
       "impact": 4
     },
     {
@@ -40,6 +24,22 @@
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
+      "impact": 4
+    },
+    {
+      "title": "This alien planet never has sunrise or sunset. It may support life",
+      "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their labor",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
+      "impact": 4
+    },
+    {
+      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+      "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harves",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
       "impact": 4
     }
   ]
