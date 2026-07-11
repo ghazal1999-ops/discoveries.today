@@ -1,21 +1,13 @@
 {
-  "date": "2026-07-10",
-  "last_updated": "2026-07-10 23:49 UTC",
+  "date": "2026-07-11",
+  "last_updated": "2026-07-11 23:43 UTC",
   "items": [
     {
-      "title": "Curiosity Sees Martian Sulfur Up Close",
-      "summary": "This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take [&#82",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/",
-      "impact": 5
-    },
-    {
-      "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
-      "summary": "Researchers found that mRNA cancer vaccines can recruit an unexpected immune cell to launch powerful tumor-fighting responses, overturning a long-held assumption about how the vaccines work. The discovery could lead to more effective cancer vaccines and help scientists tailor treatments for better p",
-      "category": "Medicine",
+      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
+      "summary": "Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by climate change and urban environments, these fast-breeding predators are expanding northward, where",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm",
       "impact": 4
     },
     {
@@ -40,6 +32,14 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+      "impact": 4
+    },
+    {
+      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
+      "summary": "Scientists have discovered a previously unknown fossil goose that challenges a decades-old theory about the evolution of New Zealand's birds. The find suggests the country's giant flightless geese evolved from much more recent arrivals, revealing a far more dynamic evolutionary history than once bel",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
       "impact": 4
     }
   ]
