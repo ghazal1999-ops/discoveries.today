@@ -1,7 +1,15 @@
 {
-  "date": "2026-07-11",
-  "last_updated": "2026-07-11 23:43 UTC",
+  "date": "2026-07-12",
+  "last_updated": "2026-07-12 23:43 UTC",
   "items": [
+    {
+      "title": "Scientists finally solved the mystery of Earth's greatest mass extinction",
+      "summary": "Why do beaches today have seashells from clams and snails instead of brachiopods? A new study suggests the answer lies in Earth's greatest mass extinction, when warming oceans and falling oxygen levels wiped out animals that couldn't adapt. Species with body plans and metabolisms better suited to th",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010122.htm",
+      "impact": 4
+    },
     {
       "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
       "summary": "Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by climate change and urban environments, these fast-breeding predators are expanding northward, where",
@@ -11,11 +19,11 @@
       "impact": 4
     },
     {
-      "title": "A vitamin A discovery is changing what scientists know about vision",
-      "summary": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyr",
-      "category": "Medicine",
+      "title": "Scientists discover how the brain rewires itself to truly multitask",
+      "summary": "Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized circuits instead. By freeing the brain's \"thinking\" center, people became better at performing anothe",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
       "impact": 4
     },
     {
@@ -32,14 +40,6 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
-      "impact": 4
-    },
-    {
-      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
-      "summary": "Scientists have discovered a previously unknown fossil goose that challenges a decades-old theory about the evolution of New Zealand's birds. The find suggests the country's giant flightless geese evolved from much more recent arrivals, revealing a far more dynamic evolutionary history than once bel",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
       "impact": 4
     }
   ]
