@@ -1,7 +1,23 @@
 {
-  "date": "2026-07-12",
-  "last_updated": "2026-07-12 23:43 UTC",
+  "date": "2026-07-13",
+  "last_updated": "2026-07-13 23:43 UTC",
   "items": [
+    {
+      "title": "Stephen Hawking's black hole laws just got a major upgrade",
+      "summary": "Scientists have developed a new framework that could finally apply the laws of thermodynamics to real, ever-changing black holes instead of only perfectly stable ones. The advance may improve our understanding of black hole mergers, evaporation, and the powerful gravitational wave events detected by",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+      "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of bra",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "impact": 4
+    },
     {
       "title": "Scientists finally solved the mystery of Earth's greatest mass extinction",
       "summary": "Why do beaches today have seashells from clams and snails instead of brachiopods? A new study suggests the answer lies in Earth's greatest mass extinction, when warming oceans and falling oxygen levels wiped out animals that couldn't adapt. Species with body plans and metabolisms better suited to th",
@@ -19,27 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Scientists discover how the brain rewires itself to truly multitask",
-      "summary": "Practice may do more than make perfect. Researchers found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and run through specialized circuits instead. By freeing the brain's \"thinking\" center, people became better at performing anothe",
-      "category": "AI & Tech",
+      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
+      "summary": "Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the known cases of egg-guarding behavior and discovered that maternal and paternal care followed differ",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
-      "impact": 4
-    },
-    {
-      "title": "This alien planet never has sunrise or sunset. It may support life",
-      "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their labor",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
-      "impact": 4
-    },
-    {
-      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
-      "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harves",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm",
       "impact": 4
     }
   ]
