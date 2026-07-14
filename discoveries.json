@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-13",
-  "last_updated": "2026-07-13 23:43 UTC",
+  "date": "2026-07-14",
+  "last_updated": "2026-07-14 23:42 UTC",
   "items": [
     {
       "title": "Stephen Hawking's black hole laws just got a major upgrade",
@@ -19,27 +19,27 @@
       "impact": 4
     },
     {
-      "title": "Scientists finally solved the mystery of Earth's greatest mass extinction",
-      "summary": "Why do beaches today have seashells from clams and snails instead of brachiopods? A new study suggests the answer lies in Earth's greatest mass extinction, when warming oceans and falling oxygen levels wiped out animals that couldn't adapt. Species with body plans and metabolisms better suited to th",
-      "category": "AI & Tech",
+      "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+      "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before con",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010122.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
       "impact": 4
     },
     {
-      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
-      "summary": "Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by climate change and urban environments, these fast-breeding predators are expanding northward, where",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm",
+      "title": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
+      "summary": "Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s ",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
       "impact": 4
     },
     {
-      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
-      "summary": "Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the known cases of egg-guarding behavior and discovered that maternal and paternal care followed differ",
-      "category": "Science",
+      "title": "A 200-year-old physics experiment could help build future computers",
+      "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply sh",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
       "impact": 4
     }
   ]
