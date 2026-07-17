@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-16",
-  "last_updated": "2026-07-16 23:51 UTC",
+  "date": "2026-07-17",
+  "last_updated": "2026-07-17 23:42 UTC",
   "items": [
     {
       "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
@@ -11,35 +11,35 @@
       "impact": 5
     },
     {
-      "title": "Archaeologists found Homer's Iliad inside a 1,600-year-old Egyptian mummy",
-      "summary": "A 1,600-year-old mummy discovered in Egypt has revealed something archaeologists had never seen before: a fragment of Homer’s Iliad used during embalming. The papyrus was identified as part of the famous \"Catalogue of Ships,\" one of the best-known sections of the ancient epic. Researchers say it is ",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260713084918.htm",
-      "impact": 4
-    },
-    {
-      "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
-      "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before con",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists finally solved why some frogs survive a deadly fungus",
-      "summary": "A deadly fungus has wiped out amphibian populations around the globe, yet some mysteriously recover. Researchers discovered that survivors develop powerful immune defenses while they are still tadpoles, giving them a head start before the fungus can attack after metamorphosis. The study also uncover",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
-      "summary": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful observatories that image faint celestial objects. This object has a dual personality: ",
+      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
+      "summary": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for&#160;NASA’s&#160;Ames Research Center&#160;in California’s Silicon Valley.&#160; The Ames Facilities Support Services II contract&#160;ensures that&#160;the",
       "category": "Space",
       "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
+      "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
+      "impact": 5
+    },
+    {
+      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+      "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the thera",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
+      "impact": 4
+    },
+    {
+      "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
+      "summary": "An ancient sea worm may hold the secret to a whole new category of natural materials. Its jaws combine proteins and metal ions in a way that gives them metal-like strength and unusual mechanical behavior, yet they still differ from traditional metals. Researchers believe these \"bio-metals\" could ope",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or su",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
       "impact": 4
     }
   ]
