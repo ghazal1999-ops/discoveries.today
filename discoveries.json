@@ -1,21 +1,21 @@
 {
-  "date": "2026-07-17",
-  "last_updated": "2026-07-17 23:42 UTC",
+  "date": "2026-07-18",
+  "last_updated": "2026-07-18 23:43 UTC",
   "items": [
-    {
-      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
-      "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using lig",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
-      "impact": 5
-    },
     {
       "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
       "summary": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for&#160;NASA’s&#160;Ames Research Center&#160;in California’s Silicon Valley.&#160; The Ames Facilities Support Services II contract&#160;ensures that&#160;the",
       "category": "Space",
       "source": "nasa.gov",
       "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
+      "impact": 5
+    },
+    {
+      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
+      "summary": "A major DNA study has rewritten the koala's evolutionary story, revealing that the species suffered a dramatic population collapse about 100,000 years ago, long before humans arrived in Australia. By calculating the koala's mutation rate for the first time and analyzing hundreds of genomes, research",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm",
       "impact": 5
     },
     {
@@ -27,19 +27,19 @@
       "impact": 4
     },
     {
-      "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
-      "summary": "An ancient sea worm may hold the secret to a whole new category of natural materials. Its jaws combine proteins and metal ions in a way that gives them metal-like strength and unusual mechanical behavior, yet they still differ from traditional metals. Researchers believe these \"bio-metals\" could ope",
-      "category": "Biology",
+      "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
+      "summary": "A team of mathematicians used whimsical \"silly sprinklers\" to solve a physics mystery that has puzzled scientists for decades. Their experiments showed that the rotation of both normal and reverse sprinklers is driven by the momentum of flowing water, not by the outside water flow or other long-stan",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083535.htm",
       "impact": 4
     },
     {
-      "title": "Scientists built a camera that can track invisible particles in 3D",
-      "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or su",
-      "category": "Medicine",
+      "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
+      "summary": "Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Researchers found a complex structure of horizontal layers cut through by vast swarms of vertical magma c",
+      "category": "Climate",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260716023618.htm",
       "impact": 4
     }
   ]
