@@ -1,21 +1,13 @@
 {
-  "date": "2026-07-20",
-  "last_updated": "2026-07-20 23:47 UTC",
+  "date": "2026-07-21",
+  "last_updated": "2026-07-21 23:48 UTC",
   "items": [
     {
-      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-      "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells ",
-      "category": "Medicine",
+      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
+      "summary": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe ",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-      "impact": 5
-    },
-    {
-      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
-      "summary": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for&#160;NASA’s&#160;Ames Research Center&#160;in California’s Silicon Valley.&#160; The Ames Facilities Support Services II contract&#160;ensures that&#160;the",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
       "impact": 5
     },
     {
@@ -27,19 +19,27 @@
       "impact": 5
     },
     {
+      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+      "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although ",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
+      "impact": 4
+    },
+    {
+      "title": "A hidden “switch-off” signal could predict solar storms seven years early",
+      "summary": "A newly discovered turning point in the Sun’s 11-year cycle could allow scientists to predict future solar activity years earlier than before. At this “switch-off” point, the most violent space weather abruptly ends, and the remaining number of sunspots offers clues about the next cycle’s strength. ",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000818.htm",
+      "impact": 4
+    },
+    {
       "title": "The mysterious hum heard around the world may finally have an explanation",
       "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most parti",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
-      "impact": 4
-    },
-    {
-      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
-      "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their resul",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
       "impact": 4
     }
   ]
