@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-21",
-  "last_updated": "2026-07-21 23:48 UTC",
+  "date": "2026-07-22",
+  "last_updated": "2026-07-22 23:54 UTC",
   "items": [
     {
       "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
@@ -8,14 +8,6 @@
       "category": "Biology",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
-      "impact": 5
-    },
-    {
-      "title": "Going with the flow: Renewable energy battery breakthrough",
-      "summary": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research.",
-      "category": "Science",
-      "source": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&at_campaign=rss",
       "impact": 5
     },
     {
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "The mysterious hum heard around the world may finally have an explanation",
-      "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most parti",
-      "category": "AI & Tech",
+      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+      "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combinat",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+      "impact": 4
+    },
+    {
+      "title": "New molecular map reveals how the flu virus hijacks human cells",
+      "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains ",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
       "impact": 4
     }
   ]
