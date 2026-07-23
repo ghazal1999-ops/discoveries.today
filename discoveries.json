@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-22",
-  "last_updated": "2026-07-22 23:54 UTC",
+  "date": "2026-07-23",
+  "last_updated": "2026-07-23 23:52 UTC",
   "items": [
     {
       "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
@@ -19,11 +19,11 @@
       "impact": 4
     },
     {
-      "title": "A hidden “switch-off” signal could predict solar storms seven years early",
-      "summary": "A newly discovered turning point in the Sun’s 11-year cycle could allow scientists to predict future solar activity years earlier than before. At this “switch-off” point, the most violent space weather abruptly ends, and the remaining number of sunspots offers clues about the next cycle’s strength. ",
-      "category": "Space",
+      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
+      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division o",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000818.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
       "impact": 4
     },
     {
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "New molecular map reveals how the flu virus hijacks human cells",
-      "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains ",
-      "category": "Medicine",
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerfu",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
       "impact": 4
     }
   ]
