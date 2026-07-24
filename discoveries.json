@@ -1,23 +1,7 @@
 {
-  "date": "2026-07-23",
-  "last_updated": "2026-07-23 23:52 UTC",
+  "date": "2026-07-24",
+  "last_updated": "2026-07-24 23:56 UTC",
   "items": [
-    {
-      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
-      "summary": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe ",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
-      "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although ",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
-      "impact": 4
-    },
     {
       "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
       "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division o",
@@ -27,11 +11,27 @@
       "impact": 4
     },
     {
-      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
-      "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combinat",
-      "category": "Medicine",
+      "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
+      "summary": "Fossils discovered in Japan more than two decades ago have finally been identified as a new genus and species of giant salamander. Limnospondylus ajimuensis lived around 3.5 million years ago in a warmer, wetter Kyushu and may have reached 1.1 meters in length. Its discovery hints that many more unk",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032119.htm",
+      "impact": 4
+    },
+    {
+      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
+      "summary": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, ",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
+      "summary": "NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras. Results published Thursday in Nature Communications show the same mechanism that",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
       "impact": 4
     },
     {
