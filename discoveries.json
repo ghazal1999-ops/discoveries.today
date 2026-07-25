@@ -1,21 +1,21 @@
 {
-  "date": "2026-07-24",
-  "last_updated": "2026-07-24 23:56 UTC",
+  "date": "2026-07-25",
+  "last_updated": "2026-07-25 23:52 UTC",
   "items": [
     {
-      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
-      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division o",
+      "title": "Scientists put the “recycling is a distraction” claim to the test",
+      "summary": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
+      "impact": 5
     },
     {
-      "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
-      "summary": "Fossils discovered in Japan more than two decades ago have finally been identified as a new genus and species of giant salamander. Limnospondylus ajimuensis lived around 3.5 million years ago in a warmer, wetter Kyushu and may have reached 1.1 meters in length. Its discovery hints that many more unk",
-      "category": "Biology",
+      "title": "Scientists discover the Sun contains 55% more silver than expected",
+      "summary": "A new analysis suggests the Sun holds far more silver than earlier estimates indicated. More advanced models of the solar atmosphere raised the calculated amount by 55 percent, bringing it into much closer agreement with ancient meteorites. The technique may also help scientists track the cosmic ori",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032119.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
       "impact": 4
     },
     {
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "A strange quantum effect dramatically boosts energy transfer",
-      "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerfu",
+      "title": "Venus may be tearing itself apart from within",
+      "summary": "Scientists have uncovered new evidence that Venus may still be tearing itself apart from within. Advanced 3D simulations indicate that some of the planet's giant rift valleys formed relatively recently and could still be expanding. The results suggest Venus has a far more active interior than resear",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
       "impact": 4
     }
   ]
