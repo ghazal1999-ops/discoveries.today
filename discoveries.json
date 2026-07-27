@@ -1,15 +1,7 @@
 {
-  "date": "2026-07-26",
-  "last_updated": "2026-07-26 23:52 UTC",
+  "date": "2026-07-27",
+  "last_updated": "2026-07-27 23:55 UTC",
   "items": [
-    {
-      "title": "Scientists put the “recycling is a distraction” claim to the test",
-      "summary": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
-      "impact": 5
-    },
     {
       "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
       "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and ex",
@@ -40,6 +32,14 @@
       "category": "Science",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm",
+      "impact": 4
+    },
+    {
+      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
+      "summary": "Early humans in England crafted a rare piece of elephant bone into a reusable hammer for sharpening stone tools nearly 500,000 years ago. The extraordinary find reveals that ancient toolmakers were resourceful, skilled, and capable of surprisingly advanced planning.",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260726015301.htm",
       "impact": 4
     }
   ]
