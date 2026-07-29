@@ -1,13 +1,29 @@
 {
-  "date": "2026-07-28",
-  "last_updated": "2026-07-28 23:51 UTC",
+  "date": "2026-07-29",
+  "last_updated": "2026-07-29 23:53 UTC",
   "items": [
     {
-      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
-      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and ex",
-      "category": "Science",
+      "title": "The search for life on Jupiter's icy moon Europa just got more complicated",
+      "summary": "Europa’s hidden ocean has made the icy moon one of the solar system’s most promising places to search for habitable conditions. Scientists have hoped that water from this deep ocean might rise through cracks and form shallow reservoirs that future spacecraft could more easily study. New simulations ",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214604.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+      "summary": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of these extremely distant, compact red sources has been a puzzling scientific endeavor. One popular theory is that little red d",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+      "impact": 4
+    },
+    {
+      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "summary": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotte",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
       "impact": 4
     },
     {
@@ -24,22 +40,6 @@
       "category": "Physics",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
-      "impact": 4
-    },
-    {
-      "title": "The best way to save giant sequoias may be more fire",
-      "summary": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in areas treated with prescribed burns were nearly four times more likely to surviv",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm",
-      "impact": 4
-    },
-    {
-      "title": "Misfolded insulin may be quietly driving diabetes",
-      "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengthening this system could offer a new way to protect the pancreas as diabetes pro",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
       "impact": 4
     }
   ]
