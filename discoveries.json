@@ -1,46 +1,46 @@
 {
-  "date": "2026-07-29",
-  "last_updated": "2026-07-29 23:53 UTC",
+  "date": "2026-07-30",
+  "last_updated": "2026-07-30 23:54 UTC",
   "items": [
     {
-      "title": "The search for life on Jupiter's icy moon Europa just got more complicated",
-      "summary": "Europa’s hidden ocean has made the icy moon one of the solar system’s most promising places to search for habitable conditions. Scientists have hoped that water from this deep ocean might rise through cracks and form shallow reservoirs that future spacecraft could more easily study. New simulations ",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214604.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
-      "summary": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of these extremely distant, compact red sources has been a puzzling scientific endeavor. One popular theory is that little red d",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
-      "impact": 4
-    },
-    {
-      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-      "summary": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotte",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
-      "impact": 4
-    },
-    {
-      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
-      "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon dating. The results show that a bison was painted about 13,000 years ago, while",
+      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+      "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differenc",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+      "impact": 5
+    },
+    {
+      "title": "AI reveals explosive bursts in bird evolution",
+      "summary": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can reshape life in powerful ways.",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+      "impact": 5
+    },
+    {
+      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
+      "summary": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts beneath subduction zones, gradually concentrating gold in rising magma. The proces",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
       "impact": 4
     },
     {
-      "title": "Twisted laser light can tell mirror-image molecules apart",
-      "summary": "Scientists have created twisted laser beams that interact differently with right-handed and left-handed molecules, revealing their identity through the fragments they produce. The approach could provide a faster, simpler, and more sensitive way to analyze important molecules used in chemistry and ph",
-      "category": "Physics",
+      "title": "New microwave frying method could make french fries much healthier",
+      "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
       "impact": 4
+    },
+    {
+      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+      "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+      "impact": 3
     }
   ]
 }
