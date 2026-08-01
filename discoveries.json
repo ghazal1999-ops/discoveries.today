@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-31",
-  "last_updated": "2026-07-31 23:54 UTC",
+  "date": "2026-08-01",
+  "last_updated": "2026-08-01 23:49 UTC",
   "items": [
     {
       "title": "Scientists found evolution repeating itself in the Galápagos Islands",
@@ -11,36 +11,36 @@
       "impact": 5
     },
     {
-      "title": "AI reveals explosive bursts in bird evolution",
-      "summary": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can reshape life in powerful ways.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
-      "impact": 5
-    },
-    {
-      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
-      "summary": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts beneath subduction zones, gradually concentrating gold in rising magma. The proces",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
-      "impact": 4
-    },
-    {
-      "title": "New microwave frying method could make french fries much healthier",
-      "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+      "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
+      "summary": "Researchers have uncovered a possible biological pathway connecting obesity to Alzheimer’s disease. Obesity appears to raise levels of certain fat molecules that can travel to the brain, disrupt its immune defenses, and promote harmful amyloid buildup. Correcting this fat imbalance improved memory a",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
       "impact": 4
     },
     {
-      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-      "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger",
+      "title": "AI can tell if your brain is aging faster than you are",
+      "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected “brain age” was tied to a sharply higher dementia risk. Every additional 10 year",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "impact": 4
+    },
+    {
+      "title": "Superheated magma may power towering lava fountains",
+      "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain f",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+      "impact": 4
+    },
+    {
+      "title": "A 42-year-old childhood obesity theory may be wrong",
+      "summary": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound at all. The increase appears to come from growing muscle and l",
       "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-      "impact": 3
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+      "impact": 4
     }
   ]
 }
