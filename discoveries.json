@@ -1,21 +1,21 @@
 {
-  "date": "2026-08-01",
-  "last_updated": "2026-08-01 23:49 UTC",
+  "date": "2026-08-02",
+  "last_updated": "2026-08-02 23:50 UTC",
   "items": [
     {
-      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
-      "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differenc",
-      "category": "AI & Tech",
+      "title": "Scientists detect a sharp acceleration in global warming",
+      "summary": "Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C per decade over the past ten years, compared with just under 0.2°C per decade from 1970 to 2015. The ",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
       "impact": 5
     },
     {
-      "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
-      "summary": "Researchers have uncovered a possible biological pathway connecting obesity to Alzheimer’s disease. Obesity appears to raise levels of certain fat molecules that can travel to the brain, disrupt its immune defenses, and promote harmful amyloid buildup. Correcting this fat imbalance improved memory a",
-      "category": "Medicine",
+      "title": "Dark matter’s secret force does the opposite of what scientists expected",
+      "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the Universe expands. That weakens its gravitational impact and usually slows the growth of",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
       "impact": 4
     },
     {
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "A 42-year-old childhood obesity theory may be wrong",
-      "summary": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound at all. The increase appears to come from growing muscle and l",
-      "category": "Science",
+      "title": "Cancer may be breaking its own DNA to keep growing",
+      "summary": "Cancer cells rely on powerful genetic switches to keep growth genes running at full speed, but that intense activity can damage their own DNA. The resulting breaks are repeatedly repaired, sometimes with small mistakes that allow new mutations to accumulate. Researchers believe this self-inflicted d",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
       "impact": 4
     }
   ]
