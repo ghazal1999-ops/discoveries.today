@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-02",
-  "last_updated": "2026-08-02 23:50 UTC",
+  "date": "2026-08-03",
+  "last_updated": "2026-08-03 23:59 UTC",
   "items": [
     {
       "title": "Scientists detect a sharp acceleration in global warming",
@@ -19,27 +19,27 @@
       "impact": 4
     },
     {
-      "title": "AI can tell if your brain is aging faster than you are",
-      "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected “brain age” was tied to a sharply higher dementia risk. Every additional 10 year",
-      "category": "AI & Tech",
+      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
+      "summary": "When atomic nuclei smash together at nearly the speed of light, they create the hottest fluid in the universe, but scientists may have overlooked one of its most important forces. New simulations reveal that extreme acceleration builds up along the edges of quark-gluon plasma, helping drive its expl",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
       "impact": 4
     },
     {
-      "title": "Superheated magma may power towering lava fountains",
-      "summary": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain f",
-      "category": "AI & Tech",
+      "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
+      "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK protein family, offering scientists an unexpected new research tool. Together, t",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
       "impact": 4
     },
     {
-      "title": "Cancer may be breaking its own DNA to keep growing",
-      "summary": "Cancer cells rely on powerful genetic switches to keep growth genes running at full speed, but that intense activity can damage their own DNA. The resulting breaks are repeatedly repaired, sometimes with small mistakes that allow new mutations to accumulate. Researchers believe this self-inflicted d",
-      "category": "AI & Tech",
+      "title": "Scientists may have found aging’s hidden trigger for brain disease",
+      "summary": "Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age and triggers signaling that encourages toxic proteins to clump together, damaging neurons and shorteni",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
       "impact": 4
     }
   ]
