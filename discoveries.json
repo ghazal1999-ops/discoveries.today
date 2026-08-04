@@ -1,29 +1,21 @@
 {
-  "date": "2026-08-03",
-  "last_updated": "2026-08-03 23:59 UTC",
+  "date": "2026-08-04",
+  "last_updated": "2026-08-04 23:55 UTC",
   "items": [
     {
-      "title": "Scientists detect a sharp acceleration in global warming",
-      "summary": "Global warming appears to have shifted into a faster gear. After removing the effects of El Niño, volcanic eruptions, and solar cycles, researchers found that the planet has warmed at roughly 0.35°C per decade over the past ten years, compared with just under 0.2°C per decade from 1970 to 2015. The ",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
-      "impact": 5
-    },
-    {
-      "title": "Dark matter’s secret force does the opposite of what scientists expected",
-      "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the Universe expands. That weakens its gravitational impact and usually slows the growth of",
+      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
+      "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making extremely weak measurements of the atoms. Surprisingly, the atoms confirmed the",
       "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
       "impact": 4
     },
     {
-      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-      "summary": "When atomic nuclei smash together at nearly the speed of light, they create the hottest fluid in the universe, but scientists may have overlooked one of its most important forces. New simulations reveal that extreme acceleration builds up along the edges of quark-gluon plasma, helping drive its expl",
-      "category": "Physics",
+      "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
+      "summary": "Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective work, researchers discovered an 84.1-meter (276-foot) tree, the tallest known in East Asia. They also f",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
       "impact": 4
     },
     {
@@ -40,6 +32,14 @@
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
+      "impact": 4
+    },
+    {
+      "title": "518-million-year-old creature reveals the origins of spider fangs",
+      "summary": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that help explain how the ancestors of spiders and scorpions evolved into formidable hu",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
       "impact": 4
     }
   ]
