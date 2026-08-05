@@ -1,7 +1,15 @@
 {
-  "date": "2026-08-04",
-  "last_updated": "2026-08-04 23:55 UTC",
+  "date": "2026-08-05",
+  "last_updated": "2026-08-05 23:50 UTC",
   "items": [
+    {
+      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
+      "summary": "August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaze in the west after sunset. A deep partial lunar eclipse closes the month, darkening most of the Moo",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
+      "impact": 5
+    },
     {
       "title": "Strange quantum experiment shows “negative time” is more than an illusion",
       "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making extremely weak measurements of the atoms. Surprisingly, the atoms confirmed the",
@@ -11,27 +19,11 @@
       "impact": 4
     },
     {
-      "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
-      "summary": "Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective work, researchers discovered an 84.1-meter (276-foot) tree, the tallest known in East Asia. They also f",
+      "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
+      "summary": "An exceptionally preserved snake fossil from Brazil reveals that early snakes were far more diverse than scientists once thought. Detailed brain reconstructions show that Tametara mirim was adapted for burrowing, while another ancient snake was suited to life above ground. Other fossils point to mar",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
-      "impact": 4
-    },
-    {
-      "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
-      "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK protein family, offering scientists an unexpected new research tool. Together, t",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists may have found aging’s hidden trigger for brain disease",
-      "summary": "Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age and triggers signaling that encourages toxic proteins to clump together, damaging neurons and shorteni",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260804034619.htm",
       "impact": 4
     },
     {
@@ -40,6 +32,14 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
+      "impact": 4
+    },
+    {
+      "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
+      "summary": "Stanford researchers discovered immune cells in flatworms that explode within minutes, killing nearby bacteria and foreign cells before vanishing completely. Their unusually fast and localized attack could offer clues for developing targeted treatments against infections and cancer.",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
       "impact": 4
     }
   ]
