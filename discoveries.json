@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-05",
-  "last_updated": "2026-08-05 23:50 UTC",
+  "date": "2026-08-07",
+  "last_updated": "2026-08-07 01:39 UTC",
   "items": [
     {
       "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
@@ -11,11 +11,11 @@
       "impact": 5
     },
     {
-      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
-      "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making extremely weak measurements of the atoms. Surprisingly, the atoms confirmed the",
-      "category": "Physics",
+      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+      "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existin",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
       "impact": 4
     },
     {
@@ -27,19 +27,19 @@
       "impact": 4
     },
     {
-      "title": "518-million-year-old creature reveals the origins of spider fangs",
-      "summary": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that help explain how the ancestors of spiders and scorpions evolved into formidable hu",
+      "title": "567-million-year-old fossils rewrite the dawn of animal life",
+      "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key evolutionary milestones back by up to 10 million years and suggests complex animal li",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
       "impact": 4
     },
     {
-      "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
-      "summary": "Stanford researchers discovered immune cells in flatworms that explode within minutes, killing nearby bacteria and foreign cells before vanishing completely. Their unusually fast and localized attack could offer clues for developing targeted treatments against infections and cancer.",
-      "category": "AI & Tech",
+      "title": "Forget the sperm race: Fertilization may depend on teamwork",
+      "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged and vanished over hundreds of millions of years. The discovery challenges the cla",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
       "impact": 4
     }
   ]
