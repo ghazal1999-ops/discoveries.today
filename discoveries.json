@@ -1,13 +1,21 @@
 {
-  "date": "2026-08-08",
-  "last_updated": "2026-08-08 23:18 UTC",
+  "date": "2026-08-09",
+  "last_updated": "2026-08-09 23:21 UTC",
   "items": [
     {
-      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-      "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
+      "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise activity of grid cells, specialized brain cells that help us understand where we ar",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
+      "impact": 5
+    },
+    {
+      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+      "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deli",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
       "impact": 4
     },
     {
@@ -19,19 +27,11 @@
       "impact": 4
     },
     {
-      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
-      "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysterious",
-      "category": "Space",
+      "title": "The dodo bird had a secret sensory world scientists are only now discovering",
+      "summary": "CT scans of the world’s rarest dodo skulls suggest the extinct bird may have had a stronger sense of smell, a highly sensitive beak, and a lifestyle that extended into dawn and dusk. The discoveries are helping overturn centuries-old myths and reveal a far more complex animal than the famously “dumb",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
-      "impact": 4
-    },
-    {
-      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
-      "summary": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from a gold film carved with hundreds of microscopic structures, the ultrathin “metac",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260807035143.htm",
       "impact": 4
     },
     {
