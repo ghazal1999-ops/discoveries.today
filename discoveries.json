@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-11",
-  "last_updated": "2026-08-11 23:30 UTC",
+  "date": "2026-08-12",
+  "last_updated": "2026-08-12 23:30 UTC",
   "items": [
     {
-      "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
-      "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise activity of grid cells, specialized brain cells that help us understand where we ar",
-      "category": "Space",
+      "title": "“Cannot be explained” – New super steel stuns scientists",
+      "summary": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material costs by roughly 40 times and make seawater-based hydrogen production far more economical.",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
       "impact": 5
     },
     {
-      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
-      "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deli",
-      "category": "Science",
+      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+      "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis. The discovery could overturn how scientists interpret ancient infections and complicate the long-running mystery of syp",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
       "impact": 4
     },
     {
-      "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
-      "summary": "A 240-million-year-old reptile discovered in Brazil is revealing what evolution looked like just before the rise of dinosaurs and crocodiles. The small predator had unusually positioned legs that may have allowed it to move more efficiently than many earlier reptiles. Its close relatives were previo",
-      "category": "Science",
+      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+      "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satell",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
       "impact": 4
     },
     {
-      "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
-      "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped convert it into an un",
-      "category": "Biology",
+      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new ma",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
       "impact": 4
     },
     {
-      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
-      "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst designs that boost clean power generation while making green hydrogen more energy-ef",
-      "category": "Biology",
+      "title": "A strange crystal made of electrons just revealed its hidden motion",
+      "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By shining light on an atomically thin material cooled close to absolute zero, researcher",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
       "impact": 4
     }
   ]
