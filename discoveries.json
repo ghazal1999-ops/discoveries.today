@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-13",
-  "last_updated": "2026-08-13 23:31 UTC",
+  "date": "2026-08-14",
+  "last_updated": "2026-08-14 23:12 UTC",
   "items": [
     {
-      "title": "“Cannot be explained” – New super steel stuns scientists",
-      "summary": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material costs by roughly 40 times and make seawater-based hydrogen production far more economical.",
+      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+      "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The bre",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
       "impact": 5
     },
     {
-      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
-      "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis. The discovery could overturn how scientists interpret ancient infections and complicate the long-running mystery of syp",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-      "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satell",
+      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
+      "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft",
       "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
+      "impact": 5
+    },
+    {
+      "title": "Why your brain keeps making the same decisions – even when better options exist",
+      "summary": "Why do we keep making the same choices even when better options are available? Researchers found that simply repeating a decision can reshape what we prefer, causing familiar choices to feel better than alternatives. Instead of weighing every option from scratch, the brain often remembers what it ch",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
       "impact": 4
     },
     {
-      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new ma",
+      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
+      "summary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can ",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
       "impact": 4
     },
     {
-      "title": "A strange crystal made of electrons just revealed its hidden motion",
-      "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By shining light on an atomically thin material cooled close to absolute zero, researcher",
-      "category": "Physics",
+      "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
+      "summary": "Scientists may have uncovered evidence that a mammal ancestor was giving birth to live young 236 million years ago. A fossilized cynodont showed a neonatal growth line and an unusually large birth size that closely match patterns seen in modern mammals. The discovery could push the evolution of live",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045534.htm",
       "impact": 4
     }
   ]
