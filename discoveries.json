@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "last_updated": "2026-08-14 23:12 UTC",
+  "date": "2026-08-15",
+  "last_updated": "2026-08-15 23:11 UTC",
   "items": [
     {
       "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
@@ -11,35 +11,35 @@
       "impact": 5
     },
     {
-      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
-      "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
-      "impact": 5
-    },
-    {
-      "title": "Why your brain keeps making the same decisions – even when better options exist",
-      "summary": "Why do we keep making the same choices even when better options are available? Researchers found that simply repeating a decision can reshape what we prefer, causing familiar choices to feel better than alternatives. Instead of weighing every option from scratch, the brain often remembers what it ch",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
-      "impact": 4
-    },
-    {
-      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
-      "summary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can ",
+      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery help",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
       "impact": 4
     },
     {
-      "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
-      "summary": "Scientists may have uncovered evidence that a mammal ancestor was giving birth to live young 236 million years ago. A fossilized cynodont showed a neonatal growth line and an unusually large birth size that closely match patterns seen in modern mammals. The discovery could push the evolution of live",
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brai",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045534.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+      "impact": 4
+    },
+    {
+      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
+      "summary": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s rings that form in the presence of liquid water—yet the moons themselves show no obvious water ice. ",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
+      "impact": 4
+    },
+    {
+      "title": "Common food preservative linked to rising suicide deaths among young people",
+      "summary": "A widely available food-preservation chemical is emerging as a disturbing factor in rising UK suicide deaths, particularly among younger people and men. Researchers say the scale may be underestimated and are calling for urgent restrictions on access and harmful online information.",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045557.htm",
       "impact": 4
     }
   ]
