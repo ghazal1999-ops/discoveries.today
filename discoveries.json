@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-15",
-  "last_updated": "2026-08-15 23:11 UTC",
+  "date": "2026-08-16",
+  "last_updated": "2026-08-16 23:10 UTC",
   "items": [
     {
       "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
@@ -19,27 +19,27 @@
       "impact": 4
     },
     {
+      "title": "A black hole shredded a “super sun” — but something strange may have survived",
+      "summary": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released about 400 billion times the Sun’s energy and sent a shock wave racing outward at one-fifth the speed o",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
+      "impact": 4
+    },
+    {
+      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+      "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other extinct Pleistocene amphibian has ever been identified in North America. Its bones",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+      "impact": 4
+    },
+    {
       "title": "Immune cells flood into the aging brain, Stanford scientists discover",
       "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brai",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-      "impact": 4
-    },
-    {
-      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
-      "summary": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s rings that form in the presence of liquid water—yet the moons themselves show no obvious water ice. ",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
-      "impact": 4
-    },
-    {
-      "title": "Common food preservative linked to rising suicide deaths among young people",
-      "summary": "A widely available food-preservation chemical is emerging as a disturbing factor in rising UK suicide deaths, particularly among younger people and men. Researchers say the scale may be underestimated and are calling for urgent restrictions on access and harmful online information.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260813045557.htm",
       "impact": 4
     }
   ]
