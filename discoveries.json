@@ -1,21 +1,13 @@
 {
-  "date": "2026-08-16",
-  "last_updated": "2026-08-16 23:10 UTC",
+  "date": "2026-08-17",
+  "last_updated": "2026-08-17 23:13 UTC",
   "items": [
     {
-      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-      "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predictions of radioactive decay inside the reactor and nearby spent-fuel pools. The bre",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery help",
+      "title": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
+      "summary": "An experimental Alzheimer’s compound prevented damaging protein clumps from forming in the brains of mice, helping nerve cells survive longer and reducing amyloid buildup. The treatment also appeared to improve heart health and slow some signs of aging, raising hopes for an entirely new way to comba",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm",
       "impact": 4
     },
     {
@@ -27,19 +19,27 @@
       "impact": 4
     },
     {
+      "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
+      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativi",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "impact": 4
+    },
+    {
+      "title": "Animals have been eating nature’s original bioplastic for millions of years",
+      "summary": "Nature invented biodegradable plastic long before humans did—and animals may have been feeding on it for hundreds of millions of years. Researchers discovered that dozens of animal species possess enzymes capable of breaking down microbial bioplastics called PHAs, a talent once thought to belong onl",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
+      "impact": 4
+    },
+    {
       "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
       "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other extinct Pleistocene amphibian has ever been identified in North America. Its bones",
       "category": "Biology",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
-      "impact": 4
-    },
-    {
-      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brai",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
       "impact": 4
     }
   ]
