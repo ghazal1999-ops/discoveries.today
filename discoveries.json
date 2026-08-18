@@ -1,23 +1,7 @@
 {
-  "date": "2026-08-17",
-  "last_updated": "2026-08-17 23:13 UTC",
+  "date": "2026-08-18",
+  "last_updated": "2026-08-18 23:12 UTC",
   "items": [
-    {
-      "title": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
-      "summary": "An experimental Alzheimer’s compound prevented damaging protein clumps from forming in the brains of mice, helping nerve cells survive longer and reducing amyloid buildup. The treatment also appeared to improve heart health and slow some signs of aging, raising hopes for an entirely new way to comba",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm",
-      "impact": 4
-    },
-    {
-      "title": "A black hole shredded a “super sun” — but something strange may have survived",
-      "summary": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released about 400 billion times the Sun’s energy and sent a shock wave racing outward at one-fifth the speed o",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
-      "impact": 4
-    },
     {
       "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
       "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativi",
@@ -35,11 +19,27 @@
       "impact": 4
     },
     {
-      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
-      "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other extinct Pleistocene amphibian has ever been identified in North America. Its bones",
-      "category": "Biology",
+      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
+      "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window int",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+      "impact": 4
+    },
+    {
+      "title": "The bacteria that make cheese taste so good may also benefit your gut",
+      "summary": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduce",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+      "impact": 4
+    },
+    {
+      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
+      "summary": "Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient mystery may also help determine whether complex life could emerge on worlds beyond ",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
       "impact": 4
     }
   ]
