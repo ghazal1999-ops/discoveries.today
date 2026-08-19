@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-18",
-  "last_updated": "2026-08-18 23:12 UTC",
+  "date": "2026-08-19",
+  "last_updated": "2026-08-19 23:14 UTC",
   "items": [
     {
-      "title": "Scientists tracked kids for 8 years — the screen time result was unexpected",
-      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativi",
-      "category": "Science",
+      "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
+      "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+      "impact": 5
+    },
+    {
+      "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
+      "summary": "Traveling electrical waves sweeping across the brain may help determine what we notice, predict what comes next, and construct our internal picture of the world. Researchers now argue that these waves aren't just background activity—they could be a core computational engine behind perception and mem",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
       "impact": 4
     },
     {
-      "title": "Animals have been eating nature’s original bioplastic for millions of years",
-      "summary": "Nature invented biodegradable plastic long before humans did—and animals may have been feeding on it for hundreds of millions of years. Researchers discovered that dozens of animal species possess enzymes capable of breaking down microbial bioplastics called PHAs, a talent once thought to belong onl",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
-      "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window int",
+      "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
+      "summary": "A tomb in Egypt’s Theban Necropolis reveals a surprisingly organized story of burial, reuse, and changing beliefs spanning hundreds of years. Researchers found 16 mummified people, the remains of at least four more, and a mummified dog, with burials ranging from wealthy individuals laid in coffins w",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
       "impact": 4
     },
     {
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
-      "summary": "Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient mystery may also help determine whether complex life could emerge on worlds beyond ",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
+      "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
+      "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say. Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to be",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
       "impact": 4
     }
   ]
