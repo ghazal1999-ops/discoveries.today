@@ -1,45 +1,45 @@
 {
-  "date": "2026-08-19",
-  "last_updated": "2026-08-19 23:14 UTC",
+  "date": "2026-08-20",
+  "last_updated": "2026-08-20 23:16 UTC",
   "items": [
     {
-      "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
-      "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered",
-      "category": "Medicine",
+      "title": "Scientists say the human family tree may need a major rewrite",
+      "summary": "The human family tree may be due for a major rewrite. Researchers argue that Australopithecus and Paranthropus should be folded into the genus Homo because new fossils have blurred many of the traits once used to separate them. The proposed shake-up could provide a simpler, more accurate picture of ",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
       "impact": 5
     },
     {
-      "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
-      "summary": "Traveling electrical waves sweeping across the brain may help determine what we notice, predict what comes next, and construct our internal picture of the world. Researchers now argue that these waves aren't just background activity—they could be a core computational engine behind perception and mem",
+      "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
+      "summary": "Extreme experiments have revealed how diamond behaves at crushing pressures beyond those inside Neptune and Uranus, resolving a decades-old conflict between theory and observation. The results could help scientists boost fusion energy output while revealing more about the exotic diamond rain hidden ",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
+      "impact": 4
+    },
+    {
+      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+      "summary": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and magn",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
       "impact": 4
     },
     {
-      "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
-      "summary": "A tomb in Egypt’s Theban Necropolis reveals a surprisingly organized story of burial, reuse, and changing beliefs spanning hundreds of years. Researchers found 16 mummified people, the remains of at least four more, and a mummified dog, with burials ranging from wealthy individuals laid in coffins w",
+      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+      "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a le",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
       "impact": 4
     },
     {
-      "title": "The bacteria that make cheese taste so good may also benefit your gut",
-      "summary": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduce",
-      "category": "Medicine",
+      "title": "Researchers reveal deeper workings of brain’s information hub",
+      "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more ac",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
-      "impact": 4
-    },
-    {
-      "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
-      "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say. Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to be",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
       "impact": 4
     }
   ]
