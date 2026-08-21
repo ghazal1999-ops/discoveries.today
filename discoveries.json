@@ -1,29 +1,29 @@
 {
-  "date": "2026-08-20",
-  "last_updated": "2026-08-20 23:16 UTC",
+  "date": "2026-08-21",
+  "last_updated": "2026-08-21 23:14 UTC",
   "items": [
     {
-      "title": "Scientists say the human family tree may need a major rewrite",
-      "summary": "The human family tree may be due for a major rewrite. Researchers argue that Australopithecus and Paranthropus should be folded into the genus Homo because new fossils have blurred many of the traits once used to separate them. The proposed shake-up could provide a simpler, more accurate picture of ",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "category": "Science",
+      "source": "bbc.co.uk",
+      "source_url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "impact": 5
     },
     {
-      "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
-      "summary": "Extreme experiments have revealed how diamond behaves at crushing pressures beyond those inside Neptune and Uranus, resolving a decades-old conflict between theory and observation. The results could help scientists boost fusion energy output while revealing more about the exotic diamond rain hidden ",
-      "category": "Space",
+      "title": "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years",
+      "summary": "Scientists have identified exceptionally rare soft tissue preserved in a 450-million-year-old crinoid fossil, more than 200 million years older than the first dinosaurs. Its delicate tube feet offer a remarkable new window into how some of Earth’s earliest reef animals lived, fed, and evolved.",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
       "impact": 4
     },
     {
-      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
-      "summary": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and magn",
+      "title": "This weight-loss hormone may protect the liver even without weight loss",
+      "summary": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously unknown brain-to-liver pathway that triggers the release of glucoc",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
       "impact": 4
     },
     {
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Researchers reveal deeper workings of brain’s information hub",
-      "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more ac",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
+      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+      "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were al",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
       "impact": 4
     }
   ]
