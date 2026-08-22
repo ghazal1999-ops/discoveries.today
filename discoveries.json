@@ -1,7 +1,15 @@
 {
-  "date": "2026-08-21",
-  "last_updated": "2026-08-21 23:14 UTC",
+  "date": "2026-08-22",
+  "last_updated": "2026-08-22 23:11 UTC",
   "items": [
+    {
+      "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
+      "summary": "A tiny, fully intact Indigenous pot buried for roughly 400 years has left archaeologists wondering why such a usable object was deliberately abandoned. Found at a historic Potano-Timucua village in Florida, the mysterious vessel is helping reveal a complex world of Native traditions, Spanish influen",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm",
+      "impact": 5
+    },
     {
       "title": "El Niño set to be 'strongest in living memory', says Met Office",
       "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
@@ -9,14 +17,6 @@
       "source": "bbc.co.uk",
       "source_url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "impact": 5
-    },
-    {
-      "title": "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years",
-      "summary": "Scientists have identified exceptionally rare soft tissue preserved in a 450-million-year-old crinoid fossil, more than 200 million years older than the first dinosaurs. Its delicate tube feet offer a remarkable new window into how some of Earth’s earliest reef animals lived, fed, and evolved.",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
-      "impact": 4
     },
     {
       "title": "This weight-loss hormone may protect the liver even without weight loss",
@@ -27,11 +27,11 @@
       "impact": 4
     },
     {
-      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
-      "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a le",
+      "title": "JWST finds early galaxies may be 4 times more massive than thought",
+      "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than previous estimates. The finding makes it even harder to explain how enormous, mature ga",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
       "impact": 4
     },
     {
