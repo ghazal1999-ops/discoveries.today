@@ -1,13 +1,21 @@
 {
-  "date": "2026-08-22",
-  "last_updated": "2026-08-22 23:11 UTC",
+  "date": "2026-08-23",
+  "last_updated": "2026-08-23 23:11 UTC",
   "items": [
     {
-      "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
-      "summary": "A tiny, fully intact Indigenous pot buried for roughly 400 years has left archaeologists wondering why such a usable object was deliberately abandoned. Found at a historic Potano-Timucua village in Florida, the mysterious vessel is helping reveal a complex world of Native traditions, Spanish influen",
-      "category": "Science",
+      "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
+      "summary": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making memory circuits unusually active. That early hyperactivity predicted worse memory la",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260821012234.htm",
+      "impact": 5
+    },
+    {
+      "title": "A hidden “on switch” in human DNA has finally been decoded",
+      "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventu",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
       "impact": 5
     },
     {
@@ -19,11 +27,11 @@
       "impact": 5
     },
     {
-      "title": "This weight-loss hormone may protect the liver even without weight loss",
-      "summary": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously unknown brain-to-liver pathway that triggers the release of glucoc",
-      "category": "AI & Tech",
+      "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
+      "summary": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter believed to have filled the cosmos shortly after the Big Bang. Even more intriguing",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
       "impact": 4
     },
     {
@@ -32,14 +40,6 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-      "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were al",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
       "impact": 4
     }
   ]
