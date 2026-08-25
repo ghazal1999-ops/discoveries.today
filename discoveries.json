@@ -1,37 +1,21 @@
 {
-  "date": "2026-08-24",
-  "last_updated": "2026-08-24 23:14 UTC",
+  "date": "2026-08-25",
+  "last_updated": "2026-08-25 23:17 UTC",
   "items": [
     {
-      "title": "A hidden “on switch” in human DNA has finally been decoded",
-      "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventu",
+      "title": "Depression may shut down the brain’s ability to make new neurons",
+      "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
       "impact": 5
     },
     {
-      "title": "A ghostly ribbon of stars reveals hidden dark matter",
-      "summary": "A faint ribbon of stars around a distant galaxy has become the first globular cluster stellar stream ever identified beyond the Milky Way. Because the stars trace the galaxy’s gravity, researchers used the stream to estimate how much invisible dark matter surrounds it and how that matter is distribu",
-      "category": "Space",
+      "title": "Scientists find hidden “highways” guiding animal evolution",
+      "summary": "A sweeping analysis of thousands of animal genomes suggests that chromosomes do not evolve randomly but instead follow a limited number of irreversible “evolutionary highways.” These one-way genetic changes preserve clues to more than 600 million years of animal history and could even help researche",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823015000.htm",
-      "impact": 5
-    },
-    {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "category": "Science",
-      "source": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "impact": 5
-    },
-    {
-      "title": "Scientists discover a real-life “dragon” and name it after Syrax",
-      "summary": "Scientists discovered a small, yellowish mountain horned dragon in Thailand and named it Acanthosaura syrax after a dragon from House of the Dragon. Found only in a narrow band of high-elevation forest, the distinctive new species could become a flagship for protecting its rare mountain habitat.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823015005.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
       "impact": 4
     },
     {
@@ -40,6 +24,22 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+      "impact": 4
+    },
+    {
+      "title": "Atomic catalyst unlocks the hidden value of plant waste",
+      "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable ",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA finds Earth microbes could survive on the Moon",
+      "summary": "NASA scientists found that microbes brought by astronauts could survive in cold, shadowed niches around the Moon’s South Pole, potentially complicating future searches for pristine lunar chemistry. Some refuges may be no larger than a footprint, while one hardy fungus could even withstand limited ex",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823094142.htm",
       "impact": 4
     }
   ]
