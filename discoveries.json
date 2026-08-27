@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-25",
-  "last_updated": "2026-08-25 23:17 UTC",
+  "date": "2026-08-27",
+  "last_updated": "2026-08-27 04:08 UTC",
   "items": [
     {
-      "title": "Depression may shut down the brain’s ability to make new neurons",
-      "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments",
+      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+      "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction witho",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+      "impact": 4
     },
     {
       "title": "Scientists find hidden “highways” guiding animal evolution",
@@ -16,14 +16,6 @@
       "category": "Biology",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
-      "impact": 4
-    },
-    {
-      "title": "Too much or too little sleep may make your body age faster",
-      "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the br",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
       "impact": 4
     },
     {
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "NASA finds Earth microbes could survive on the Moon",
-      "summary": "NASA scientists found that microbes brought by astronauts could survive in cold, shadowed niches around the Moon’s South Pole, potentially complicating future searches for pristine lunar chemistry. Some refuges may be no larger than a footprint, while one hardy fungus could even withstand limited ex",
-      "category": "Space",
+      "title": "190-year-old DNA reveals a hidden pangolin species",
+      "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260823094142.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
+      "impact": 4
+    },
+    {
+      "title": "Common medications may change your gut for years",
+      "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects we",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
       "impact": 4
     }
   ]
