@@ -1,7 +1,23 @@
 {
-  "date": "2026-08-27",
-  "last_updated": "2026-08-27 04:08 UTC",
+  "date": "2026-08-28",
+  "last_updated": "2026-08-28 06:25 UTC",
   "items": [
+    {
+      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
+      "summary": "Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a major portion of the signal, offering a surprising new way to investigate cosmic dawn and dark matter.",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+      "impact": 5
+    },
+    {
+      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+      "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently diffi",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "impact": 4
+    },
     {
       "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
       "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction witho",
@@ -11,35 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Scientists find hidden “highways” guiding animal evolution",
-      "summary": "A sweeping analysis of thousands of animal genomes suggests that chromosomes do not evolve randomly but instead follow a limited number of irreversible “evolutionary highways.” These one-way genetic changes preserve clues to more than 600 million years of animal history and could even help researche",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
-      "impact": 4
-    },
-    {
-      "title": "Atomic catalyst unlocks the hidden value of plant waste",
-      "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable ",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
-      "impact": 4
-    },
-    {
-      "title": "190-year-old DNA reveals a hidden pangolin species",
-      "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions",
+      "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
+      "summary": "Scientists have found a surprising way to potentially switch on an unusual form of magnetism in ruthenium dioxide, a material that normally appears nonmagnetic. When the material was made into an ultrathin film only a few atomic layers thick and placed under strain, its electrons developed patterns ",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
       "impact": 4
     },
     {
-      "title": "Common medications may change your gut for years",
-      "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects we",
-      "category": "Medicine",
+      "title": "324-million-year-old fossil reveals how insects conquered land",
+      "summary": "Ancient fossils suggest insects conquered land through a long amphibious phase rather than making an abrupt jump from water to dry ground. A newly identified 324-million-year-old species still carried paddle-like abdominal limbs, revealing an evolutionary bridge between aquatic ancestors and modern ",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
       "impact": 4
     }
   ]
