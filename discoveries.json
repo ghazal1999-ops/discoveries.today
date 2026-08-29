@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-28",
-  "last_updated": "2026-08-28 06:25 UTC",
+  "date": "2026-08-29",
+  "last_updated": "2026-08-29 03:58 UTC",
   "items": [
     {
       "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
@@ -19,27 +19,27 @@
       "impact": 4
     },
     {
-      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-      "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction witho",
+      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
+      "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
       "impact": 4
     },
     {
-      "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
-      "summary": "Scientists have found a surprising way to potentially switch on an unusual form of magnetism in ruthenium dioxide, a material that normally appears nonmagnetic. When the material was made into an ultrathin film only a few atomic layers thick and placed under strain, its electrons developed patterns ",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
-      "impact": 4
-    },
-    {
-      "title": "324-million-year-old fossil reveals how insects conquered land",
-      "summary": "Ancient fossils suggest insects conquered land through a long amphibious phase rather than making an abrupt jump from water to dry ground. A newly identified 324-million-year-old species still carried paddle-like abdominal limbs, revealing an evolutionary bridge between aquatic ancestors and modern ",
+      "title": "Scientists tracked 4,500 animals and found a surprising human effect",
+      "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because different species reacted in very different ways, conservation efforts may need to become much more targe",
       "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists find a huge hidden ice reservoir beneath Utah’s mountains",
+      "summary": "Beneath the rocky slopes of Mount Timpanogos lies far more ice than anyone walking across the surface might suspect. Researchers used gravity measurements to map the buried glacier in 3D and found it is about 83% ice, with enough frozen water to fill 600 Olympic swimming pools. Their findings sugges",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010459.htm",
       "impact": 4
     }
   ]
