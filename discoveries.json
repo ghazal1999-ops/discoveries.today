@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-29",
-  "last_updated": "2026-08-29 03:58 UTC",
+  "date": "2026-08-30",
+  "last_updated": "2026-08-30 00:54 UTC",
   "items": [
     {
-      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
-      "summary": "Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a major portion of the signal, offering a surprising new way to investigate cosmic dawn and dark matter.",
-      "category": "Space",
+      "title": "Australia’s red soil may be hiding a massive clean energy source",
+      "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath the Pilbara could become a major new source of low-emission energy for Australi",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
       "impact": 5
     },
     {
-      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
-      "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently diffi",
-      "category": "Space",
+      "title": "The universe is still speeding up, but nobody knows why",
+      "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while leaving scientists with the enduring mystery of what this strange cosmic force actual",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
+      "impact": 5
     },
     {
       "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
@@ -27,19 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Scientists tracked 4,500 animals and found a surprising human effect",
-      "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because different species reacted in very different ways, conservation efforts may need to become much more targe",
-      "category": "Biology",
+      "title": "Scientists turn one of the hardest plastics to recycle into high-performance engine lubricant",
+      "summary": "Researchers have discovered a way to turn notoriously difficult-to-recycle PVC plastic into a key ingredient used in high-performance lubricants such as engine oil. The technique could give mountains of plastic waste a valuable second life while making lubricant production more sustainable.",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm",
       "impact": 4
     },
     {
-      "title": "Scientists find a huge hidden ice reservoir beneath Utah’s mountains",
-      "summary": "Beneath the rocky slopes of Mount Timpanogos lies far more ice than anyone walking across the surface might suspect. Researchers used gravity measurements to map the buried glacier in 3D and found it is about 83% ice, with enough frozen water to fill 600 Olympic swimming pools. Their findings sugges",
-      "category": "AI & Tech",
+      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+      "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions of cosmic objects, and help scientists unravel the mysteries of dark matter and",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260827010459.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
       "impact": 4
     }
   ]
