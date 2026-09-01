@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-31",
-  "last_updated": "2026-08-31 01:00 UTC",
+  "date": "2026-09-01",
+  "last_updated": "2026-09-01 01:30 UTC",
   "items": [
     {
       "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
@@ -19,27 +19,27 @@
       "impact": 5
     },
     {
-      "title": "Australia’s red soil may be hiding a massive clean energy source",
-      "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath the Pilbara could become a major new source of low-emission energy for Australi",
+      "title": "Popular sweeteners may leave effects that last for generations",
+      "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes inv",
       "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
-      "impact": 5
-    },
-    {
-      "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
-      "summary": "Weapons buried with ancient Egyptian princesses may have been more than ceremonial decorations. Researchers studying royal mummies from Dahshur found bone changes consistent with years of archery and other strenuous weapon use. Several women also showed evidence of healed injuries, suggesting surpri",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
       "impact": 4
     },
     {
-      "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-      "summary": "Scientists have discovered seven new species of Madagascar’s elusive diamond frogs, using DNA from modern and century-old museum specimens to solve a long-running biological puzzle. The findings reveal surprising hidden diversity and could help protect these little-known amphibians as their forest h",
-      "category": "Biology",
+      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+      "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an an",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists discover diamonds can generate electricity",
+      "summary": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery could open the door to diamond-powered sensors, tiny energy systems, and self-po",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
       "impact": 4
     }
   ]
