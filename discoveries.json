@@ -1,22 +1,14 @@
 {
-  "date": "2026-09-01",
-  "last_updated": "2026-09-01 01:30 UTC",
+  "date": "2026-09-02",
+  "last_updated": "2026-09-02 00:40 UTC",
   "items": [
     {
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. ",
+      "title": "Scientists find a human-only gene that may help explain our brainpower",
+      "summary": "Scientists discovered that human microglia, immune cells that help shape developing brain circuits, can take four to eight years to mature instead of just weeks as they do in mice. The unusually slow process may help explain how the human brain develops its remarkable complexity and cognitive abilit",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-      "impact": 5
-    },
-    {
-      "title": "This strange “spacetime crystal” can suddenly become a black hole",
-      "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, potentially giving researchers a new tool f",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm",
+      "impact": 4
     },
     {
       "title": "Popular sweeteners may leave effects that last for generations",
@@ -27,19 +19,27 @@
       "impact": 4
     },
     {
+      "title": "Scientists discover why snake embryos twist into spirals",
+      "summary": "Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and twist inside the egg. Researchers reached the conclusion after studying more than ",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA’s Swift telescope is back, but time is running out",
+      "summary": "NASA has brought two of Swift’s telescopes back online after technical problems derailed a commercial mission intended to rescue the aging observatory by raising its orbit. With atmospheric drag pulling the spacecraft downward faster than expected, scientists may have only another month or two befor",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
+      "impact": 4
+    },
+    {
       "title": "Scientists challenge a 70-year-old “lizard brain” myth",
       "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an an",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover diamonds can generate electricity",
-      "summary": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery could open the door to diamond-powered sensors, tiny energy systems, and self-po",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
       "impact": 4
     }
   ]
