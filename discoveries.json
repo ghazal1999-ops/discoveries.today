@@ -1,21 +1,21 @@
 {
-  "date": "2026-09-06",
-  "last_updated": "2026-09-06 00:23 UTC",
+  "date": "2026-09-07",
+  "last_updated": "2026-09-07 00:30 UTC",
   "items": [
+    {
+      "title": "80,000-year-old “arrowheads” rewrite human history",
+      "summary": "Archaeologists have identified tiny 80,000-year-old projectile points in Uzbekistan that may have been used like arrowheads. Their size, design, and impact damage closely resemble weapons found much later at a Homo sapiens site in France. The discovery suggests sophisticated projectile technology ma",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
+      "impact": 5
+    },
     {
       "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
       "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-      "impact": 4
-    },
-    {
-      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-      "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the comp",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
       "impact": 4
     },
     {
@@ -27,11 +27,11 @@
       "impact": 4
     },
     {
-      "title": "New injectable treatment helps the brain rebuild after stroke",
-      "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to hel",
-      "category": "AI & Tech",
+      "title": "Scientists find a weak spot in one of the deadliest brain cancers",
+      "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable to radiation. The strategy works by restoring activity of PP",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
       "impact": 4
     },
     {
