@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-08",
-  "last_updated": "2026-09-08 00:48 UTC",
+  "date": "2026-09-09",
+  "last_updated": "2026-09-09 00:52 UTC",
   "items": [
     {
-      "title": "80,000-year-old “arrowheads” rewrite human history",
-      "summary": "Archaeologists have identified tiny 80,000-year-old projectile points in Uzbekistan that may have been used like arrowheads. Their size, design, and impact damage closely resemble weapons found much later at a Homo sapiens site in France. The discovery suggests sophisticated projectile technology ma",
-      "category": "Science",
+      "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
+      "summary": "Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein’s foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom’s quantum wave so that one part was held in place while the other fell freely under gravity, then reunit",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
-      "impact": 5
-    },
-    {
-      "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-      "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
       "impact": 4
     },
     {
-      "title": "Scientists reveal the hidden instructions that build the human brain",
-      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving fr",
+      "title": "A War of 1812 soldier buried his own arm. His real story is even stranger",
+      "summary": "A rediscovered memoir reveals that celebrated War of 1812 veteran Shadrack Byfield was far more rebellious and troubled than history has portrayed, battling chronic pain, poverty, authorities, and even rivals at his local chapel. The soldier who buried his own amputated arm and invented a custom pro",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260906170138.htm",
       "impact": 4
     },
     {
-      "title": "Scientists find a weak spot in one of the deadliest brain cancers",
-      "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable to radiation. The strategy works by restoring activity of PP",
+      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+      "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generat",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+      "summary": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewe",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+      "impact": 4
+    },
+    {
+      "title": "Your gut microbiome may be more contagious than scientists thought",
+      "summary": "Scientists have found evidence that some gut bacterial populations can spread rapidly between people and across continents, suggesting the microbiome may be more transmissible than previously thought. The research also revealed hidden bacterial groups associated with aging, colorectal cancer, inflam",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
-      "summary": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observat",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm",
       "impact": 4
     }
   ]
