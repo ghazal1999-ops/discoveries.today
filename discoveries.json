@@ -1,21 +1,37 @@
 {
-  "date": "2026-09-09",
-  "last_updated": "2026-09-09 00:52 UTC",
+  "date": "2026-09-10",
+  "last_updated": "2026-09-10 00:43 UTC",
   "items": [
     {
-      "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
-      "summary": "Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein’s foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom’s quantum wave so that one part was held in place while the other fell freely under gravity, then reunit",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
-      "impact": 4
-    },
-    {
-      "title": "A War of 1812 soldier buried his own arm. His real story is even stranger",
-      "summary": "A rediscovered memoir reveals that celebrated War of 1812 veteran Shadrack Byfield was far more rebellious and troubled than history has portrayed, battling chronic pain, poverty, authorities, and even rivals at his local chapel. The soldier who buried his own amputated arm and invented a custom pro",
+      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
+      "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago. The discovery reveals an astonishing feat of prehistoric engineering and suggests the stones’ distant source may have been chosen for cultural or spiritual reaso",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260906170138.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "impact": 5
+    },
+    {
+      "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
+      "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satell",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
+      "impact": 5
+    },
+    {
+      "title": "Have we found alien life? Hundreds of scientists weigh in",
+      "summary": "Two major alien-life announcements in 2025 generated enormous excitement, but most astrobiologists remained unconvinced. Only 6.6% of surveyed experts thought possible biological molecules on K2-18b probably represented extraterrestrial life, while 15.1% said the same about intriguing mineral patter",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
+      "impact": 5
+    },
+    {
+      "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
+      "summary": "Insects quietly hold much of the natural world together, yet conservation efforts are overlooking the tropical regions where more than 80 percent of insect species live. Monash University researchers have developed a global framework to close this gap by combining scientific studies with museum coll",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
       "impact": 4
     },
     {
@@ -24,22 +40,6 @@
       "category": "Biology",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
-      "summary": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewe",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-      "impact": 4
-    },
-    {
-      "title": "Your gut microbiome may be more contagious than scientists thought",
-      "summary": "Scientists have found evidence that some gut bacterial populations can spread rapidly between people and across continents, suggesting the microbiome may be more transmissible than previously thought. The research also revealed hidden bacterial groups associated with aging, colorectal cancer, inflam",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm",
       "impact": 4
     }
   ]
