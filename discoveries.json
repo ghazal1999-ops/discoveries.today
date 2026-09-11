@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-10",
-  "last_updated": "2026-09-10 00:43 UTC",
+  "date": "2026-09-11",
+  "last_updated": "2026-09-11 00:41 UTC",
   "items": [
     {
       "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
@@ -11,19 +11,19 @@
       "impact": 5
     },
     {
-      "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-      "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satell",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-      "impact": 5
-    },
-    {
       "title": "Have we found alien life? Hundreds of scientists weigh in",
       "summary": "Two major alien-life announcements in 2025 generated enormous excitement, but most astrobiologists remained unconvinced. Only 6.6% of surveyed experts thought possible biological molecules on K2-18b probably represented extraterrestrial life, while 15.1% said the same about intriguing mineral patter",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
+      "impact": 5
+    },
+    {
+      "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+      "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+      "category": "Science",
+      "source": "bbc.co.uk",
+      "source_url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
       "impact": 5
     },
     {
