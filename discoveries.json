@@ -1,23 +1,7 @@
 {
-  "date": "2026-09-11",
-  "last_updated": "2026-09-11 00:41 UTC",
+  "date": "2026-09-12",
+  "last_updated": "2026-09-12 00:48 UTC",
   "items": [
-    {
-      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
-      "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago. The discovery reveals an astonishing feat of prehistoric engineering and suggests the stones’ distant source may have been chosen for cultural or spiritual reaso",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "impact": 5
-    },
-    {
-      "title": "Have we found alien life? Hundreds of scientists weigh in",
-      "summary": "Two major alien-life announcements in 2025 generated enormous excitement, but most astrobiologists remained unconvinced. Only 6.6% of surveyed experts thought possible biological molecules on K2-18b probably represented extraterrestrial life, while 15.1% said the same about intriguing mineral patter",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
-      "impact": 5
-    },
     {
       "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
       "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
@@ -27,19 +11,35 @@
       "impact": 5
     },
     {
-      "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
-      "summary": "Insects quietly hold much of the natural world together, yet conservation efforts are overlooking the tropical regions where more than 80 percent of insect species live. Monash University researchers have developed a global framework to close this gap by combining scientific studies with museum coll",
+      "title": "Scientists discover the human heart can regrow muscle after a heart attack",
+      "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists now hope to identify ways to dramatically boost this natural repair process, po",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
       "impact": 4
     },
     {
-      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-      "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generat",
+      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
+      "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as cli",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+      "impact": 4
+    },
+    {
+      "title": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
+      "summary": "UCLA researchers developed ready-made cancer-fighting T cells from cord blood stem cells that can attack solid tumors through two separate detection systems. In mice, a single dose controlled cancer and extended survival while avoiding a dangerous complication associated with donor-derived T-cell th",
       "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
+      "impact": 4
+    },
+    {
+      "title": "The Moon may have formed intact just hours after a giant collision",
+      "summary": "Scientists have discovered that the Moon-forming collision may have depended heavily on how hot and physically strong early Earth and Theia were. New simulations found that some impacts create the familiar disk of debris that later becomes the Moon, while others can produce an intact Moon in only ab",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
       "impact": 4
     }
   ]
