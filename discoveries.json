@@ -1,7 +1,23 @@
 {
-  "date": "2026-09-13",
-  "last_updated": "2026-09-13 00:30 UTC",
+  "date": "2026-09-14",
+  "last_updated": "2026-09-14 00:32 UTC",
   "items": [
+    {
+      "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
+      "summary": "Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Collider, researchers measured particle production at unprecedented spatial resolution, revealing structu",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
+      "impact": 5
+    },
+    {
+      "title": "Physicists can’t agree on how the Universe works",
+      "summary": "A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe’s biggest mysteries. No majority backed the standard cosmological model, a leading explanation for dark matter, or any single theory of quantum gravity. One area of stronger agreement stood",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
+      "impact": 5
+    },
     {
       "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
       "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
@@ -11,35 +27,19 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover the human heart can regrow muscle after a heart attack",
-      "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists now hope to identify ways to dramatically boost this natural repair process, po",
-      "category": "AI & Tech",
+      "title": "Global warming is breaking a 400-year climate link between two oceans",
+      "summary": "The Indian and Pacific oceans have been climatically linked for centuries, but scientists say that connection is now breaking down in an exceptional way. Ancient climate records suggest volcanoes disrupted the relationship in the past, while today human-caused warming appears to be driving a much mo",
+      "category": "Climate",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260912220029.htm",
       "impact": 4
     },
     {
-      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
-      "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as cli",
-      "category": "AI & Tech",
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlook",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
-      "impact": 4
-    },
-    {
-      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope ans",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-      "impact": 4
-    },
-    {
-      "title": "Wasps are disappearing this summer, and scientists are worried",
-      "summary": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape inse",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
       "impact": 4
     }
   ]
