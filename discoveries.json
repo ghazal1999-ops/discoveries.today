@@ -1,15 +1,7 @@
 {
-  "date": "2026-09-14",
-  "last_updated": "2026-09-14 00:32 UTC",
+  "date": "2026-09-15",
+  "last_updated": "2026-09-15 01:04 UTC",
   "items": [
-    {
-      "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
-      "summary": "Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Collider, researchers measured particle production at unprecedented spatial resolution, revealing structu",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
-      "impact": 5
-    },
     {
       "title": "Physicists can’t agree on how the Universe works",
       "summary": "A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe’s biggest mysteries. No majority backed the standard cosmological model, a leading explanation for dark matter, or any single theory of quantum gravity. One area of stronger agreement stood",
@@ -19,19 +11,27 @@
       "impact": 5
     },
     {
-      "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
-      "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
-      "category": "Science",
-      "source": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
-      "impact": 5
+      "title": "Cancer is rising in younger adults. Faster biological aging may help explain why",
+      "summary": "Cancer rates are rising in adults under 55, and new research suggests accelerated biological aging may be one piece of the puzzle. Scientists found that people from more recent generations tended to have bodies that appeared biologically older than those of earlier generations at the same chronologi",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260913082200.htm",
+      "impact": 4
     },
     {
-      "title": "Global warming is breaking a 400-year climate link between two oceans",
-      "summary": "The Indian and Pacific oceans have been climatically linked for centuries, but scientists say that connection is now breaking down in an exceptional way. Ancient climate records suggest volcanoes disrupted the relationship in the past, while today human-caused warming appears to be driving a much mo",
-      "category": "Climate",
+      "title": "Chemistry textbooks have been getting this wrong for nearly 100 years",
+      "summary": "A foundational chemistry concept found in textbooks for almost 100 years may have been taught incorrectly. Researchers say the inductive effect in neutral molecules appears to extend only across one chemical bond, rather than gradually weakening over three or four bonds as traditionally taught. The ",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260912220029.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
+      "impact": 4
+    },
+    {
+      "title": "Crocodiles are famous for finding their way home. These ones didn’t",
+      "summary": "Captive-raised saltwater crocodiles released into Bangladesh’s Sundarbans surprised scientists by settling into the wild rather than trying to return to their breeding facility. The result suggests that releasing larger, mature captive crocodiles could help restore depleted populations more successf",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260913081913.htm",
       "impact": 4
     },
     {
