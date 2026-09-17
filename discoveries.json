@@ -1,7 +1,15 @@
 {
-  "date": "2026-09-16",
-  "last_updated": "2026-09-16 00:53 UTC",
+  "date": "2026-09-17",
+  "last_updated": "2026-09-17 00:57 UTC",
   "items": [
+    {
+      "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
+      "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s water may have been present much closer to the young Sun than scientists previously thought.",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm",
+      "impact": 5
+    },
     {
       "title": "Scientists discover a major brain shift between ages 50 and 75",
       "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, w",
@@ -11,36 +19,28 @@
       "impact": 5
     },
     {
-      "title": "Plague was killing entire families thousands of years before the Black Death",
-      "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carried a genetic factor capable of provoking severe immune reactions.",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
+      "title": "Passion Meets Precision at NASA’s Flight Research Lab",
+      "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Re",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
       "impact": 5
     },
     {
-      "title": "Supermassive black hole winds are 100 times more powerful than scientists thought",
-      "summary": "Astronomers have discovered that winds from a supermassive black hole are about 100 times more powerful than previously thought. XRISM observations showed the resulting turbulence spreading roughly 300,000 light-years, extending far beyond the black hole’s host galaxy. The energy involved rivals sev",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260914102429.htm",
-      "impact": 4
-    },
-    {
-      "title": "Cancer is rising in younger adults. Faster biological aging may help explain why",
-      "summary": "Cancer rates are rising in adults under 55, and new research suggests accelerated biological aging may be one piece of the puzzle. Scientists found that people from more recent generations tended to have bodies that appeared biologically older than those of earlier generations at the same chronologi",
+      "title": "Scientists recreated what mice saw from brain activity alone",
+      "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260913082200.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+      "impact": 5
     },
     {
-      "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
-      "summary": "A 125-million-year-old crocodile fossil has revealed preserved skin, possible sensory organs, sophisticated respiratory structures, and an unexpected pattern on its tail. Ultraviolet light exposed alternating bands that may represent ancient camouflage, potentially preserving the oldest known colora",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "summary": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
       "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
-      "impact": 4
+      "source": "bbc.co.uk",
+      "source_url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+      "impact": 5
     }
   ]
 }
