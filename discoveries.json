@@ -1,22 +1,14 @@
 {
-  "date": "2026-09-22",
-  "last_updated": "2026-09-22 01:21 UTC",
+  "date": "2026-09-23",
+  "last_updated": "2026-09-23 01:04 UTC",
   "items": [
     {
-      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
-      "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to keep",
-      "category": "Physics",
+      "title": "For the first time, scientists watch sound jump between quantum states",
+      "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
-      "impact": 4
-    },
-    {
-      "title": "Stanford scientists discover the human brain may actually be two separate organs",
-      "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery also allowed researchers to grow human hindbrain neurons in the lab, opening new possibilities for stud",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+      "impact": 5
     },
     {
       "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
@@ -27,19 +19,27 @@
       "impact": 4
     },
     {
-      "title": "A new process turns plastic waste into gasoline and diesel fuel",
-      "summary": "Scientists at Oak Ridge National Laboratory have developed a surprisingly simple way to turn polyethylene, the common plastic used in shopping bags and cutting boards, into gasoline and diesel-like fuels. The process uses inexpensive aluminum-based molten salts to break long plastic molecules into s",
-      "category": "Climate",
+      "title": "Humpback whale mother may have mourned her dead calf for days",
+      "summary": "Researchers observed a humpback whale mother staying beside her presumed stillborn calf for hours and possibly days off Australia’s Gold Coast. She maintained eye contact and remained close to the calf in behavior resembling caregiving and nurturing. Scientists say the rare observation may provide n",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081050.htm",
       "impact": 4
     },
     {
-      "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
-      "summary": "Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath Italy’s Gran Sasso mountain, researchers searched for an extremely faint radiation signal predicted by a theory suggesti",
-      "category": "Space",
+      "title": "This new concrete is stronger and pulls CO2 from the air",
+      "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete. It also captured about 1.2 grams ",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
+      "impact": 4
+    },
+    {
+      "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
+      "summary": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was blasted into Earth roughly 390 million years ago.",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
       "impact": 4
     }
   ]
