@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-23",
-  "last_updated": "2026-09-23 01:04 UTC",
+  "date": "2026-09-24",
+  "last_updated": "2026-09-24 00:58 UTC",
   "items": [
     {
       "title": "For the first time, scientists watch sound jump between quantum states",
@@ -9,14 +9,6 @@
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
       "impact": 5
-    },
-    {
-      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
-      "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise, less invasive way to study the brain and may eventually help treat neurological dis",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
-      "impact": 4
     },
     {
       "title": "Humpback whale mother may have mourned her dead calf for days",
@@ -40,6 +32,14 @@
       "category": "Science",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA Modernizes Commercial Airline Systems",
+      "summary": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a hol",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
       "impact": 4
     }
   ]
