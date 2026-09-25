@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-24",
-  "last_updated": "2026-09-24 00:58 UTC",
+  "date": "2026-09-25",
+  "last_updated": "2026-09-25 01:00 UTC",
   "items": [
     {
-      "title": "For the first time, scientists watch sound jump between quantum states",
-      "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based",
-      "category": "Biology",
+      "title": "More REM sleep linked to lower risk of 83 diseases",
+      "summary": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including dementia, heart failure, and Parkinson’s disease, while more deep sleep was asso",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
       "impact": 5
     },
     {
-      "title": "Humpback whale mother may have mourned her dead calf for days",
-      "summary": "Researchers observed a humpback whale mother staying beside her presumed stillborn calf for hours and possibly days off Australia’s Gold Coast. She maintained eye contact and remained close to the calf in behavior resembling caregiving and nurturing. Scientists say the rare observation may provide n",
+      "title": "When what you see doesn’t make sense, your brain does something remarkable",
+      "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the br",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081050.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
       "impact": 4
     },
     {
-      "title": "This new concrete is stronger and pulls CO2 from the air",
-      "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete. It also captured about 1.2 grams ",
-      "category": "AI & Tech",
+      "title": "Scientists thought they knew how this 70-year-old leukemia drug worked",
+      "summary": "A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected result points to a hidden cellular role that could help explain why people respo",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260923035932.htm",
       "impact": 4
     },
     {
-      "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
-      "summary": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was blasted into Earth roughly 390 million years ago.",
-      "category": "Science",
+      "title": "Distant time crystals can somehow fall into the same rhythm",
+      "summary": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried by spin-polarized electrons, allowing time crystals separated by up to 40 micrometers to lock to a c",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
       "impact": 4
     },
     {
-      "title": "NASA Modernizes Commercial Airline Systems",
-      "summary": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a hol",
+      "title": "These massive stars could explain Webb’s strangest galaxies",
+      "summary": "Hubble observations of massive stars in metal-poor dwarf galaxies are revealing clues to why the early universe looks so unusual. Researchers found that stellar winds weaken sharply at extremely low metallicities, potentially allowing massive stars to retain more material and evolve in unexpected wa",
       "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260923035922.htm",
       "impact": 4
     }
   ]
