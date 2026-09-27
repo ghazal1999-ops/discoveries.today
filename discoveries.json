@@ -1,21 +1,37 @@
 {
-  "date": "2026-09-26",
-  "last_updated": "2026-09-26 01:03 UTC",
+  "date": "2026-09-27",
+  "last_updated": "2026-09-27 01:01 UTC",
   "items": [
     {
-      "title": "This “rare” autism-linked genetic disorder may be far more common than scientists thought",
-      "summary": "A major analysis suggests Phelan-McDermid syndrome, a genetic disorder closely linked to autism, may affect about 1 in 7,300 people and more than 45,000 Americans. Researchers warn that thousands of cases may remain hidden because genetic testing is often not performed, even as targeted treatments m",
-      "category": "Medicine",
+      "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
+      "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams as preparations accelerate for Artemis III and future lunar missions. Their exper",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
       "impact": 5
     },
     {
-      "title": "Scientists discover an “impossible” cellular survival pathway that could help fight cancer",
-      "summary": "Scientists discovered a surprising backup system that lets mammalian cells make the essential amino acid cysteine even when the pathways once considered indispensable are disabled. The same survival mechanism may help cancer cells resist treatment, raising the possibility that shutting it down could",
-      "category": "AI & Tech",
+      "title": "Quantum computer simulates matter “popping into existence”",
+      "summary": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang.",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260923035939.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+      "impact": 5
+    },
+    {
+      "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
+      "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, but neurons’ immediately available energy, measured as ATP, then drops. The finding suggests that drea",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
+      "impact": 4
+    },
+    {
+      "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
+      "summary": "Scientists discovered rare flavoalkaloids in Cannabis leaves for the first time, along with dozens of other phenolic compounds that had never been reported in the plant. The findings suggest that Cannabis leaves, often discarded as waste, may contain a surprisingly rich source of potentially useful ",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260924231711.htm",
       "impact": 4
     },
     {
@@ -24,22 +40,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
-      "impact": 4
-    },
-    {
-      "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
-      "summary": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity to help transform a vast cloud of gas and dust into the sun and planetary disk.",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists gave worms magnetic bacteria. They lived 43% longer",
-      "summary": "A magnet-producing bacterium extended the average lifespan of C. elegans worms by more than 43% while helping protect their neurological and intestinal health. Researchers traced much of the effect to suppression of ferroptosis, a damaging form of cell death linked to iron buildup and oxidative stre",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
       "impact": 4
     }
   ]
