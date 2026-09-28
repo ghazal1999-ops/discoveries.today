@@ -1,23 +1,7 @@
 {
-  "date": "2026-09-27",
-  "last_updated": "2026-09-27 01:01 UTC",
+  "date": "2026-09-28",
+  "last_updated": "2026-09-28 01:18 UTC",
   "items": [
-    {
-      "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
-      "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams as preparations accelerate for Artemis III and future lunar missions. Their exper",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
-      "impact": 5
-    },
-    {
-      "title": "Quantum computer simulates matter “popping into existence”",
-      "summary": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang.",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
-      "impact": 5
-    },
     {
       "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
       "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, but neurons’ immediately available energy, measured as ATP, then drops. The finding suggests that drea",
@@ -27,19 +11,35 @@
       "impact": 4
     },
     {
-      "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
-      "summary": "Scientists discovered rare flavoalkaloids in Cannabis leaves for the first time, along with dozens of other phenolic compounds that had never been reported in the plant. The findings suggest that Cannabis leaves, often discarded as waste, may contain a surprisingly rich source of potentially useful ",
+      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although research",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260924231711.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
       "impact": 4
     },
     {
-      "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
-      "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in the r",
+      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+      "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more ",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+      "impact": 4
+    },
+    {
+      "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+      "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea, but only where oxygen was available. Oxygen-free environments contained simple",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
+      "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happen",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
       "impact": 4
     }
   ]
