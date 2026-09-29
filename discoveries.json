@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-28",
-  "last_updated": "2026-09-28 01:18 UTC",
+  "date": "2026-09-29",
+  "last_updated": "2026-09-29 02:25 UTC",
   "items": [
     {
       "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
@@ -27,19 +27,19 @@
       "impact": 4
     },
     {
-      "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
-      "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea, but only where oxygen was available. Oxygen-free environments contained simple",
+      "title": "Scientists just discovered what coffee really does to your gut and brain",
+      "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
       "impact": 4
     },
     {
-      "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
-      "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really happen",
-      "category": "Space",
+      "title": "Scientists were wrong about this strange mammal for nearly 40 years",
+      "summary": "A beautifully preserved fossil from Mongolia’s Gobi Desert has solved a mystery that puzzled paleontologists for nearly 40 years. Tamirkhan balcarceli shows that zhelestids were not early relatives of modern placental mammals, despite having teeth that seemed to suggest they were. Instead, the rabbi",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
       "impact": 4
     }
   ]
