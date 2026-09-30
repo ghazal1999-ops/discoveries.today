@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-29",
-  "last_updated": "2026-09-29 02:25 UTC",
+  "date": "2026-09-30",
+  "last_updated": "2026-09-30 01:44 UTC",
   "items": [
     {
-      "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
-      "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, but neurons’ immediately available energy, measured as ATP, then drops. The finding suggests that drea",
+      "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+      "summary": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for organic compounds and ",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
       "impact": 4
     },
     {
@@ -19,11 +19,11 @@
       "impact": 4
     },
     {
-      "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-      "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more ",
-      "category": "AI & Tech",
+      "title": "Scientists expected these Galápagos sea turtles to wander. They stayed put",
+      "summary": "Yellow-morph green sea turtles in the Galápagos surprised scientists by staying remarkably close to home instead of making the long journeys typically associated with sea turtles. Satellite tracking showed that none left the marine reserve during the study, revealing just how important the islands’ ",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260927225032.htm",
       "impact": 4
     },
     {
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Scientists were wrong about this strange mammal for nearly 40 years",
-      "summary": "A beautifully preserved fossil from Mongolia’s Gobi Desert has solved a mystery that puzzled paleontologists for nearly 40 years. Tamirkhan balcarceli shows that zhelestids were not early relatives of modern placental mammals, despite having teeth that seemed to suggest they were. Instead, the rabbi",
-      "category": "Science",
+      "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
+      "summary": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilometers beneath our feet.",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
       "impact": 4
     }
   ]
