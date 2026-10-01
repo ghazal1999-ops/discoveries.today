@@ -1,7 +1,15 @@
 {
-  "date": "2026-09-30",
-  "last_updated": "2026-09-30 01:44 UTC",
+  "date": "2026-10-01",
+  "last_updated": "2026-10-01 01:42 UTC",
   "items": [
+    {
+      "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
+      "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communicati",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
+      "impact": 5
+    },
     {
       "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
       "summary": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for organic compounds and ",
@@ -11,35 +19,27 @@
       "impact": 4
     },
     {
-      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although research",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists expected these Galápagos sea turtles to wander. They stayed put",
-      "summary": "Yellow-morph green sea turtles in the Galápagos surprised scientists by staying remarkably close to home instead of making the long journeys typically associated with sea turtles. Satellite tracking showed that none left the marine reserve during the study, revealing just how important the islands’ ",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260927225032.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists just discovered what coffee really does to your gut and brain",
-      "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated",
+      "title": "Creatine may help build muscle even without exercise, researchers find",
+      "summary": "Creatine helped middle-aged adults gain muscle and strength even without a structured workout program in a new 12-week study. When combined with exercise and a calorie-reduced diet, it produced even greater strength gains while helping participants add lean tissue and lose fat. Researchers say the r",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
       "impact": 4
     },
     {
-      "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
-      "summary": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle, revealing a surprisingly dynamic world thousands of kilometers beneath our feet.",
-      "category": "Space",
+      "title": "Cannabis users were twice as likely to commit violence, review finds",
+      "summary": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but does not prove cannabis itself is the cause.",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm",
+      "impact": 4
+    },
+    {
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "category": "Climate",
+      "source": "bbc.co.uk",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
       "impact": 4
     }
   ]
