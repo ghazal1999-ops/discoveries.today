@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-03",
-  "last_updated": "2026-10-03 01:34 UTC",
+  "date": "2026-10-04",
+  "last_updated": "2026-10-04 02:15 UTC",
   "items": [
     {
-      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits ",
-      "category": "Physics",
+      "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
+      "summary": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the Cajon Pass junction may be increasingly primed for a rupture that could cross both ",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "impact": 5
-    },
-    {
-      "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
-      "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communicati",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
-      "impact": 5
-    },
-    {
-      "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
-      "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.&#160; In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Se",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
       "impact": 4
     },
     {
-      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
-      "summary": "The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in experiments, revealing promising new targets for Alzheimer’s, Parkinson’s, and other neurodegenerative dis",
+      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+      "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammati",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
       "impact": 4
     },
     {
-      "title": "This giant stick insect fooled scientists for decades",
-      "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick insect had been misidentified for decades, showing how much biodiversity may still b",
-      "category": "AI & Tech",
+      "title": "Scientists just made a superconductor stronger using “empty space”",
+      "summary": "Researchers have demonstrated that quantum fluctuations in supposedly empty space can strengthen superconductivity, raising the transition temperature of an ultrathin material by as much as 5.4%. The discovery opens the possibility of using specially engineered vacuum environments to control quantum",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+      "impact": 4
+    },
+    {
+      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+      "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron can preserve a stable magnetic signal, potentially acting like a microscopic fossi",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+      "impact": 4
+    },
+    {
+      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+      "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased its speed by 3.5 km/s, while also giving scientists a rare chance to test its ins",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
       "impact": 4
     }
   ]
