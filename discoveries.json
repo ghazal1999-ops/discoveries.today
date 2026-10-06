@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-05",
-  "last_updated": "2026-10-05 01:25 UTC",
+  "date": "2026-10-06",
+  "last_updated": "2026-10-06 02:35 UTC",
   "items": [
     {
       "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
@@ -35,11 +35,11 @@
       "impact": 4
     },
     {
-      "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
-      "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.&#160; In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Se",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
+      "title": "The “glue” holding your cells together has a surprising second job",
+      "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lowe",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
       "impact": 4
     }
   ]
