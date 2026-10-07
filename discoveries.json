@@ -1,22 +1,14 @@
 {
-  "date": "2026-10-06",
-  "last_updated": "2026-10-06 02:35 UTC",
+  "date": "2026-10-07",
+  "last_updated": "2026-10-07 01:54 UTC",
   "items": [
     {
-      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
-      "summary": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of the mysterious Ordovician bombardment once linked to a possible ring of debris ",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
-      "impact": 5
-    },
-    {
-      "title": "Diet drinks work as well as water for weight loss, major trial finds",
-      "summary": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or sucralose lost a simila",
+      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee r",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
-      "impact": 5
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+      "impact": 4
     },
     {
       "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
@@ -27,19 +19,27 @@
       "impact": 4
     },
     {
-      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
-      "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammati",
-      "category": "Medicine",
+      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
+      "summary": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind rippl",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
       "impact": 4
     },
     {
-      "title": "The “glue” holding your cells together has a surprising second job",
-      "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lowe",
-      "category": "AI & Tech",
+      "title": "Scientists finally see how nature moves energy so efficiently",
+      "summary": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are closely linked to the rearrangement of surrounding water molecules. Because similar reactions drive photo",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
+      "impact": 4
+    },
+    {
+      "title": "This mysterious hole on the Moon may open into a giant cave",
+      "summary": "NASA has selected the GIMLI project to investigate whether the Marius Hill Pit opens into a vast underground cave or lava tube. Using radar, seismic sensors, gravity measurements, and cameras, researchers will search beneath the lunar surface and estimate the size of any hidden void. Such caves coul",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
       "impact": 4
     }
   ]
