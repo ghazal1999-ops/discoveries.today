@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-08",
-  "last_updated": "2026-10-08 02:21 UTC",
+  "date": "2026-10-09",
+  "last_updated": "2026-10-09 02:39 UTC",
   "items": [
     {
-      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee r",
+      "title": "Stanford scientists turn a cancer driver into a kill switch",
+      "summary": "A Stanford-designed molecule turns a major lymphoma-promoting protein against cancer cells, activating their own self-destruct machinery instead of simply blocking tumor growth. In mice, the treatment completely eliminated aggressive human lymphoma tumors within 11 days, although much more testing i",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
+      "impact": 5
     },
     {
-      "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
-      "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing drugs for conditions including traumatic brain injury, Alzheimer’",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-      "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dus",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists changed how zoo lions eat. Their wild side came out",
-      "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasti",
+      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
+      "summary": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
       "category": "Science",
+      "source": "bbc.co.uk",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
+      "impact": 5
+    },
+    {
+      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+      "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
       "impact": 4
     },
     {
-      "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-      "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in",
+      "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
+      "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies ",
       "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
+      "impact": 4
+    },
+    {
+      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
+      "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million years ago, supporting evidence that the species appeared in southern Africa roughl",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
       "impact": 4
     }
   ]
