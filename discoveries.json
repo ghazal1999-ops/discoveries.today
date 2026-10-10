@@ -1,21 +1,21 @@
 {
-  "date": "2026-10-09",
-  "last_updated": "2026-10-09 02:39 UTC",
+  "date": "2026-10-10",
+  "last_updated": "2026-10-10 01:59 UTC",
   "items": [
     {
-      "title": "Stanford scientists turn a cancer driver into a kill switch",
-      "summary": "A Stanford-designed molecule turns a major lymphoma-promoting protein against cancer cells, activating their own self-destruct machinery instead of simply blocking tumor growth. In mice, the treatment completely eliminated aggressive human lymphoma tumors within 11 days, although much more testing i",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
+      "title": "Hurricane Isaias strengthens to a major category three storm",
+      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
+      "category": "AI & Tech",
+      "source": "bbc.co.uk",
+      "source_url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
       "impact": 5
     },
     {
-      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
-      "summary": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
-      "category": "Science",
+      "title": "Isaias becomes major category three storm before landfall",
+      "summary": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+      "category": "AI & Tech",
       "source": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
       "impact": 5
     },
     {
@@ -27,11 +27,11 @@
       "impact": 4
     },
     {
-      "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
-      "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies ",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
+      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+      "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to he",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
       "impact": 4
     },
     {
