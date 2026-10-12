@@ -1,22 +1,30 @@
 {
-  "date": "2026-10-11",
-  "last_updated": "2026-10-11 01:24 UTC",
+  "date": "2026-10-12",
+  "last_updated": "2026-10-12 01:55 UTC",
   "items": [
     {
-      "title": "Hurricane Isaias strengthens to a major category three storm",
-      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-      "category": "AI & Tech",
-      "source": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+      "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium ato",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
       "impact": 5
     },
     {
-      "title": "Isaias becomes major category three storm before landfall",
-      "summary": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
-      "category": "AI & Tech",
-      "source": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
+      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+      "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infect",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
       "impact": 5
+    },
+    {
+      "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
+      "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body, the seed-sized technology has shown promising results in ear",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
+      "impact": 4
     },
     {
       "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
@@ -27,19 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
-      "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to he",
-      "category": "Physics",
+      "title": "The eye has a hidden cleanup system scientists never knew existed",
+      "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
-      "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million years ago, supporting evidence that the species appeared in southern Africa roughl",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
       "impact": 4
     }
   ]
