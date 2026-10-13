@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12",
-  "last_updated": "2026-10-12 01:55 UTC",
+  "date": "2026-10-13",
+  "last_updated": "2026-10-13 03:16 UTC",
   "items": [
     {
       "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
@@ -11,35 +11,35 @@
       "impact": 5
     },
     {
-      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
-      "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infect",
+      "title": "Scientists make stunning discovery that could help explain why life exists",
+      "summary": "Scientists have discovered that the universe's fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential biological processes, potentially preventing life as we know it. Surprisingly, these",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists discover why a 100-year-old mushroom disease won't go away",
+      "summary": "Scientists have uncovered a surprising secret behind a mushroom disease that has frustrated growers for more than a century: It involves more than 17 species of harmful bacteria, not just one. The discovery could explain why treatments have struggled to stop the disease and open the door to more eff",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
-      "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body, the seed-sized technology has shown promising results in ear",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
       "impact": 4
     },
     {
-      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-      "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise",
-      "category": "Biology",
+      "title": "The hidden math of Alzheimer's could point to new treatments",
+      "summary": "Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the disease, while also exploring possible ways to stop the process. The findings could h",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm",
       "impact": 4
     },
     {
-      "title": "The eye has a hidden cleanup system scientists never knew existed",
-      "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
+      "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
+      "summary": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who exercised more frequently experienced more deep, restorative sleep, which is essential for brain recovery, memory, and emotional well-being. Surprisingly,",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
       "impact": 4
     }
   ]
