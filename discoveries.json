@@ -1,7 +1,23 @@
 {
-  "date": "2026-10-14",
-  "last_updated": "2026-10-14 01:28 UTC",
+  "date": "2026-10-15",
+  "last_updated": "2026-10-15 01:06 UTC",
   "items": [
+    {
+      "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+      "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the legendary Titanoboa. Scientists believe its enormous body made it a slow-moving ambus",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+      "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 th",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+      "impact": 5
+    },
     {
       "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
       "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that cou",
@@ -11,35 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Scientists uncover the 2.3-billion-year-old secret that helped keep Earth habitable",
-      "summary": "Scientists may have solved a 2.3-billion-year-old mystery about how Earth maintained enough oxygen to support life. Ancient rocks reveal that phosphorus recycling in the oceans created a self-sustaining cycle that helped keep oxygen levels high, even as the planet underwent dramatic environmental ch",
-      "category": "Space",
+      "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+      "summary": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines. Researchers at Cornell University discovered that the brothers carried two altered copies of a gene linked to the rare connective tissue disorder, which can aff",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
       "impact": 4
     },
     {
-      "title": "Physicists discover “astonishing” property of light that defies expectations",
-      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left- and right-handed pa",
-      "category": "Space",
+      "title": "Scientists discover how harmful “zombie cells” hide from the immune system",
+      "summary": "Scientists have discovered a protein that may help harmful aging cells hide from the immune system, allowing them to accumulate and fuel age-related health problems. Blocking the protein in mice reduced these cells and inflammation while improving blood sugar regulation and strength, offering a prom",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
-      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum inter",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-      "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of measurements from mouse brains, researchers identified 539 distinct chemical zones,",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261013015800.htm",
       "impact": 4
     }
   ]
