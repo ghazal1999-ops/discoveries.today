@@ -1,7 +1,15 @@
 {
-  "date": "2026-10-15",
-  "last_updated": "2026-10-15 01:06 UTC",
+  "date": "2026-10-16",
+  "last_updated": "2026-10-16 00:54 UTC",
   "items": [
+    {
+      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+      "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once. The breakthrough could eventua",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
+      "impact": 5
+    },
     {
       "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
       "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the legendary Titanoboa. Scientists believe its enormous body made it a slow-moving ambus",
@@ -19,27 +27,19 @@
       "impact": 5
     },
     {
-      "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
-      "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that cou",
+      "title": "NASA Satellites Observe Historic 2026 El Niño",
+      "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatoria",
       "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-      "impact": 4
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
+      "impact": 5
     },
     {
-      "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
-      "summary": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines. Researchers at Cornell University discovered that the brothers carried two altered copies of a gene linked to the rare connective tissue disorder, which can aff",
-      "category": "Biology",
+      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+      "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover how harmful “zombie cells” hide from the immune system",
-      "summary": "Scientists have discovered a protein that may help harmful aging cells hide from the immune system, allowing them to accumulate and fuel age-related health problems. Blocking the protein in mice reduced these cells and inflammation while improving blood sugar regulation and strength, offering a prom",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261013015800.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
       "impact": 4
     }
   ]
