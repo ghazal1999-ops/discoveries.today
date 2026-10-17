@@ -1,31 +1,7 @@
 {
-  "date": "2026-10-16",
-  "last_updated": "2026-10-16 00:54 UTC",
+  "date": "2026-10-17",
+  "last_updated": "2026-10-17 00:54 UTC",
   "items": [
-    {
-      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
-      "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once. The breakthrough could eventua",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
-      "impact": 5
-    },
-    {
-      "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
-      "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the legendary Titanoboa. Scientists believe its enormous body made it a slow-moving ambus",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
-      "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 th",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
-      "impact": 5
-    },
     {
       "title": "NASA Satellites Observe Historic 2026 El Niño",
       "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatoria",
@@ -40,6 +16,30 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+      "impact": 4
+    },
+    {
+      "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
+      "summary": "USC scientists have discovered a way to create a potentially renewable supply of genetically engineered immune cells that can attack cancer and strengthen the body's natural defenses. By growing and modifying immature immune cells rather than mature ones, researchers developed a system that can cont",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+      "impact": 4
+    },
+    {
+      "title": "Yale scientists discover how stress changes the brain to make memories stronger",
+      "summary": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories. The discovery reveals that stress can reshape communication between brain networks involved in emotion and memory, potentially explaining why certain mome",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
+      "impact": 4
+    },
+    {
+      "title": "A quantum highway just one atom high could transform superconductors",
+      "summary": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This remarkable control over quantum motion could lead to a new generation of ultra-efficient superconducti",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
       "impact": 4
     }
   ]
