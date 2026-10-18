@@ -1,7 +1,15 @@
 {
-  "date": "2026-10-17",
-  "last_updated": "2026-10-17 00:54 UTC",
+  "date": "2026-10-18",
+  "last_updated": "2026-10-18 00:30 UTC",
   "items": [
+    {
+      "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+      "summary": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+      "impact": 5
+    },
     {
       "title": "NASA Satellites Observe Historic 2026 El Niño",
       "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatoria",
@@ -11,35 +19,27 @@
       "impact": 5
     },
     {
-      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-      "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain",
+      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+      "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatmen",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+      "impact": 4
+    },
+    {
+      "title": "SpaceX just delivered some very strange cargo to the International Space Station",
+      "summary": "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space. Scientists hope these experiments could unlock new ways to treat devastating brain diseases, restore eyesight",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
+      "summary": "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unravel",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
-      "impact": 4
-    },
-    {
-      "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
-      "summary": "USC scientists have discovered a way to create a potentially renewable supply of genetically engineered immune cells that can attack cancer and strengthen the body's natural defenses. By growing and modifying immature immune cells rather than mature ones, researchers developed a system that can cont",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
-      "impact": 4
-    },
-    {
-      "title": "Yale scientists discover how stress changes the brain to make memories stronger",
-      "summary": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories. The discovery reveals that stress can reshape communication between brain networks involved in emotion and memory, potentially explaining why certain mome",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
-      "impact": 4
-    },
-    {
-      "title": "A quantum highway just one atom high could transform superconductors",
-      "summary": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This remarkable control over quantum motion could lead to a new generation of ultra-efficient superconducti",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
       "impact": 4
     }
   ]
