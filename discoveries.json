@@ -1,13 +1,21 @@
 {
-  "date": "2026-10-18",
-  "last_updated": "2026-10-18 00:30 UTC",
+  "date": "2026-10-19",
+  "last_updated": "2026-10-19 00:36 UTC",
   "items": [
     {
-      "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
-      "summary": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather",
-      "category": "Space",
+      "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
+      "summary": "A catastrophic volcanic eruption 7,300 years ago devastated Japan, but new research reveals that its impact on prehistoric populations was far more complex than previously believed. While some communities disappeared or declined, others unexpectedly flourished as survivors migrated, adapted, and fou",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
+      "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a cruc",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
       "impact": 5
     },
     {
@@ -19,27 +27,19 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
-      "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatmen",
-      "category": "Medicine",
+      "title": "Scientists who discovered a third form of magnetism win major physics prize",
+      "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "impact": 5
     },
     {
-      "title": "SpaceX just delivered some very strange cargo to the International Space Station",
-      "summary": "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space. Scientists hope these experiments could unlock new ways to treat devastating brain diseases, restore eyesight",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
-      "summary": "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unravel",
+      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+      "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had low",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
       "impact": 4
     }
   ]
