@@ -1,29 +1,21 @@
 {
-  "date": "2026-10-19",
-  "last_updated": "2026-10-19 00:36 UTC",
+  "date": "2026-10-20",
+  "last_updated": "2026-10-20 01:21 UTC",
   "items": [
     {
-      "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
-      "summary": "A catastrophic volcanic eruption 7,300 years ago devastated Japan, but new research reveals that its impact on prehistoric populations was far more complex than previously believed. While some communities disappeared or declined, others unexpectedly flourished as survivors migrated, adapted, and fou",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
-      "impact": 5
-    },
-    {
-      "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
-      "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a cruc",
+      "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
+      "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "impact": 5
     },
     {
-      "title": "NASA Satellites Observe Historic 2026 El Niño",
-      "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatoria",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
+      "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+      "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
       "impact": 5
     },
     {
@@ -35,11 +27,19 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-      "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had low",
+      "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
+      "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new ",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
+      "impact": 4
+    },
+    {
+      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+      "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic qua",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
       "impact": 4
     }
   ]
