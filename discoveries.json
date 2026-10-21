@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-20",
-  "last_updated": "2026-10-20 01:21 UTC",
+  "date": "2026-10-21",
+  "last_updated": "2026-10-21 01:08 UTC",
   "items": [
     {
-      "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
-      "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
-      "category": "Medicine",
+      "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
+      "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision. Using one of the world’s most powerful telescopes, an international team studied 15 remarka",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
       "impact": 5
     },
     {
-      "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
-      "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
+      "title": "Scientists reach the ultimate quantum limit on a surface",
+      "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technol",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
       "impact": 5
     },
     {
-      "title": "Scientists who discovered a third form of magnetism win major physics prize",
-      "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-      "impact": 5
-    },
-    {
-      "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
-      "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new ",
+      "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
+      "summary": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
       "impact": 4
     },
     {
-      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-      "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic qua",
-      "category": "Physics",
+      "title": "Scientists discover a surprising link between vitamin C and cancer survival",
+      "summary": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
+      "impact": 4
+    },
+    {
+      "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
+      "summary": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like anim",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
       "impact": 4
     }
   ]
