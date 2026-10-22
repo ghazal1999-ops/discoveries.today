@@ -1,7 +1,15 @@
 {
-  "date": "2026-10-21",
-  "last_updated": "2026-10-21 01:08 UTC",
+  "date": "2026-10-22",
+  "last_updated": "2026-10-22 01:05 UTC",
   "items": [
+    {
+      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
+      "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better u",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
+      "impact": 5
+    },
     {
       "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
       "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision. Using one of the world’s most powerful telescopes, an international team studied 15 remarka",
@@ -11,35 +19,27 @@
       "impact": 5
     },
     {
-      "title": "Scientists reach the ultimate quantum limit on a surface",
-      "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technol",
-      "category": "AI & Tech",
+      "title": "Astronauts’ hearts just passed a surprising test for Mars",
+      "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
       "impact": 5
     },
     {
-      "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
-      "summary": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein",
+      "title": "Tracks Along the Longest Drive on Another World",
+      "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for ",
+      "category": "Space",
+      "source": "science.nasa.gov",
+      "source_url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+      "impact": 5
+    },
+    {
+      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+      "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain ",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover a surprising link between vitamin C and cancer survival",
-      "summary": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
-      "summary": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like anim",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
       "impact": 4
     }
   ]
