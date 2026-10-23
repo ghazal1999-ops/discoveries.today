@@ -1,29 +1,13 @@
 {
-  "date": "2026-10-22",
-  "last_updated": "2026-10-22 01:05 UTC",
+  "date": "2026-10-23",
+  "last_updated": "2026-10-23 01:06 UTC",
   "items": [
     {
-      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-      "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better u",
-      "category": "Medicine",
+      "title": "A revolutionary new microscope could reveal the hidden machinery of life",
+      "summary": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing scientists to examine small proteins that conventional electron microscopes strugg",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
-      "impact": 5
-    },
-    {
-      "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
-      "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision. Using one of the world’s most powerful telescopes, an international team studied 15 remarka",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
-      "impact": 5
-    },
-    {
-      "title": "Astronauts’ hearts just passed a surprising test for Mars",
-      "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
       "impact": 5
     },
     {
@@ -35,11 +19,27 @@
       "impact": 5
     },
     {
+      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help id",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "impact": 4
+    },
+    {
       "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
       "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain ",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
+      "summary": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
       "impact": 4
     }
   ]
