@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-23",
-  "last_updated": "2026-10-23 01:06 UTC",
+  "date": "2026-10-24",
+  "last_updated": "2026-10-24 01:14 UTC",
   "items": [
     {
-      "title": "A revolutionary new microscope could reveal the hidden machinery of life",
-      "summary": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing scientists to examine small proteins that conventional electron microscopes strugg",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
-      "impact": 5
-    },
-    {
-      "title": "Tracks Along the Longest Drive on Another World",
-      "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for ",
-      "category": "Space",
-      "source": "science.nasa.gov",
-      "source_url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-      "impact": 5
-    },
-    {
-      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-      "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help id",
+      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+      "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+      "impact": 5
+    },
+    {
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose,",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
       "impact": 4
     },
     {
-      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
-      "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain ",
+      "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+      "summary": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer ",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+      "impact": 4
+    },
+    {
+      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
+      "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to n",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
+      "impact": 4
+    },
+    {
+      "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
+      "summary": "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy. Using powerful X-rays, scientists discovered that some of these particles have remained surprisingly stable, trapping radioactive substances inside instead of releasing them in",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
-      "impact": 4
-    },
-    {
-      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-      "summary": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
       "impact": 4
     }
   ]
