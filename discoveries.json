@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-24",
-  "last_updated": "2026-10-24 01:14 UTC",
+  "date": "2026-10-25",
+  "last_updated": "2026-10-25 00:41 UTC",
   "items": [
     {
-      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
-      "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise",
-      "category": "Medicine",
+      "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
+      "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approa",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
       "impact": 5
     },
     {
-      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
-      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose,",
-      "category": "Medicine",
+      "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
+      "summary": "Scientists have proposed a way to detect “mirror life,” a hypothetical form of life that could pose serious risks to humans, animals, and ecosystems if artificially created. Using special fluorescent molecules and a type of polarized light also used in 3D movie technology, researchers believe they c",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
       "impact": 4
     },
     {
-      "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
-      "summary": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer ",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
-      "impact": 4
-    },
-    {
-      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-      "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to n",
-      "category": "Biology",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
-      "impact": 4
-    },
-    {
-      "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
-      "summary": "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy. Using powerful X-rays, scientists discovered that some of these particles have remained surprisingly stable, trapping radioactive substances inside instead of releasing them in",
+      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+      "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "impact": 4
+    },
+    {
+      "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
+      "summary": "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the earliest known example of flight loss in birds, overturning assumptions about how th",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
+      "impact": 4
+    },
+    {
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jaw",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
       "impact": 4
     }
   ]
