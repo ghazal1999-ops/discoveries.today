@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-25",
-  "last_updated": "2026-10-25 00:41 UTC",
+  "date": "2026-10-26",
+  "last_updated": "2026-10-26 00:52 UTC",
   "items": [
     {
-      "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
-      "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approa",
-      "category": "AI & Tech",
+      "title": "Astronomers may have discovered the first moon beyond our Solar System",
+      "summary": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement chall",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
       "impact": 5
     },
     {
-      "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
-      "summary": "Scientists have proposed a way to detect “mirror life,” a hypothetical form of life that could pose serious risks to humans, animals, and ecosystems if artificially created. Using special fluorescent molecules and a type of polarized light also used in 3D movie technology, researchers believe they c",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
-      "impact": 4
-    },
-    {
-      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-      "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient",
+      "title": "New evidence suggests spinosaurus spent most of its life underwater",
+      "summary": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their f",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "summary": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discovery challenges decades of scientific assu",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
       "impact": 4
     },
     {
-      "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
-      "summary": "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the earliest known example of flight loss in birds, overturning assumptions about how th",
-      "category": "Science",
+      "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+      "summary": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease.",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
       "impact": 4
     },
     {
-      "title": "Dental implants can hijack your immune system, scientists discover",
-      "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jaw",
-      "category": "Biology",
+      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+      "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The disc",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
       "impact": 4
     }
   ]
