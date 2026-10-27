@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-26",
-  "last_updated": "2026-10-26 00:52 UTC",
+  "date": "2026-10-27",
+  "last_updated": "2026-10-27 01:43 UTC",
   "items": [
     {
-      "title": "Astronomers may have discovered the first moon beyond our Solar System",
-      "summary": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement chall",
-      "category": "Space",
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
       "impact": 5
     },
     {
@@ -19,11 +19,19 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
-      "summary": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discovery challenges decades of scientific assu",
+      "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+      "summary": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, raising intriguing questions about",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+      "impact": 4
+    },
+    {
+      "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+      "summary": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 7",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
       "impact": 4
     },
     {
@@ -32,14 +40,6 @@
       "category": "Medicine",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-      "impact": 4
-    },
-    {
-      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-      "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The disc",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
       "impact": 4
     }
   ]
