@@ -1,29 +1,21 @@
 {
-  "date": "2026-10-27",
-  "last_updated": "2026-10-27 01:43 UTC",
+  "date": "2026-10-28",
+  "last_updated": "2026-10-28 01:55 UTC",
   "items": [
     {
-      "title": "Tiny magnetic vortices could help computers work more like your brain",
-      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy",
-      "category": "AI & Tech",
+      "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+      "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way ",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
       "impact": 5
     },
     {
-      "title": "New evidence suggests spinosaurus spent most of its life underwater",
-      "summary": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their f",
-      "category": "AI & Tech",
+      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+      "summary": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark ma",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
-      "impact": 5
-    },
-    {
-      "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
-      "summary": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, raising intriguing questions about",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
       "impact": 4
     },
     {
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-      "summary": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease.",
+      "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+      "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but their",
       "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
+      "impact": 4
+    },
+    {
+      "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
+      "summary": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and identify new strategies for targeting them, including a natural compound found in to",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
       "impact": 4
     }
   ]
