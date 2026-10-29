@@ -1,13 +1,21 @@
 {
-  "date": "2026-10-28",
-  "last_updated": "2026-10-28 01:55 UTC",
+  "date": "2026-10-29",
+  "last_updated": "2026-10-29 02:00 UTC",
   "items": [
     {
-      "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
-      "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the way ",
-      "category": "Medicine",
+      "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
+      "summary": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these mobile genetic elements coincided with the rise of major ant groups and may have he",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
+      "impact": 5
+    },
+    {
+      "title": "The autistic brain processes faces differently than scientists thought",
+      "summary": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but sho",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
       "impact": 5
     },
     {
@@ -19,27 +27,19 @@
       "impact": 4
     },
     {
-      "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
-      "summary": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 7",
-      "category": "AI & Tech",
+      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+      "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for futu",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
       "impact": 4
     },
     {
-      "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
-      "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but their",
-      "category": "Medicine",
+      "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
+      "summary": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the Northern Hemisphere, they cooled Atlantic Ocean waters that eventually traveled south",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-      "impact": 4
-    },
-    {
-      "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
-      "summary": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and identify new strategies for targeting them, including a natural compound found in to",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
       "impact": 4
     }
   ]
