@@ -1,13 +1,21 @@
 {
-  "date": "2026-10-29",
-  "last_updated": "2026-10-29 02:00 UTC",
+  "date": "2026-10-30",
+  "last_updated": "2026-10-30 02:16 UTC",
   "items": [
     {
-      "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
-      "summary": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these mobile genetic elements coincided with the rise of major ant groups and may have he",
+      "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
+      "summary": "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in northern Israel alongside ancient stone tools, the tooth belonged to a straight-tusked elephant, one of t",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
+      "impact": 5
+    },
+    {
+      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+      "summary": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves pr",
       "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
       "impact": 5
     },
     {
@@ -19,27 +27,19 @@
       "impact": 5
     },
     {
-      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
-      "summary": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark ma",
-      "category": "Space",
+      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
+      "summary": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms an",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
       "impact": 4
     },
     {
-      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-      "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for futu",
-      "category": "Space",
+      "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
+      "summary": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with longer exposure to bright light linked to even greater reducti",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-      "impact": 4
-    },
-    {
-      "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-      "summary": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the Northern Hemisphere, they cooled Atlantic Ocean waters that eventually traveled south",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
       "impact": 4
     }
   ]
