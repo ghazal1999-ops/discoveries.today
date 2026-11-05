@@ -1,7 +1,23 @@
 {
-  "date": "2026-11-04",
-  "last_updated": "2026-11-04 02:49 UTC",
+  "date": "2026-11-05",
+  "last_updated": "2026-11-05 02:57 UTC",
   "items": [
+    {
+      "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+      "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and app",
+      "category": "Medicine",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+      "impact": 5
+    },
+    {
+      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+      "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional ma",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+      "impact": 5
+    },
     {
       "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
       "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far m",
@@ -19,27 +35,11 @@
       "impact": 5
     },
     {
-      "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-      "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that ",
-      "category": "Medicine",
+      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+      "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
-      "impact": 4
-    },
-    {
-      "title": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
-      "summary": "Scientists at CERN's Large Hadron Collider have uncovered compelling new evidence that even relatively small atomic collisions can recreate the extraordinary state of matter that filled the universe moments after the Big Bang. Known as quark-gluon plasma, this exotic substance forms at temperatures ",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
-      "impact": 4
-    },
-    {
-      "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
-      "summary": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecu",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
       "impact": 4
     }
   ]
