@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "last_updated": "2026-11-05 02:57 UTC",
+  "date": "2026-11-06",
+  "last_updated": "2026-11-06 02:57 UTC",
   "items": [
     {
       "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
@@ -19,6 +19,14 @@
       "impact": 5
     },
     {
+      "title": "Scientists discover that a clogged filter could revolutionize oil refining",
+      "summary": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentia",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+      "impact": 5
+    },
+    {
       "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
       "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far m",
       "category": "Space",
@@ -33,14 +41,6 @@
       "source": "bbc.co.uk",
       "source_url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
       "impact": 5
-    },
-    {
-      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
-      "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
-      "impact": 4
     }
   ]
 }
