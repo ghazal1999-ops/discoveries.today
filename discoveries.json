@@ -1,23 +1,7 @@
 {
-  "date": "2026-11-10",
-  "last_updated": "2026-11-10 04:25 UTC",
+  "date": "2026-11-11",
+  "last_updated": "2026-11-11 02:24 UTC",
   "items": [
-    {
-      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-      "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached ext",
-      "category": "Climate",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "impact": 5
-    },
-    {
-      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's tech",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "impact": 5
-    },
     {
       "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
       "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful a",
@@ -27,19 +11,35 @@
       "impact": 5
     },
     {
-      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the ol",
-      "category": "Science",
+      "title": "Astronomers discover hidden alien planet in James Webb images",
+      "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to d",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodent",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
       "impact": 4
     },
     {
-      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-      "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection ef",
-      "category": "Science",
+      "title": "Why heart attacks can still happen even when bad cholesterol is low",
+      "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond choleste",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+      "impact": 4
+    },
+    {
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a pe",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
       "impact": 4
     }
   ]
