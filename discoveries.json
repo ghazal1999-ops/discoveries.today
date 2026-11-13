@@ -1,7 +1,15 @@
 {
-  "date": "2026-11-12",
-  "last_updated": "2026-11-12 03:29 UTC",
+  "date": "2026-11-13",
+  "last_updated": "2026-11-13 03:02 UTC",
   "items": [
+    {
+      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the dist",
+      "category": "Biology",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+      "impact": 5
+    },
     {
       "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
       "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone laye",
@@ -11,35 +19,27 @@
       "impact": 5
     },
     {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology coul",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "impact": 5
+    },
+    {
+      "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+      "summary": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetic",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+      "impact": 4
+    },
+    {
       "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
       "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodent",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-      "impact": 4
-    },
-    {
-      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-      "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potenti",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
-      "summary": "A bizarrely deformed 1834 British silver coin found at a car boot sale may preserve evidence of a rare minting accident nearly 200 years ago. Advanced 3D scans and microscopic analysis revealed unusual metal distortions suggesting the coin was crushed under extreme pressure, potentially during its o",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
-      "impact": 4
-    },
-    {
-      "title": "Why heart attacks can still happen even when bad cholesterol is low",
-      "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond choleste",
-      "category": "Medicine",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
       "impact": 4
     }
   ]
