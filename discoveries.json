@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "last_updated": "2026-11-13 03:02 UTC",
+  "date": "2026-11-14",
+  "last_updated": "2026-11-14 02:48 UTC",
   "items": [
     {
       "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
@@ -8,14 +8,6 @@
       "category": "Biology",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-      "impact": 5
-    },
-    {
-      "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
-      "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone laye",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
       "impact": 5
     },
     {
@@ -27,19 +19,27 @@
       "impact": 5
     },
     {
+      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulner",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+      "impact": 4
+    },
+    {
+      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+      "summary": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, p",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+      "impact": 4
+    },
+    {
       "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
       "summary": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetic",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodent",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
       "impact": 4
     }
   ]
