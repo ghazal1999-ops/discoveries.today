@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-15",
-  "last_updated": "2026-11-15 02:17 UTC",
+  "date": "2026-11-16",
+  "last_updated": "2026-11-16 02:29 UTC",
   "items": [
     {
-      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the dist",
-      "category": "Biology",
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to on",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
       "impact": 5
     },
     {
-      "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-      "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, ligh",
-      "category": "Biology",
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of pr",
+      "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
       "impact": 5
     },
     {
-      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hope",
-      "category": "AI & Tech",
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "impact": 5
     },
     {
-      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulner",
+      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrie",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+      "impact": 5
     },
     {
-      "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
-      "summary": "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed. The findings supp",
-      "category": "Science",
+      "title": "A simple supplement could help your immune system fight cancer and viral infections",
+      "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing argin",
+      "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
       "impact": 4
     }
   ]
