@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-16",
-  "last_updated": "2026-11-16 02:29 UTC",
+  "date": "2026-11-17",
+  "last_updated": "2026-11-17 04:53 UTC",
   "items": [
     {
       "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
@@ -11,35 +11,35 @@
       "impact": 5
     },
     {
-      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
-      "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of pr",
+      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+      "summary": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way for more reliable quantum memory, although researchers are still trying to understand",
       "category": "Physics",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
       "impact": 5
     },
     {
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-      "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
-      "category": "Medicine",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against ",
+      "category": "Space",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
       "impact": 5
     },
     {
-      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
-      "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrie",
+      "title": "Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
+      "summary": "Deep beneath the Pacific Ocean, scientists have discovered tiny hidden ecosystems inside metal-rich rocks that take millions of years to form. Researchers examined 244 nodules and found more than 4,100 animals living in their cracks and cavities, including unique communities unlike those in the surr",
+      "category": "Climate",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
+      "impact": 4
+    },
+    {
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possib",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
-      "impact": 5
-    },
-    {
-      "title": "A simple supplement could help your immune system fight cancer and viral infections",
-      "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing argin",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
       "impact": 4
     }
   ]
