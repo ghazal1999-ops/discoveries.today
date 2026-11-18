@@ -1,23 +1,7 @@
 {
-  "date": "2026-11-17",
-  "last_updated": "2026-11-17 04:53 UTC",
+  "date": "2026-11-18",
+  "last_updated": "2026-11-18 03:57 UTC",
   "items": [
-    {
-      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-      "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to on",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-      "impact": 5
-    },
-    {
-      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
-      "summary": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way for more reliable quantum memory, although researchers are still trying to understand",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
-      "impact": 5
-    },
     {
       "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
       "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against ",
@@ -27,11 +11,11 @@
       "impact": 5
     },
     {
-      "title": "Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
-      "summary": "Deep beneath the Pacific Ocean, scientists have discovered tiny hidden ecosystems inside metal-rich rocks that take millions of years to form. Researchers examined 244 nodules and found more than 4,100 animals living in their cracks and cavities, including unique communities unlike those in the surr",
-      "category": "Climate",
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time t",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
       "impact": 4
     },
     {
@@ -40,6 +24,22 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+      "impact": 4
+    },
+    {
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "summary": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whe",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
+      "impact": 4
+    },
+    {
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to mo",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
       "impact": 4
     }
   ]
