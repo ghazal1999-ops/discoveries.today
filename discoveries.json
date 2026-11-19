@@ -1,7 +1,15 @@
 {
-  "date": "2026-11-18",
-  "last_updated": "2026-11-18 03:57 UTC",
+  "date": "2026-11-19",
+  "last_updated": "2026-11-19 03:54 UTC",
   "items": [
+    {
+      "title": "New discovery reveals what may be holding back room-temperature superconductors",
+      "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggestin",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+      "impact": 5
+    },
     {
       "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
       "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against ",
@@ -9,6 +17,14 @@
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
       "impact": 5
+    },
+    {
+      "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
+      "summary": "Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world. New research suggests that powerful currents deep inside the planet slowly raised and lowered entire continents, allowing erosion to erase vast stretches o",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+      "impact": 4
     },
     {
       "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
@@ -19,27 +35,11 @@
       "impact": 4
     },
     {
-      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possib",
+      "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
+      "summary": "Scientists discovered that although people with and without autism show surprisingly similar average brain activity, individuals with autism exhibit much greater differences from one another, especially in regions involved in social understanding. The findings suggest that traditional research metho",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
-      "impact": 4
-    },
-    {
-      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
-      "summary": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whe",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
-      "impact": 4
-    },
-    {
-      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
-      "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to mo",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
       "impact": 4
     }
   ]
