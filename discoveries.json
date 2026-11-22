@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-21",
-  "last_updated": "2026-11-21 03:38 UTC",
+  "date": "2026-11-22",
+  "last_updated": "2026-11-22 02:44 UTC",
   "items": [
     {
       "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
@@ -19,20 +19,12 @@
       "impact": 5
     },
     {
-      "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-      "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distort",
-      "category": "Science",
+      "title": "A 50-year-old theory about evolution may have been wrong all along",
+      "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies ma",
+      "category": "Biology",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-      "impact": 4
-    },
-    {
-      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially har",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-      "impact": 4
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+      "impact": 5
     },
     {
       "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
@@ -40,6 +32,14 @@
       "category": "Space",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+      "impact": 4
+    },
+    {
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our und",
+      "category": "Physics",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
       "impact": 4
     }
   ]
