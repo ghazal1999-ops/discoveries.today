@@ -1,15 +1,7 @@
 {
-  "date": "2026-11-22",
-  "last_updated": "2026-11-22 02:44 UTC",
+  "date": "2026-11-23",
+  "last_updated": "2026-11-23 03:22 UTC",
   "items": [
-    {
-      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-      "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unkno",
-      "category": "Physics",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-      "impact": 5
-    },
     {
       "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
       "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th",
@@ -19,11 +11,11 @@
       "impact": 5
     },
     {
-      "title": "A 50-year-old theory about evolution may have been wrong all along",
-      "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies ma",
-      "category": "Biology",
+      "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+      "summary": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found direct evidence that Einstein's theory of relativity changes how heavy atoms form triple bonds, causing normally distinct types of chemical bonds to blend together. ",
+      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
       "impact": 5
     },
     {
@@ -35,11 +27,19 @@
       "impact": 4
     },
     {
-      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our und",
-      "category": "Physics",
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+      "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long ",
+      "category": "Medicine",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+      "impact": 4
+    },
+    {
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
       "impact": 4
     }
   ]
