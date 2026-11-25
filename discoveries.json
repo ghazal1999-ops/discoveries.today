@@ -1,7 +1,15 @@
 {
-  "date": "2026-11-24",
-  "last_updated": "2026-11-24 06:35 UTC",
+  "date": "2026-11-25",
+  "last_updated": "2026-11-25 05:09 UTC",
   "items": [
+    {
+      "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
+      "summary": "Earth’s journey from an oxygen-starved world to a planet capable of supporting complex life may have unfolded very differently than scientists once believed. A new analysis suggests that oxygen accumulated in the atmosphere in three major stages, with the oceans taking millions or even hundreds of m",
+      "category": "Space",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
+      "impact": 5
+    },
     {
       "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
       "summary": "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Rome’s invasion of Britain in AD 43, was actually a woman. The discovery challenges centuries of historical assumptions and suggests that a largely forgotten female leader may have changed the course of",
@@ -11,19 +19,19 @@
       "impact": 5
     },
     {
-      "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
-      "summary": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found direct evidence that Einstein's theory of relativity changes how heavy atoms form triple bonds, causing normally distinct types of chemical bonds to blend together. ",
-      "category": "Science",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+      "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story",
+      "category": "Space",
+      "source": "nasa.gov",
+      "source_url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
       "impact": 5
     },
     {
-      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
-      "summary": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.&#160; Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilow",
+      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (",
       "category": "Space",
       "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+      "source_url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
       "impact": 5
     },
     {
@@ -32,14 +40,6 @@
       "category": "AI & Tech",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
-      "impact": 4
-    },
-    {
-      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-      "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
       "impact": 4
     }
   ]
