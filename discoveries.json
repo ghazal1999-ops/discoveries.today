@@ -1,21 +1,13 @@
 {
-  "date": "2026-11-25",
-  "last_updated": "2026-11-25 05:09 UTC",
+  "date": "2026-11-26",
+  "last_updated": "2026-11-26 04:36 UTC",
   "items": [
     {
-      "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
-      "summary": "Earth’s journey from an oxygen-starved world to a planet capable of supporting complex life may have unfolded very differently than scientists once believed. A new analysis suggests that oxygen accumulated in the atmosphere in three major stages, with the oceans taking millions or even hundreds of m",
-      "category": "Space",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
-      "impact": 5
-    },
-    {
-      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
-      "summary": "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Rome’s invasion of Britain in AD 43, was actually a woman. The discovery challenges centuries of historical assumptions and suggests that a largely forgotten female leader may have changed the course of",
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any ",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
       "impact": 5
     },
     {
@@ -35,11 +27,19 @@
       "impact": 5
     },
     {
-      "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
-      "summary": "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's, despite being only about the size of a quarter. Scientists discovered that its enormous genome contains 4.6 billion DNA base pairs and 52 chromosomes, revealing surprising clues about spider",
+      "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+      "summary": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi",
+      "category": "Science",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+      "impact": 4
+    },
+    {
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and though",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
       "impact": 4
     }
   ]
