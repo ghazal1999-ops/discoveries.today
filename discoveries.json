@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26",
-  "last_updated": "2026-11-26 04:36 UTC",
+  "date": "2026-11-27",
+  "last_updated": "2026-11-27 04:39 UTC",
   "items": [
     {
       "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
@@ -19,19 +19,19 @@
       "impact": 5
     },
     {
-      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-      "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (",
-      "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
-      "impact": 5
-    },
-    {
       "title": "Physicists just sent an unblockable message through a brick wall using gravity",
       "summary": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi",
       "category": "Science",
       "source": "sciencedaily.com",
       "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+      "impact": 4
+    },
+    {
+      "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
+      "summary": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are created as deeply buried cave systems slowly collapse upward over millions of years. The discovery co",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
       "impact": 4
     },
     {
