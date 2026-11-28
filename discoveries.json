@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-27",
-  "last_updated": "2026-11-27 04:39 UTC",
+  "date": "2026-11-28",
+  "last_updated": "2026-11-28 04:24 UTC",
   "items": [
     {
-      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-      "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any ",
+      "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+      "summary": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a maj",
       "category": "AI & Tech",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
       "impact": 5
     },
     {
-      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-      "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story",
+      "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+      "summary": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far fewer physical differences between males and females than scientists once believed. The discovery challenges a classic example of sexual dimorphism and raises questions about how historical biases have s",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
+      "impact": 5
+    },
+    {
+      "title": "For decades, scientists may have misunderstood how brain cells work",
+      "summary": "A major new study challenges a long-standing assumption about how the brain works, revealing that most neurons are versatile multitaskers rather than highly specialized workers. By analyzing recordings from 43 regions of the mouse brain, researchers discovered that although some neurons are dedicate",
+      "category": "AI & Tech",
+      "source": "sciencedaily.com",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+      "impact": 5
+    },
+    {
+      "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+      "summary": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker wor",
       "category": "Space",
-      "source": "nasa.gov",
-      "source_url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
-      "impact": 5
-    },
-    {
-      "title": "Physicists just sent an unblockable message through a brick wall using gravity",
-      "summary": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi",
-      "category": "Science",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
       "impact": 4
     },
     {
-      "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
-      "summary": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are created as deeply buried cave systems slowly collapse upward over millions of years. The discovery co",
-      "category": "AI & Tech",
+      "title": "Scientists discover signs of a hidden extinction crisis deep beneath the ocean",
+      "summary": "The deep sea has long been considered a safe haven for marine life, but new genetic research suggests a hidden biodiversity crisis may be unfolding far beneath the waves. Scientists analyzing more than a decade of genetic data from five species of deep-sea fish and shrimp in the Gulf discovered trou",
+      "category": "Climate",
       "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
-      "impact": 4
-    },
-    {
-      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
-      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and though",
-      "category": "AI & Tech",
-      "source": "sciencedaily.com",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm",
       "impact": 4
     }
   ]
